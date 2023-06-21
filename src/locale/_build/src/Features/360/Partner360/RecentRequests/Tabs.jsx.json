@@ -1,0 +1,18 @@
+{
+  "APPROVED": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/RecentRequests/Tabs.jsx",
+        134
+      ]
+    ]
+  },
+  "PENDING": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/RecentRequests/Tabs.jsx",
+        139
+      ]
+    ]
+  }
+}

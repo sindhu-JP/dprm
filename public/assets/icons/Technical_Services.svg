@@ -1,0 +1,94 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="27"
+  height="37"
+  viewBox="0 0 27 37"
+>
+  <g id="technical-services" transform="translate(0.5 0.5)">
+    <path
+      id="Path_37792"
+      data-name="Path 37792"
+      d="M5869.62,2839.485h11.669l7.924,9.035v20.5a3.435,3.435,0,0,1-3.406,3.462H5869.62a3.435,3.435,0,0,1-3.407-3.462v-26.076A3.435,3.435,0,0,1,5869.62,2839.485Z"
+      transform="translate(-5866.213 -2836.485)"
+      fill="none"
+      stroke="#57606f"
+      stroke-miterlimit="10"
+      stroke-width="1"
+    />
+    <rect
+      id="Rectangle_10458"
+      data-name="Rectangle 10458"
+      width="14.813"
+      height="16.113"
+      rx="1"
+      transform="translate(3.875 15.61)"
+      fill="none"
+      stroke="#57606f"
+      stroke-miterlimit="10"
+      stroke-width="1"
+    />
+    <path
+      id="Rectangle_10459"
+      data-name="Rectangle 10459"
+      d="M1,0h3.6a.332.332,0,0,1,.332.332V4.279a.332.332,0,0,1-.332.332H.332A.332.332,0,0,1,0,4.279V1A1,1,0,0,1,1,0Z"
+      transform="translate(3.875 15.598)"
+      fill="#d1d1d6"
+      stroke="#57606f"
+      stroke-miterlimit="10"
+      stroke-width="1"
+    />
+    <rect
+      id="Rectangle_10460"
+      data-name="Rectangle 10460"
+      width="4.938"
+      height="4.611"
+      transform="translate(8.813 15.598)"
+      fill="#d1d1d6"
+      stroke="#57606f"
+      stroke-miterlimit="10"
+      stroke-width="1"
+    />
+    <path
+      id="Rectangle_10461"
+      data-name="Rectangle 10461"
+      d="M0,0H3.94a1,1,0,0,1,1,1V4.611a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z"
+      transform="translate(13.75 15.598)"
+      fill="#d1d1d6"
+      stroke="#57606f"
+      stroke-miterlimit="10"
+      stroke-width="1"
+    />
+    <path
+      id="Rectangle_10462"
+      data-name="Rectangle 10462"
+      d="M0,0H4.938a0,0,0,0,1,0,0V4.611a0,0,0,0,1,0,0H1a1,1,0,0,1-1-1V0A0,0,0,0,1,0,0Z"
+      transform="translate(3.875 27.125)"
+      fill="#d1d1d6"
+      stroke="#57606f"
+      stroke-miterlimit="10"
+      stroke-width="1"
+    />
+    <rect
+      id="Rectangle_10463"
+      data-name="Rectangle 10463"
+      width="4.938"
+      height="4.611"
+      transform="translate(8.813 27.125)"
+      fill="#d1d1d6"
+      stroke="#57606f"
+      stroke-miterlimit="10"
+      stroke-width="1"
+    />
+    <path
+      id="Path_37793"
+      data-name="Path 37793"
+      d="M5871.511,2836.468h11.635l9.365,10.536v20.464"
+      transform="translate(-5866.511 -2836.468)"
+      fill="none"
+      stroke="#57606f"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="1"
+    />
+  </g>
+</svg>

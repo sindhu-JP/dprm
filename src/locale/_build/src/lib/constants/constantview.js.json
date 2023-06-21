@@ -1,0 +1,130 @@
+{
+  "Partner Details": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        23
+      ]
+    ]
+  },
+  "Tenant Details": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        36
+      ]
+    ]
+  },
+  "Product Details": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        49
+      ]
+    ]
+  },
+  "Tenants": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        63
+      ]
+    ]
+  },
+  "Products": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        75
+      ]
+    ]
+  },
+  "Contracts": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        88
+      ]
+    ]
+  },
+  "Requests": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        100
+      ]
+    ]
+  },
+  "Order Tracking": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        108
+      ]
+    ]
+  },
+  "Financials": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        120
+      ]
+    ]
+  },
+  "Users": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        133
+      ]
+    ]
+  },
+  "Partner Ticket": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        143
+      ]
+    ]
+  },
+  "Documents": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        150
+      ]
+    ]
+  },
+  "Home": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        168
+      ]
+    ]
+  },
+  "Customer Orders": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        183
+      ]
+    ]
+  },
+  "Group 360": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        193
+      ]
+    ]
+  },
+  "Back Office ": {
+    "origin": [
+      [
+        "src/lib/constants/constantview.js",
+        203
+      ]
+    ]
+  }
+}

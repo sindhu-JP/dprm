@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.783" height="48.309" viewBox="0 0 40.783 48.309">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.579" r="0.684" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9d233"/>
+      <stop offset="1" stop-color="#e2b728"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_64706" data-name="Group 64706" transform="translate(-246.608 -401.691)">
+    <g id="Group_64697" data-name="Group 64697" transform="translate(15.625 374.161)">
+      <path id="Path_44411" data-name="Path 44411" d="M-68.534,999.1c-.621,26.766-40.031,26.943-40.737,0-.884-4.992,11.141-31.455,27.156-27.438C-82.79,984.253-68.554,982.735-68.534,999.1Z" transform="translate(340.301 -943.721)" fill="#fdd835"/>
+      <path id="Path_44412" data-name="Path 44412" d="M-68.534,999.1c-.621,26.766-40.031,26.943-40.737,0-.884-4.992,11.141-31.455,27.156-27.438C-82.79,984.253-68.554,982.735-68.534,999.1Z" transform="translate(340.301 -943.404)" fill="url(#radial-gradient)"/>
+      <g id="Group_64618" data-name="Group 64618" transform="translate(240.684 51.842)">
+        <g id="Group_64617" data-name="Group 64617" transform="translate(0 0)">
+          <ellipse id="Ellipse_1450" data-name="Ellipse 1450" cx="3.125" cy="3.125" rx="3.125" ry="3.125" transform="translate(0 0)" fill="#212121"/>
+          <ellipse id="Ellipse_1451" data-name="Ellipse 1451" cx="3.125" cy="3.125" rx="3.125" ry="3.125" transform="translate(15.133 0)" fill="#212121"/>
+          <path id="Path_44381" data-name="Path 44381" d="M741.108-121.94a8.316,8.316,0,0,0,8.882,0" transform="translate(-734.857 130.767)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="3"/>
+          <path id="Path_44382" data-name="Path 44382" d="M733.143-145.381a.768.768,0,0,1-.767.768.768.768,0,0,1-.768-.768.767.767,0,0,1,.768-.767A.767.767,0,0,1,733.143-145.381Z" transform="translate(-728.483 147.012)" fill="#feeb98"/>
+          <path id="Path_44383" data-name="Path 44383" d="M779.143-145.381a.768.768,0,0,1-.767.768.768.768,0,0,1-.768-.768.767.767,0,0,1,.768-.767A.767.767,0,0,1,779.143-145.381Z" transform="translate(-759.35 147.012)" fill="#feeb98"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

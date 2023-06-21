@@ -1,0 +1,8 @@
+<svg id="Icon_feather-eye" data-name="Icon feather-eye" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <path id="Path_42343" data-name="Path 42343" d="M1.5,14.2S5.6,6,12.775,6,24.05,14.2,24.05,14.2s-4.1,8.2-11.275,8.2S1.5,14.2,1.5,14.2Z" transform="translate(0 -1)" fill="none" stroke="#67809f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="Path_42344" data-name="Path 42344" d="M18.524,16.012A2.512,2.512,0,1,1,16.012,13.5,2.512,2.512,0,0,1,18.524,16.012Z" transform="translate(-3.237 -2.813)" fill="none" stroke="#67809f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <g id="Rectangle_11093" data-name="Rectangle 11093" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="26" height="26" stroke="none"/>
+    <rect x="0.5" y="0.5" width="25" height="25" fill="none"/>
+  </g>
+</svg>

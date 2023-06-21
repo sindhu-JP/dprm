@@ -1,0 +1,106 @@
+{
+  "List is empty": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        96
+      ]
+    ]
+  },
+  "Your Performance": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        940
+      ]
+    ]
+  },
+  "My Tasks": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        969
+      ]
+    ]
+  },
+  "InProgress Tasks": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        975
+      ]
+    ]
+  },
+  "Reject Tasks": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        983
+      ]
+    ]
+  },
+  "Resolved Tasks": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        991
+      ]
+    ]
+  },
+  "My Task": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        1010
+      ]
+    ]
+  },
+  "Team Task": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        1014
+      ]
+    ]
+  },
+  "All Groups": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        1029
+      ]
+    ]
+  },
+  "REQUEST ID": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        1124
+      ]
+    ]
+  },
+  "Service ID": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        1135
+      ]
+    ]
+  },
+  "Previous Page": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        1197
+      ]
+    ]
+  },
+  "Next Page": {
+    "origin": [
+      [
+        "src/Features/BackOffice/index.jsx",
+        1201
+      ]
+    ]
+  }
+}

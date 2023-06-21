@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="39.688" viewBox="0 0 35 39.688">
+    <defs>
+        <style>
+            .cls-broadband-fill{fill:#d1d1d6}.cls-2{fill:#57606f}.cls-3{fill:#fff}
+        </style>
+    </defs>
+    <g id="Broadband-2" transform="translate(-264.777 -200.818)">
+        <path id="Path_27419" d="M218.053 183.629h-31a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5h31a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5z" class="cls-broadband-fill" data-name="Path 27419" transform="translate(79.724 56.377)"/>
+        <path id="Path_27420" d="M187.053 175.129a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h31a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1h-31m0-1h31a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2h-31a2 2 0 0 1-2-2v-6a2 2 0 0 1 2-2z" class="cls-2" data-name="Path 27420" transform="translate(79.724 56.377)"/>
+        <path id="Path_27421" d="M203.053 170.629a.5.5 0 0 1-.5-.5v-12a.5.5 0 0 1 1 0v12a.5.5 0 0 1-.5.5z" class="cls-2" data-name="Path 27421" transform="translate(79.724 56.377)"/>
+        <path id="Path_27422" d="M200.6 162.058a.494.494 0 0 1-.25-.067 4.8 4.8 0 1 1 4.8 0 .5.5 0 1 1-.5-.866 3.8 3.8 0 1 0-3.8 0 .5.5 0 0 1-.25.933z" class="cls-2" data-name="Path 27422" transform="translate(79.724 56.377)"/>
+        <path id="Path_27423" d="M206.617 166.062l-.285-.42-.209-.454a8.2 8.2 0 0 0 3.205-2.638 8.1 8.1 0 1 0-11.3 1.853.5.5 0 1 1-.583.812 9.1 9.1 0 1 1 12.7-2.082 9.137 9.137 0 0 1-3.528 2.929z" class="cls-2" data-name="Path 27423" transform="translate(79.724 56.377)"/>
+        <path id="Path_27424" d="M207.766 170.224a.5.5 0 0 1-.194-.96 12.477 12.477 0 0 0 5.916-5.222 12.4 12.4 0 1 0-16.94 4.534.5.5 0 0 1-.5.866 13.4 13.4 0 1 1 11.912.743.509.509 0 0 1-.194.039z" class="cls-2" data-name="Path 27424" transform="translate(79.724 56.377)"/>
+        <circle id="Ellipse_3" cx="2.15" cy="2.15" r="2.15" class="cls-3" data-name="Ellipse 3" transform="translate(269.571 233.082)"/>
+        <circle id="Ellipse_4" cx=".717" cy=".717" r=".717" class="cls-3" data-name="Ellipse 4" transform="translate(276.022 234.515)"/>
+    </g>
+</svg>

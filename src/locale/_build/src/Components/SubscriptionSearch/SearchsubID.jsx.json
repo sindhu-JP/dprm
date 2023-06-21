@@ -1,0 +1,130 @@
+{
+  "Contact Number": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        123
+      ]
+    ]
+  },
+  "ENTER CONTACT NUMBER": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        124
+      ]
+    ]
+  },
+  "Email ID": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        128
+      ]
+    ]
+  },
+  "ENTER EMAIL ID": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        129
+      ]
+    ]
+  },
+  "National ID": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        133
+      ]
+    ]
+  },
+  "ENTER NATIONAL ID": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        134
+      ]
+    ]
+  },
+  "Customer Type": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        138
+      ]
+    ]
+  },
+  "ENTER CUSTOMER TYPE": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        139
+      ]
+    ]
+  },
+  "SEARCH TYPE": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        147
+      ]
+    ]
+  },
+  "CONTACT NUMBER": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        153
+      ]
+    ]
+  },
+  "DATE OF BIRTH": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        158
+      ]
+    ]
+  },
+  "EMAIL ID": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        164
+      ]
+    ]
+  },
+  "STATUS": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        169
+      ]
+    ]
+  },
+  "NATIONAL ID": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        174
+      ]
+    ]
+  },
+  "No Data Available": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        184
+      ]
+    ]
+  },
+  "Enter atleast 3 characters": {
+    "origin": [
+      [
+        "src/Components/SubscriptionSearch/SearchsubID.jsx",
+        255
+      ]
+    ]
+  }
+}

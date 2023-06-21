@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <style>
+            .cls-1{fill:#1c00c8}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="FloatingIicon-bg" transform="translate(-585.128 -293.909)">
+        <g id="Ellipse_201" data-name="Ellipse 201" transform="translate(79.724 56.377)">
+            <circle id="Ellipse_20" cx="28" cy="28" r="28" class="cls-1" data-name="Ellipse 20" transform="translate(505.404 237.532)"/>
+        </g>
+        <circle id="Ellipse_21" cx="2" cy="2" r="2" class="cls-2" data-name="Ellipse 21" transform="translate(605.576 313.907)"/>
+        <circle id="Ellipse_22" cx="2" cy="2" r="2" class="cls-2" data-name="Ellipse 22" transform="translate(611.233 308.251)"/>
+        <circle id="Ellipse_23" cx="2" cy="2" r="2" class="cls-2" data-name="Ellipse 23" transform="translate(599.47 320.014)"/>
+        <circle id="Ellipse_24" cx="2" cy="2" r="2" class="cls-2" data-name="Ellipse 24" transform="translate(611.353 319.685)"/>
+        <circle id="Ellipse_25" cx="2" cy="2" r="2" class="cls-2" data-name="Ellipse 25" transform="translate(617.01 314.028)"/>
+        <circle id="Ellipse_26" cx="2" cy="2" r="2" class="cls-2" data-name="Ellipse 26" transform="translate(605.247 325.791)"/>
+        <circle id="Ellipse_27" cx="2" cy="2" r="2" class="cls-2" data-name="Ellipse 27" transform="translate(617.131 325.462)"/>
+        <circle id="Ellipse_28" cx="2" cy="2" r="2" class="cls-2" data-name="Ellipse 28" transform="translate(622.787 319.805)"/>
+        <circle id="Ellipse_29" cx="2" cy="2" r="2" class="cls-2" data-name="Ellipse 29" transform="translate(611.024 331.568)"/>
+    </g>
+</svg>

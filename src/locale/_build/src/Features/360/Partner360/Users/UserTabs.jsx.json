@@ -1,0 +1,18 @@
+{
+  "MASTER": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Users/UserTabs.jsx",
+        142
+      ]
+    ]
+  },
+  "TENANT": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Users/UserTabs.jsx",
+        143
+      ]
+    ]
+  }
+}

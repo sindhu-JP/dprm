@@ -1,0 +1,6 @@
+"Marketing Partners ","","","","","","","","",""
+"S.No","Order ID","Partner ID","Customer ID","Product Name","Product ID","Unit Price","Units Utilized","Invoice ID","Purchase Date"
+"1","OR73737","MPHHPS878","C5096642","Movie Tickets","PRM0EIL5","100GHS","5","INV001","22-Feb-23"
+"2","OR73738","MPHHPS879","C5096643","Chocolate Cake","PRM0EIL6","200GHS","8","INV002","23-Feb-23"
+"3","OR73739","MPHHPS880","C5096644","Pizza Combo","PRM0EIL7","300GHS","9","INV003","24-Feb-23"
+"4","OR73740","MPHHPS881","C5096645","Beauty Product","PRM0EIL8","400GHS","3","INV004","25-Feb-23"

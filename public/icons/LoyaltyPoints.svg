@@ -1,0 +1,53 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="37.064"
+  height="33.459"
+  viewBox="0 0 37.064 33.459"
+><defs><style
+    >.a,.d{fill:none;}.a,.b,.d{stroke:#636366;}.a{stroke-linecap:round;stroke-linejoin:round;}.b{fill:#d1d1d6;}.b,.d{stroke-miterlimit:10;}.c{fill:#fff;}</style></defs><g
+    transform="translate(-5456.302 -1567.03)"
+  ><rect
+      class="a"
+      width="11.474"
+      height="16.693"
+      transform="translate(5481.391 1583.296)"
+      style="fill:#fff;opacity:1"
+    /><path
+      id="LoyaltyPoints"
+      class="a"
+      d="M5477.9,1601.884h-11.475v-7.606l9.982-9.087h1.492Z"
+      transform="translate(-1.029 -1.895)"
+      style="fill:#fff;opacity:1"
+    /><rect
+      class="b"
+      width="27.468"
+      height="6.259"
+      transform="translate(5458.517 1588.09) rotate(-45)"
+    /><rect
+      class="c"
+      width="4.52"
+      height="5.121"
+      transform="translate(5468.213 1581.56) rotate(-45)"
+    /><ellipse
+      class="d"
+      cx="2.325"
+      cy="5.359"
+      rx="2.325"
+      ry="5.359"
+      transform="translate(5464.431 1568.227) rotate(-7.837)"
+    /><ellipse
+      class="d"
+      cx="5.359"
+      cy="2.325"
+      rx="5.359"
+      ry="2.325"
+      transform="translate(5456.865 1577.345) rotate(-7.837)"
+    /><path
+      class="b"
+      d="M5488.04,1580.292l.375,1.152h1.211l-.979.712.374,1.152-.979-.712-.979.712.375-1.152-.98-.712h1.211Z"
+      transform="translate(-3.187 -1.367)"
+    /><path
+      class="b"
+      d="M5490.119,1572.921l.69,2.126h2.236l-1.809,1.314.691,2.126-1.809-1.314-1.809,1.314.69-2.126-1.809-1.314h2.236Z"
+      transform="translate(-3.265 -0.574)"
+    /></g></svg>

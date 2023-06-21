@@ -1,0 +1,13 @@
+[node-id] line {
+  stroke: #ffa369;
+}
+[node-id="1"] line {
+  stroke: #2ed573;
+
+}
+  
+div .chart-menu{
+  text-transform: uppercase;
+  float: right
+}
+

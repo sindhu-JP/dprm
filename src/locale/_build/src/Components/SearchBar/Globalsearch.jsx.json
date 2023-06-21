@@ -1,0 +1,22 @@
+{
+  "No Data Found For Search Criteria": {
+    "origin": [
+      [
+        "src/Components/SearchBar/Globalsearch.jsx",
+        22
+      ],
+      [
+        "src/Components/SearchBar/Globalsearch.jsx",
+        45
+      ]
+    ]
+  },
+  "Fetching": {
+    "origin": [
+      [
+        "src/Components/SearchBar/Globalsearch.jsx",
+        41
+      ]
+    ]
+  }
+}

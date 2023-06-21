@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24"><defs>
+<style>.iptva{fill:#67809f;}.iptvb{fill:rgba(255,255,255,0);}.iptvc{clip-path:url(#a);}.iptvd{clip-path:url(#b);}.iptve{clip-path:url(#c);}.iptvf{clip-path:url(#e);}</style>
+<clipPath id="a">
+<path class="iptva" d="M13659.977-730.353h-18.142a.772.772,0,0,0-.705.815v13.054a.622.622,0,0,0,.705.635h8.313v1.1h-4.19a.441.441,0,0,0-.44.445.432.432,0,0,0,.44.434h9.9a.443.443,0,0,0,.46-.434.452.452,0,0,0-.46-.445h-4.191l.021-.151v-.948h8.292c.421,0,.716-.216.716-.635v-13.054A.773.773,0,0,0,13659.977-730.353Zm-.822,13.186h-16.486v-11.648h16.486Z" transform="translate(-13641.13 730.353)"/></clipPath>
+<clipPath id="b"><path class="iptva" d="M12519-455.87h1409.814V-1524H12519Z" transform="translate(-12519 1524)"/></clipPath>
+<clipPath id="c"><path class="iptva" d="M13646.4-721.478a.415.415,0,0,0,.3-.129l4.015-4.011a.43.43,0,0,0,0-.621.433.433,0,0,0-.616,0l-4.015,4.011a.432.432,0,0,0,0,.621A.439.439,0,0,0,13646.4-721.478Z" transform="translate(-13645.955 726.368)"/></clipPath>
+<clipPath id="e"><path class="iptva" d="M13649.337-719.633a.456.456,0,0,0,.313.129.439.439,0,0,0,.313-.129l6.129-6.126a.45.45,0,0,0,0-.621.446.446,0,0,0-.627,0l-6.129,6.126A.45.45,0,0,0,13649.337-719.633Z" transform="translate(-13649.213 726.509)"/></clipPath>
+</defs><g transform="translate(-308 -3529)"><rect class="iptvb" width="24" height="24" transform="translate(308 3529)"/><g transform="translate(310 3533)"><g class="iptvc"><g class="iptvd" transform="translate(-1098.608 -777.01)">
+<path class="iptva" d="M13636.13-709.08h29.35v-26.273h-29.35Z" transform="translate(-12542.418 1507.468)"/></g></g><g class="iptve" transform="translate(4.724 3.901)"><g class="iptvd" transform="translate(-1103.332 -780.912)"><path class="iptva" d="M13640.96-716.688h14.681v-14.68h-14.681Z" transform="translate(-12542.519 1507.385)"/></g></g>
+<g class="iptvf" transform="translate(7.914 3.764)">
+<g class="iptvd" transform="translate(-1106.521 -780.774)"><path class="iptva" d="M13644.21-714.713H13661v-16.8h-16.795Z" transform="translate(-12542.587 1507.388)"/></g></g></g></g></svg>

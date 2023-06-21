@@ -1,0 +1,10 @@
+{
+  "Provisioning": {
+    "origin": [
+      [
+        "src/Features/BackOffice/TicketDetailsWrapper/WorkflowDetails.jsx",
+        17
+      ]
+    ]
+  }
+}

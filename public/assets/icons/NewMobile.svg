@@ -1,0 +1,16 @@
+<svg id="Component_1661_75" data-name="Component 1661 – 75" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Rectangle_12668" data-name="Rectangle 12668" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="48" height="48" stroke="none"/>
+    <rect x="0.5" y="0.5" width="47" height="47" fill="none"/>
+  </g>
+  <g id="Group_62113" data-name="Group 62113" transform="translate(12 8)">
+    <g id="Rectangle_12268" data-name="Rectangle 12268" fill="#fff" stroke="#777" stroke-width="2">
+      <path d="M5,0H19a5,5,0,0,1,5,5V28a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+      <path d="M5,1H19a4,4,0,0,1,4,4V28a4,4,0,0,1-4,4H2a1,1,0,0,1-1-1V5A4,4,0,0,1,5,1Z" fill="none"/>
+    </g>
+    <line id="Line_2996" data-name="Line 2996" x2="22" transform="translate(1 9)" fill="none" stroke="#777" stroke-width="2"/>
+    <line id="Line_2997" data-name="Line 2997" x2="8" transform="translate(1 25)" fill="none" stroke="#777" stroke-width="2"/>
+    <line id="Line_2998" data-name="Line 2998" x2="3" transform="translate(11 25)" fill="none" stroke="#777" stroke-width="2"/>
+    <circle id="Ellipse_1374" data-name="Ellipse 1374" cx="7" cy="7" r="7" transform="translate(15 12)" fill="#ff4757" opacity="0"/>
+  </g>
+</svg>

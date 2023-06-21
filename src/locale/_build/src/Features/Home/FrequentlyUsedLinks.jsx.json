@@ -1,0 +1,26 @@
+{
+  "Settlement Rule Creation": {
+    "origin": [
+      [
+        "src/Features/Home/FrequentlyUsedLinks.jsx",
+        10
+      ]
+    ]
+  },
+  "Commission Rule Creation": {
+    "origin": [
+      [
+        "src/Features/Home/FrequentlyUsedLinks.jsx",
+        15
+      ]
+    ]
+  },
+  "Frequently Used Links": {
+    "origin": [
+      [
+        "src/Features/Home/FrequentlyUsedLinks.jsx",
+        45
+      ]
+    ]
+  }
+}

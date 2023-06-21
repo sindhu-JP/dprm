@@ -1,0 +1,90 @@
+{
+  "Partner ID": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchCustomerListItem.jsx",
+        179
+      ]
+    ]
+  },
+  "LOB": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchCustomerListItem.jsx",
+        191
+      ]
+    ]
+  },
+  "Product Technology": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchCustomerListItem.jsx",
+        202
+      ]
+    ]
+  },
+  "Partner ID ": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchCustomerListItem.jsx",
+        214
+      ]
+    ]
+  },
+  "Company RegNo": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchCustomerListItem.jsx",
+        226
+      ]
+    ]
+  },
+  "Quote ID": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchCustomerListItem.jsx",
+        238
+      ]
+    ]
+  },
+  "Primary Contact": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchCustomerListItem.jsx",
+        250
+      ]
+    ]
+  },
+  "National ID": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchCustomerListItem.jsx",
+        266
+      ]
+    ]
+  },
+  "Contract Count": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchCustomerListItem.jsx",
+        372
+      ]
+    ]
+  },
+  "Product Count": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchCustomerListItem.jsx",
+        390
+      ]
+    ]
+  },
+  "Tenant Count": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchCustomerListItem.jsx",
+        401
+      ]
+    ]
+  }
+}

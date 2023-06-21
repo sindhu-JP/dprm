@@ -1,0 +1,218 @@
+{
+  "PARTNER ID": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        11
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        67
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        108
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        201
+      ]
+    ]
+  },
+  "PARTNER NAME": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        15
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        71
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        205
+      ]
+    ]
+  },
+  "MOBILE NUMBER": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        19
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        75
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        116
+      ]
+    ]
+  },
+  "EMAIL": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        24
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        80
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        121
+      ]
+    ]
+  },
+  "PARTNER TYPE": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        33
+      ]
+    ]
+  },
+  "PARTNER SUBTYPE": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        37
+      ]
+    ]
+  },
+  "CREATED DATE": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        42
+      ]
+    ]
+  },
+  "STATUS": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        54
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        91
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        143
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        180
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        219
+      ]
+    ]
+  },
+  "START DATE": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        85
+      ]
+    ]
+  },
+  "TENANT ID": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        104
+      ]
+    ]
+  },
+  "TENANT NAME": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        112
+      ]
+    ]
+  },
+  "START  DATE": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        131
+      ],
+      [
+        "src/lib/constants/partnerTable.js",
+        169
+      ]
+    ]
+  },
+  "REQUEST ID": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        156
+      ]
+    ]
+  },
+  "APPROVAL FOR": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        160
+      ]
+    ]
+  },
+  "APPROVAL TYPE": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        164
+      ]
+    ]
+  },
+  "INITIATOR": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        175
+      ]
+    ]
+  },
+  "PRODUCT ID": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        193
+      ]
+    ]
+  },
+  "PRODUCT NAME": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        197
+      ]
+    ]
+  },
+  "PRODUCT LOB": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        210
+      ]
+    ]
+  },
+  "'PRODUCT TECHNOLOGY'": {
+    "origin": [
+      [
+        "src/lib/constants/partnerTable.js",
+        214
+      ]
+    ]
+  }
+}

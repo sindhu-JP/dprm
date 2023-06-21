@@ -1,0 +1,26 @@
+{
+  "Orders": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Orders/index.jsx",
+        167
+      ]
+    ]
+  },
+  "Search": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Orders/index.jsx",
+        194
+      ]
+    ]
+  },
+  "bottom": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Orders/index.jsx",
+        195
+      ]
+    ]
+  }
+}

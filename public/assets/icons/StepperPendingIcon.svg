@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_60772" data-name="Group 60772" transform="translate(17.83 11.942)">
+    <circle id="Ellipse_1403" data-name="Ellipse 1403" cx="16" cy="16" r="16" transform="translate(-17.83 -11.942)" fill="#ffa502"/>
+    <g id="Group_60773" data-name="Group 60773" transform="translate(-9.132 -6.064)">
+      <path id="Icon_ionic-md-checkmark" data-name="Icon ionic-md-checkmark" d="M0,8.078l2.175,2.19L10.35,1.116,9.242,0Z" transform="translate(14.58 7.261) rotate(135)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Rectangle_12036" data-name="Rectangle 12036" d="M1,0H2.49a1,1,0,0,1,1,1V3.49a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(5.516 16.717)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

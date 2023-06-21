@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.118" height="25" viewBox="0 0 23.118 25">
+    <defs>
+        <style>
+            .cls-circle{fill:none}.cls-path{fill:#2f3542}
+        </style>
+    </defs>
+    <g id="Search" transform="translate(-163.569 -98.175)">
+        <ellipse id="Ellipse_1" cx="10.309" cy="10.25" class="cls-circle" data-name="Ellipse 1" rx="10.309" ry="10.25" transform="translate(163.569 98.175)"/>
+        <path id="Path_27388" d="M94.154 62.3a10.25 10.25 0 1 1 10.309-10.25A10.291 10.291 0 0 1 94.154 62.3zm0-18.5a8.25 8.25 0 1 0 8.309 8.25 8.289 8.289 0 0 0-8.309-8.25z" class="cls-path" data-name="Path 27388" transform="translate(79.724 56.377)"/>
+        <path id="Path_27389" d="M105.963 66.8a1 1 0 0 1-.707-.293l-6-6a1 1 0 0 1 1.414-1.414l6 6a1 1 0 0 1-.707 1.707z" class="cls-path" data-name="Path 27389" transform="translate(79.724 56.377)"/>
+    </g>
+</svg>

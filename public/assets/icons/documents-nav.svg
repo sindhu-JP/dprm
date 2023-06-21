@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.026" height="36.048" viewBox="0 0 29.026 36.048">
+    <defs>
+        <style>
+            .document-class1,.document-class3{fill:none;stroke:currentColor}.document-class1{stroke-miterlimit:10}.document-class2,.document-class5{fill:currentColor}.document-class2,.document-class3{stroke-linejoin:round}.document-class4,.document-class5{stroke:none}
+        </style>
+    </defs>
+    <g id="documents-nav" transform="translate(.5 .46)">
+        <path id="Path_37668" d="M3888.9 764.1v19.832a3.7 3.7 0 0 1-3.7 3.694h-20.637a3.694 3.694 0 0 1-3.694-3.694v-27.66a3.7 3.7 0 0 1 3.694-3.7h12.811a3.7 3.7 0 0 1 2.613 1.083l7.827 7.825a3.7 3.7 0 0 1 1.086 2.62z" class="document-class1" data-name="Path 37668" transform="translate(-3860.874 -752.537)"/>
+        <g id="Path_37669" class="document-class2" data-name="Path 37669">
+            <path d="M3887.458 762.069h-8.324v-8.324l8.324 8.324z" class="document-class4" transform="translate(-3860.639 -752.537)"/>
+            <path d="M3886.25 761.569l-6.616-6.617v6.617h6.617m2.414 1h-10.031v-10.032l10.031 10.032z" class="document-class5" transform="translate(-3860.639 -752.537)"/>
+        </g>
+        <path id="Line_2086" d="M0 0h7.05" class="document-class3" data-name="Line 2086" transform="translate(5.711 8.704)"/>
+        <path id="Line_2087" d="M0 0h16.169" class="document-class3" data-name="Line 2087" transform="translate(5.711 13.522)"/>
+        <path id="Line_2088" d="M0 0h16.169" class="document-class3" data-name="Line 2088" transform="translate(5.711 18.341)"/>
+        <path id="Line_2089" d="M0 0h16.169" class="document-class3" data-name="Line 2089" transform="translate(5.711 23.159)"/>
+        <path id="Line_2090" d="M0 0h.679" class="document-class3" data-name="Line 2090" transform="translate(21.201 27.978)"/>
+        <path id="Line_2091" d="M0 0h1.002" class="document-class3" data-name="Line 2091" transform="translate(18.549 27.978)"/>
+        <path id="Line_2092" d="M0 0h1.229" class="document-class3" data-name="Line 2092" transform="translate(15.607 27.978)"/>
+        <path id="Line_2093" d="M0 0h8.084" class="document-class3" data-name="Line 2093" transform="translate(5.711 27.978)"/>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.667" height="46.679" viewBox="0 0 39.667 46.679">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.579" r="0.684" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9d233"/>
+      <stop offset="1" stop-color="#e2b728"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_64715" data-name="Group 64715" transform="translate(-153.022 -397.617)">
+    <g id="Group_64701" data-name="Group 64701" transform="translate(153.022 397.617)">
+      <path id="Path_44417" data-name="Path 44417" d="M-69.65,998.34c-.6,26.034-38.936,26.206-39.623,0-.86-4.856,10.836-30.594,26.413-26.687C-83.516,983.9-69.669,982.42-69.65,998.34Z" transform="translate(109.317 -971.251)" fill="url(#radial-gradient)"/>
+      <g id="Group_64622" data-name="Group 64622" transform="translate(8.309 23.339)">
+        <g id="Group_64611" data-name="Group 64611">
+          <path id="Path_44388" data-name="Path 44388" d="M881.965,22.305a7.556,7.556,0,0,1,8.665,0" transform="translate(-874.681 -9.133)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <ellipse id="Ellipse_1460" data-name="Ellipse 1460" cx="3.04" cy="3.04" rx="3.04" ry="3.04" transform="translate(1.218 2.961)" fill="#212121"/>
+          <ellipse id="Ellipse_1461" data-name="Ellipse 1461" cx="3.04" cy="3.04" rx="3.04" ry="3.04" transform="translate(15.936 2.961)" fill="#212121"/>
+          <path id="Path_44389" data-name="Path 44389" d="M874-3.314a.747.747,0,0,1-.746.747.747.747,0,0,1-.747-.747.747.747,0,0,1,.747-.746A.747.747,0,0,1,874-3.314Z" transform="translate(-868.248 7.861)" fill="#feeb98"/>
+          <path id="Path_44390" data-name="Path 44390" d="M920-3.314a.747.747,0,0,1-.747.747.747.747,0,0,1-.747-.747.747.747,0,0,1,.747-.746A.747.747,0,0,1,920-3.314Z" transform="translate(-899.529 7.861)" fill="#feeb98"/>
+          <path id="Path_44391" data-name="Path 44391" d="M862.862-15.94a4.845,4.845,0,0,1-3.662,3.229" transform="translate(-859.2 15.94)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Path_44392" data-name="Path 44392" d="M920.505-15.94a4.846,4.846,0,0,0,3.663,3.229" transform="translate(-900.889 15.94)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.667" height="46.987" viewBox="0 0 39.667 46.987">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.579" r="0.684" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9d233"/>
+      <stop offset="1" stop-color="#e2b728"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_64717" data-name="Group 64717" transform="translate(0 0)">
+    <path id="Path_44413" data-name="Path 44413" d="M-69.65,998.34c-.6,26.034-38.936,26.206-39.623,0-.86-4.856,10.836-30.594,26.413-26.687C-83.516,983.9-69.669,982.42-69.65,998.34Z" transform="translate(109.317 -971.25)" fill="#fdd835"/>
+    <path id="Path_44414" data-name="Path 44414" d="M-69.65,998.34c-.6,26.034-38.936,26.206-39.623,0-.86-4.856,10.836-30.594,26.413-26.687C-83.516,983.9-69.669,982.42-69.65,998.34Z" transform="translate(109.317 -970.943)" fill="url(#radial-gradient)"/>
+    <g id="Group_64619" data-name="Group 64619" transform="translate(9.435 23.647)">
+      <g id="Group_64612" data-name="Group 64612" transform="translate(0 0)">
+        <ellipse id="Ellipse_1454" data-name="Ellipse 1454" cx="3.04" cy="3.04" rx="3.04" ry="3.04" transform="translate(0 0)" fill="#212121"/>
+        <ellipse id="Ellipse_1455" data-name="Ellipse 1455" cx="3.04" cy="3.04" rx="3.04" ry="3.04" transform="translate(14.719 0)" fill="#212121"/>
+        <line id="Line_1" data-name="Line 1" x2="8.639" transform="translate(6.08 8.586)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="3"/>
+        <path id="Path_44384" data-name="Path 44384" d="M874.039-145.4a.747.747,0,0,1-.746.747.747.747,0,0,1-.747-.747.746.746,0,0,1,.747-.746A.747.747,0,0,1,874.039-145.4Z" transform="translate(-869.48 146.988)" fill="#feeb98"/>
+        <path id="Path_44385" data-name="Path 44385" d="M920.039-145.4a.747.747,0,0,1-.746.747.747.747,0,0,1-.746-.747.746.746,0,0,1,.746-.746A.746.746,0,0,1,920.039-145.4Z" transform="translate(-900.761 146.988)" fill="#feeb98"/>
+      </g>
+    </g>
+  </g>
+</svg>

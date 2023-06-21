@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400.019" height="66" viewBox="0 0 329.019 66"><defs><style>.a{fill:#292F38;}.b{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}.c{filter:url(#a);}</style><filter id="a" x="0" y="0" width="329.019" height="66" filterUnits="userSpaceOnUse"><feOffset dy="3" input="SourceAlpha"/><feGaussianBlur stdDeviation="6" result="b"/><feFlood flood-opacity="0.161"/><feComposite operator="in" in2="b"/><feComposite in="SourceGraphic"/></filter></defs><g transform="translate(-698.211 -82)"><g class="c" transform="matrix(1, 0, 0, 1, 698.21, 82)"><path class="a" d="M10,0H285.23S278,.341,278,10V20a10,10,0,0,1-10,10H10A10,10,0,0,1,0,20V10C0-.149-7.789,0-7.789,0Z" transform="translate(25.79 15)"/></g>
+<g transform="translate(-66.121 -266.25)"><path class="b" d="M15.041,27.917V26.111A3.611,3.611,0,0,0,11.43,22.5H5.111A3.611,3.611,0,0,0,1.5,26.111v1.806" transform="translate(807.773 358.582)"/><path class="b" d="M13.972,8.111A3.611,3.611,0,1,1,10.361,4.5a3.611,3.611,0,0,1,3.611,3.611Z" transform="translate(805.684 365.75)"/></g></g>
+
+  <g id="centreMe">
+    <!-- <image xlink:href="https://d30y9cdsu7xlg0.cloudfront.net/noun-svg/703414.svg?Expires=1481685113&Signature=hsa76aA6t5W6xisN8bYKk5t74cmOzTXmYUObaVwE0hUso99Gb4czprrsQAtkaC0aOQJBhNfAn8MjRpKyu8M~AzS5OS3rthGOLFqa3Pk2lCwAWjs-KtTa9fSo7w-sZSJwG6LDeRm5B6T5hYnoKQLibJzCtHvSdUYlp5XBUx1RNvs_&Key-Pair-Id=APKAI5ZVHAXN65CHVU2Q" x="0" y="-50" height="50px" width="50px"/> -->
+   <text  class="changeText"   fill="#ffffff" x="55%" y="55%" alignment-baseline="middle" text-anchor="middle" font-size="13" font-family="Verdana">
+   
+    <tspan>60</tspan></text>
+      
+  </g> 
+
+</svg>

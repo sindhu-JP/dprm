@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.468" height="33.719" viewBox="0 0 26.468 33.719">
+    <defs>
+        <style>
+            .a{fill:none;stroke:#999;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g transform="translate(-1568 -544)">
+        <g transform="translate(17 23)">
+            <path class="a" d="M482.127,378.448v19.2l3.562,1.914,3.147-1.762,2.866,2.042,4.078-2.026,3.635,2.021,2.566-1.864v-23a2.359,2.359,0,0,0-2.291-2.333h-8.333" transform="translate(1074.987 154.294)"/>
+            <rect width="5.141" height="5.141" transform="translate(1559.149 535.966)" style="fill:#999"/>
+            <line class="a" x2="7.829" transform="translate(1566.498 536.822)"/>
+            <line class="a" x2="7.829" transform="translate(1566.498 538.647)"/>
+            <line class="a" x2="7.829" transform="translate(1566.498 540.473)"/>
+            <line class="a" x2="15.178" transform="translate(1559.149 544.123)"/>
+            <line class="a" x2="15.178" transform="translate(1559.149 545.948)"/>
+            <line class="a" x2="15.178" transform="translate(1559.149 547.773)"/>
+            <line class="a" x2="15.178" transform="translate(1559.149 549.599)"/>
+        </g>
+        <circle cx="10" cy="10" r="10" transform="translate(1568 544)" style="fill:#ffc400"/>
+        <g transform="translate(1551.807 547.035)">
+            <path d="M23.1,10.227v1.09h-.545a.559.559,0,0,0,0,1.118h6.924a.559.559,0,0,0,0-1.118h-.545v-1.09a2.452,2.452,0,0,0-.889-1.878L26.9,7.417l1.147-.932a2.43,2.43,0,0,0,.889-1.878V3.518h.545a.56.56,0,0,0,.559-.559.551.551,0,0,0-.559-.559H22.559A.56.56,0,0,0,22,2.959a.551.551,0,0,0,.559.559H23.1V4.608a2.452,2.452,0,0,0,.889,1.878l1.147.932-1.147.932A2.407,2.407,0,0,0,23.1,10.227Zm1.1-5.605V3.533h3.6v1.09a1.293,1.293,0,0,1-.473,1L26.014,6.7,24.7,5.625A1.307,1.307,0,0,1,24.208,4.622Zm.487,4.6,1.319-1.075,1.319,1.075a1.293,1.293,0,0,1,.473,1v1.09h-3.6v-1.09A1.307,1.307,0,0,1,24.7,9.224Z" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

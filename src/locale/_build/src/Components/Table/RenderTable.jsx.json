@@ -1,0 +1,18 @@
+{
+  "No Information Available": {
+    "origin": [
+      [
+        "src/Components/Table/RenderTable.jsx",
+        120
+      ]
+    ]
+  },
+  "Task Allocations policy": {
+    "origin": [
+      [
+        "src/Components/Table/RenderTable.jsx",
+        236
+      ]
+    ]
+  }
+}

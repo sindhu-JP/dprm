@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.982" height="53.66" viewBox="0 0 43.982 53.66">
+    <defs>
+        <clipPath id="a">
+            <path d="M317.673,526.388v32.787l-4.055,2.945-5.744-3.2-6.445,3.2L296.9,558.9l-4.7,2.631V522.7h21.853A3.725,3.725,0,0,1,317.673,526.388Z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .cunpaidinvoice,.eunpaidinvoice{fill:none;stroke:#A6A3B4;stroke-miterlimit:10}.eunpaidinvoice{stroke:#ff6b81}
+        </style>
+    </defs>
+    <g transform="translate(-274.685 -509.054)">
+        <path d="M318.119,526.475v32.787l-4.055,2.944-5.744-3.194-6.445,3.2-4.53-3.227-4.7,2.631V526.635a10.021,10.021,0,0,0-.668-1.92c-.8-1.609-1.609-1.925-1.609-1.925H314.5A3.725,3.725,0,0,1,318.119,526.475Z" style="fill:#fff;opacity:.32"/>
+        <path class="cunpaidinvoice" d="M304.15,522.427V509.554H275.185v35.8a3.626,3.626,0,0,0,3.621,3.62h.8a3.625,3.625,0,0,0,3.62-3.62"/>
+        <path class="cunpaidinvoice" d="M292.421,561.687l4.972-2.784,4.53,3.227,6.444-3.2,5.745,3.194,4.055-2.945V526.39a3.728,3.728,0,0,0-3.621-3.687h-26.59"/>
+        <path class="cunpaidinvoice" d="M283.249,546.036V527.7a4.732,4.732,0,1,1,9.449,0v34.364"/>
+        <g style="clip-path:url(#a)">
+            <line class="eunpaidinvoice" y1="0.539" transform="translate(292.2 561.532)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(270.565 509.428)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(272.979 511.842)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(275.393 514.255)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(277.807 516.669)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(280.22 519.083)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(282.634 521.497)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(285.048 523.91)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(287.462 526.324)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(289.875 528.738)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(292.289 531.151)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(294.703 533.565)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(297.116 535.979)"/>
+            <line class="cunpaidinvoice" x1="38.62" y2="38.62" transform="translate(299.53 538.393)"/>
+            <line class="eunpaidinvoice" x1="38.62" y2="38.62" transform="translate(301.944 540.806)"/>
+        </g>
+    </g>
+</svg>

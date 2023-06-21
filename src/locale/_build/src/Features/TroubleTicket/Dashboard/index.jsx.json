@@ -1,0 +1,42 @@
+{
+  "Ticket ID": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/Dashboard/index.jsx",
+        303
+      ],
+      [
+        "src/Features/TroubleTicket/Dashboard/index.jsx",
+        359
+      ]
+    ]
+  },
+  "Service ID": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/Dashboard/index.jsx",
+        311
+      ],
+      [
+        "src/Features/TroubleTicket/Dashboard/index.jsx",
+        365
+      ]
+    ]
+  },
+  "Previous Page": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/Dashboard/index.jsx",
+        422
+      ]
+    ]
+  },
+  "Next Page": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/Dashboard/index.jsx",
+        425
+      ]
+    ]
+  }
+}

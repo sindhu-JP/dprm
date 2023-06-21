@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.999" height="23.054" viewBox="0 0 22.999 23.054">
+    <defs>
+        <style>
+            .b{stroke:#4933d3;stroke-miterlimit:10;fill:#fff}
+        </style>
+    </defs>
+    <g transform="translate(-3582.38 -880.413)">
+        <path d="M3594.738,904.89h-6.8a5.057,5.057,0,0,1-5.056-5.056v-9.979a5.057,5.057,0,0,1,5.056-5.056h11.886a5.057,5.057,0,0,1,5.056,5.056v4.577" transform="translate(0 -1.923)" style="stroke-miterlimit:10;stroke:#4933d3;fill:none"/>
+        <rect class="b" width="2.129" height="5.222" rx="1.064" transform="translate(3587.27 880.913)"/>
+        <rect class="b" width="2.129" height="5.222" rx="1.064" transform="translate(3592.814 880.913)"/>
+        <rect class="b" width="2.129" height="5.222" rx="1.064" transform="translate(3598.359 880.913)"/>
+        <circle class="b" cx="1.044" cy="1.044" r="1.044" transform="translate(3587.291 888.817)"/>
+        <circle class="b" cx="1.044" cy="1.044" r="1.044" transform="translate(3590.935 888.817)"/>
+        <circle class="b" cx="1.044" cy="1.044" r="1.044" transform="translate(3594.579 888.817)"/>
+        <circle class="b" cx="1.044" cy="1.044" r="1.044" transform="translate(3598.223 888.817)"/>
+        <circle class="b" cx="1.044" cy="1.044" r="1.044" transform="translate(3587.291 892.509)"/>
+        <circle class="b" cx="1.044" cy="1.044" r="1.044" transform="translate(3590.935 892.509)"/>
+        <circle class="b" cx="1.044" cy="1.044" r="1.044" transform="translate(3587.291 896.201)"/>
+        <circle class="b" cx="1.044" cy="1.044" r="1.044" transform="translate(3590.935 896.201)"/>
+        <circle cx="5.2" cy="5.2" r="5.2" transform="translate(3594.478 892.511)" style="stroke-linejoin:round;fill:#4933d3;stroke:#4933d3"/>
+        <path d="M3616.135,909.3v2.362h3.575" transform="translate(-16.457 -14.045)" style="stroke:#fff;stroke-linecap:round;fill:#4933d3;stroke-miterlimit:10"/>
+        <path d="M3606.145,924.463" transform="translate(-11.513 -21.552)" style="stroke:#ffbe00;fill:#4933d3;stroke-miterlimit:10"/>
+    </g>
+</svg>

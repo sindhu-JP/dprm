@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.947" height="36.055" viewBox="0 0 31.947 36.055">
+    <defs>
+        <style>
+            .payment-class1,.payment-class2,.payment-class3,.payment-class5,.payment-class7{fill:none}.payment-class1,.payment-class2,.payment-class3,.payment-class4,.payment-class5{stroke:currentColor}.payment-class1,.payment-class3{stroke-linecap:round}.payment-class1{stroke-miterlimit:10}.payment-class2,.payment-class3,.payment-class4{stroke-linejoin:round}.payment-class4{fill:currentColor}.payment-class6{stroke:none}
+        </style>
+    </defs>
+    <g id="payments-nav" transform="translate(.5 .5)">
+        <path id="Path_37628" d="M2847.592 1006.9v-7.538a2.684 2.684 0 0 1 2.683-2.684h14.148l4.639 5.367v6.031" class="payment-class1" data-name="Path 37628" transform="translate(-2845.207 -996.682)"/>
+        <path id="Path_37629" d="M2857.532 1020.631h-9.94v-1.212" class="payment-class1" data-name="Path 37629" transform="translate(-2845.207 -990.745)"/>
+        <path id="Path_37630" d="M2865.287 1001.732h-2.213a2.049 2.049 0 0 1-2.049-2.049v-2.893z" class="payment-class2" data-name="Path 37630" transform="translate(-2841.699 -996.654)"/>
+        <path id="Line_2043" d="M0 0h8.681" class="payment-class3" data-name="Line 2043" transform="translate(6.361 6.161)"/>
+        <path id="Line_2044" d="M0 0h.961" class="payment-class3" data-name="Line 2044" transform="translate(17.693 6.161)"/>
+        <rect id="Rectangle_9763" width="18.621" height="23.657" class="payment-class2" data-name="Rectangle 9763" rx="2.579" transform="translate(12.326 11.398)"/>
+        <rect id="Rectangle_9764" width="13.077" height="5.213" class="payment-class4" data-name="Rectangle 9764" rx=".953" transform="translate(15.043 13.717)"/>
+        <rect id="Rectangle_9765" width="8.279" height="2.518" class="payment-class2" data-name="Rectangle 9765" rx=".621" transform="translate(0 13.474)"/>
+        <rect id="Rectangle_9766" width="8.279" height="2.518" class="payment-class2" data-name="Rectangle 9766" rx=".621" transform="translate(0 18.536)"/>
+        <rect id="Rectangle_9767" width="8.279" height="2.518" class="payment-class2" data-name="Rectangle 9767" rx=".621" transform="translate(0 23.598)"/>
+        <g id="Rectangle_9768" class="payment-class2" data-name="Rectangle 9768">
+            <path d="M0 0h3.032v3.032H0z" class="payment-class6" transform="translate(14.918 21.384)"/>
+            <path d="M.5.5h2.032v2.032H.5z" class="payment-class7" transform="translate(14.918 21.384)"/>
+        </g>
+        <g id="Rectangle_9769" class="payment-class2" data-name="Rectangle 9769">
+            <path d="M0 0h3.032v3.032H0z" class="payment-class6" transform="translate(20.065 21.384)"/>
+            <path d="M.5.5h2.032v2.032H.5z" class="payment-class7" transform="translate(20.065 21.384)"/>
+        </g>
+        <g id="Rectangle_9770" class="payment-class2" data-name="Rectangle 9770">
+            <path d="M0 0h3.032v3.032H0z" class="payment-class6" transform="translate(25.212 21.384)"/>
+            <path d="M.5.5h2.032v2.032H.5z" class="payment-class7" transform="translate(25.212 21.384)"/>
+        </g>
+        <g id="Rectangle_9771" class="payment-class2" data-name="Rectangle 9771">
+            <path d="M0 0h3.032v3.032H0z" class="payment-class6" transform="translate(14.918 25.643)"/>
+            <path d="M.5.5h2.032v2.032H.5z" class="payment-class7" transform="translate(14.918 25.643)"/>
+        </g>
+        <g id="Rectangle_9772" class="payment-class2" data-name="Rectangle 9772">
+            <path d="M0 0h3.032v3.032H0z" class="payment-class6" transform="translate(20.065 25.643)"/>
+            <path d="M.5.5h2.032v2.032H.5z" class="payment-class7" transform="translate(20.065 25.643)"/>
+        </g>
+        <path id="Rectangle_9773" d="M0 0h3.032v7.46H0z" class="payment-class5" data-name="Rectangle 9773" transform="translate(25.212 25.643)"/>
+        <g id="Rectangle_9774" class="payment-class2" data-name="Rectangle 9774">
+            <path d="M0 0h3.032v3.032H0z" class="payment-class6" transform="translate(14.918 30.07)"/>
+            <path d="M.5.5h2.032v2.032H.5z" class="payment-class7" transform="translate(14.918 30.07)"/>
+        </g>
+        <g id="Rectangle_9775" class="payment-class2" data-name="Rectangle 9775">
+            <path d="M0 0h3.032v3.032H0z" class="payment-class6" transform="translate(20.065 30.07)"/>
+            <path d="M.5.5h2.032v2.032H.5z" class="payment-class7" transform="translate(20.065 30.07)"/>
+        </g>
+    </g>
+</svg>

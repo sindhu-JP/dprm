@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.947" height="36.055" viewBox="0 0 31.947 36.055">
+    <defs>
+        <style>
+            .a,.b,.c,.g{fill:none}.a,.b,.c{stroke:#57606f}.a,.c{stroke-linecap:round}.a{stroke-miterlimit:10}.b,.c{stroke-linejoin:round}.f{stroke:none}
+        </style>
+    </defs>
+    <g transform="translate(-2845.2 -996.182)">
+        <path class="a" d="M2847.592,1006.9v-7.538a2.684,2.684,0,0,1,2.683-2.684h14.148l4.639,5.367v6.031" transform="translate(0.494 0)"/>
+        <path class="a" d="M2857.532,1020.631h-9.94v-1.212" transform="translate(0.494 5.938)"/>
+        <path class="b" d="M2865.287,1001.732h-2.213a2.049,2.049,0,0,1-2.049-2.049v-2.893Z" transform="translate(4.001 0.028)"/>
+        <line class="c" x2="8.681" transform="translate(2852.062 1002.843)"/>
+        <line class="c" x2="0.961" transform="translate(2863.394 1002.843)"/>
+        <rect class="b" width="18.621" height="23.657" rx="2.579" transform="translate(2858.026 1008.08)"/>
+        <rect width="13.077" height="5.213" rx="0.953" transform="translate(2860.743 1010.399)" style="fill:#cecece;stroke-linejoin:round;stroke:#57606f"/>
+        <rect class="b" width="8.279" height="2.518" rx="0.621" transform="translate(2845.7 1010.156)"/>
+        <rect class="b" width="8.279" height="2.518" rx="0.621" transform="translate(2845.7 1015.218)"/>
+        <rect class="b" width="8.279" height="2.518" rx="0.621" transform="translate(2845.7 1020.28)"/>
+        <g class="b" transform="translate(2860.619 1018.066)">
+            <rect class="f" width="3.032" height="3.032"/>
+            <rect class="g" x="0.5" y="0.5" width="2.032" height="2.032"/>
+        </g>
+        <g class="b" transform="translate(2865.766 1018.066)">
+            <rect class="f" width="3.032" height="3.032"/>
+            <rect class="g" x="0.5" y="0.5" width="2.032" height="2.032"/>
+        </g>
+        <g class="b" transform="translate(2870.912 1018.066)">
+            <rect class="f" width="3.032" height="3.032"/>
+            <rect class="g" x="0.5" y="0.5" width="2.032" height="2.032"/>
+        </g>
+        <g class="b" transform="translate(2860.619 1022.325)">
+            <rect class="f" width="3.032" height="3.032"/>
+            <rect class="g" x="0.5" y="0.5" width="2.032" height="2.032"/>
+        </g>
+        <g class="b" transform="translate(2865.766 1022.325)">
+            <rect class="f" width="3.032" height="3.032"/>
+            <rect class="g" x="0.5" y="0.5" width="2.032" height="2.032"/>
+        </g>
+        <rect width="3.032" height="7.46" transform="translate(2870.912 1022.325)" style="stroke:#57606f;fill:none"/>
+        <g class="b" transform="translate(2860.619 1026.752)">
+            <rect class="f" width="3.032" height="3.032"/>
+            <rect class="g" x="0.5" y="0.5" width="2.032" height="2.032"/>
+        </g>
+        <g class="b" transform="translate(2865.766 1026.752)">
+            <rect class="f" width="3.032" height="3.032"/>
+            <rect class="g" x="0.5" y="0.5" width="2.032" height="2.032"/>
+        </g>
+    </g>
+</svg>

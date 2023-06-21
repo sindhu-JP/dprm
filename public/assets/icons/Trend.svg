@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.078" height="18" viewBox="0 0 30.078 18">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-1,.cls-2{stroke:#000;stroke-width:2px}.cls-1{stroke-linecap:round}.cls-2{fill:#fff}.cls-3{stroke:none}
+        </style>
+    </defs>
+    <g id="Trend" transform="translate(-1193.681 -525)">
+        <path id="Path_27693" d="M495.681 129l8.868-8.868 6.079 6.079 12.045-12.045"  data-name="Path 27693" transform="translate(699 413)"/>
+        <g id="Ellipse_691"  data-name="Ellipse 691" transform="translate(1199.76 531)">
+            <circle cx="3" cy="3" r="3" />
+            <circle cx="3" cy="3" r="2" />
+        </g>
+        <g id="Ellipse_692"  data-name="Ellipse 692" transform="translate(1217.76 525)">
+            <circle cx="3" cy="3" r="3" />
+            <circle cx="3" cy="3" r="2" />
+        </g>
+    </g>
+</svg>

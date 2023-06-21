@@ -1,0 +1,18 @@
+{
+  "Search": {
+    "origin": [
+      [
+        "src/Components/TableSearch/SearchInput.jsx",
+        73
+      ]
+    ]
+  },
+  "Search By": {
+    "origin": [
+      [
+        "src/Components/TableSearch/SearchInput.jsx",
+        144
+      ]
+    ]
+  }
+}

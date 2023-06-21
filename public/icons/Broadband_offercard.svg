@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+<defs>
+<style>.broadbanda{fill:#67809f;}.broadbandb{fill:rgba(255,255,255,0);}.broadbandc{clip-path:url(#a);}.broadbandd{clip-path:url(#b);}.broadbande{clip-path:url(#c);}.broadbandf{clip-path:url(#e);}.broadbandg{clip-path:url(#g);}</style>
+<clipPath id="a"><path class="broadbanda" d="M13863.145-724.672l-1.145-1.039a17.459,17.459,0,0,1,22.924,0l-1.146,1.039A15.719,15.719,0,0,0,13863.145-724.672Z" transform="translate(-13862 730)"/>
+</clipPath><clipPath id="b"><path class="broadbanda" d="M12519-499.882h1351.725V-1524H12519Z" transform="translate(-12519 1524)"/></clipPath>
+<clipPath id="c">
+<path class="broadbanda" d="M13866.376-721.673l-1.146-1.039a12.579,12.579,0,0,1,8.43-3.159,12.581,12.581,0,0,1,8.43,3.159l-1.146,1.039A11.086,11.086,0,0,0,13866.376-721.673Z" transform="translate(-13865.23 725.871)"/>
+</clipPath><clipPath id="e"><path class="broadbanda" d="M13869.517-718.752l-1.146-1.039a8.154,8.154,0,0,1,5.473-2.051,8.189,8.189,0,0,1,5.473,2.051l-1.136,1.039a6.447,6.447,0,0,0-4.327-1.626A6.446,6.446,0,0,0,13869.517-718.752Z" transform="translate(-13868.371 721.842)"/>
+</clipPath><clipPath id="g"><path class="broadbanda" d="M13875.354-715.765a1.984,1.984,0,0,0-2.608,0l-1.146-1.039a3.73,3.73,0,0,1,4.9,0Z" transform="translate(-13871.601 717.721)"/></clipPath></defs><g transform="translate(-643 -3530)">
+<rect class="broadbandb" width="24" height="24" transform="translate(643 3530)"/><g transform="translate(644 3535)"><g class="broadbandc"><g class="broadbandd" transform="translate(-1260.67 -745.325)"><path class="broadbanda" d="M13857-720.285h32.309V-735H13857Z" transform="translate(-12601.024 1475.632)"/></g></g>
+<g class="broadbande" transform="translate(3.033 3.876)"><g class="broadbandd" transform="translate(-1263.702 -749.201)"><path class="broadbanda" d="M13860.23-717.286h26.245v-13.585h-26.245Z" transform="translate(-12601.222 1475.379)"/></g></g>
+<g class="broadbandf" transform="translate(5.979 7.657)"><g class="broadbandd" transform="translate(-1266.649 -752.983)"><path class="broadbanda" d="M13863.37-714.365h20.332v-12.477h-20.332Z" transform="translate(-12601.414 1475.132)"/></g></g>
+<g class="broadbandg" transform="translate(9.011 11.526)"><g class="broadbandd" transform="translate(-1269.681 -756.851)"><path class="broadbanda" d="M13866.6-711.378h14.291v-11.343H13866.6Z" transform="translate(-12601.613 1474.879)"/></g></g></g></g></svg>

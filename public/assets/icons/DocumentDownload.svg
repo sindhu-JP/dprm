@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.468" height="33.719" viewBox="0 0 26.468 33.719">
+    <defs>
+        <style>
+            .a-doc-download{fill:none;stroke:#999;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g transform="translate(-1568 -544)">
+        <g transform="translate(17 23)">
+            <path class="a-doc-download" d="M482.127,378.448v19.2l3.562,1.914,3.147-1.762,2.866,2.042,4.078-2.026,3.635,2.021,2.566-1.864v-23a2.359,2.359,0,0,0-2.291-2.333h-8.333" transform="translate(1074.987 154.294)"/>
+            <rect width="5.141" height="5.141" transform="translate(1559.149 535.966)" style="fill:#999"/>
+            <line class="a-doc-download" x2="7.829" transform="translate(1566.498 536.822)"/>
+            <line class="a-doc-download" x2="7.829" transform="translate(1566.498 538.647)"/>
+            <line class="a-doc-download" x2="7.829" transform="translate(1566.498 540.473)"/>
+            <line class="a-doc-download" x2="15.178" transform="translate(1559.149 544.123)"/>
+            <line class="a-doc-download" x2="15.178" transform="translate(1559.149 545.948)"/>
+            <line class="a-doc-download" x2="15.178" transform="translate(1559.149 547.773)"/>
+            <line class="a-doc-download" x2="15.178" transform="translate(1559.149 549.599)"/>
+        </g>
+        <circle cx="10" cy="10" r="10" transform="translate(1568 544)" style="fill:#673ab7"/>
+        <g transform="translate(1572.124 548.507)">
+            <g transform="translate(3.907)">
+                <path d="M19.606,5.528a.292.292,0,1,0-.413.413l3.343,3.343h0l.208.208.208-.208h0L26.3,5.941a.292.292,0,1,0-.413-.413L23.04,8.37V.293a.293.293,0,1,0-.586,0v8.08Z" transform="translate(-20.108)" style="fill:#fff;stroke:#fff;stroke-width:.8px"/>
+            </g>
+        </g>
+    </g>
+</svg>

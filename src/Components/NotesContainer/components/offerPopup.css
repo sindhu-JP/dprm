@@ -1,0 +1,84 @@
+.popup-container {
+  position: fixed;
+  top: 40%;
+  right: calc(0% - 17rem);
+  width: 25.8rem;
+  height: 9rem;
+  border-bottom-left-radius: 0.5rem;
+  border-top-left-radius: 0.5rem;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 2px 0px;
+  background: white;
+  transition: 0.3s ease-in-out;
+  z-index: 1;
+}
+
+.popup-container:hover {
+  right: 0;
+}
+
+.flex-row {
+  display: flex;
+}
+
+.yellow-strip {
+  height: 100%;
+  width: 1.2rem;
+  background: #fbca00;
+  border-bottom-left-radius: inherit;
+  border-top-left-radius: inherit;
+}
+
+.img-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.offer-text {
+  margin: 0;
+  font-size: 15px;
+  text-align: center;
+  line-height: 15px;
+}
+.offer-text2 {
+  margin: 0;
+  line-height: 25px;
+}
+.offer-img {
+  /* background-image: url("/assets/images/offerpopup.png"); */
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 13rem;
+  aspect-ratio: 1;
+}
+
+.offer-img::before {
+  content: attr(data-count);
+  background: red;
+  position: absolute;
+  aspect-ratio: 1;
+  width: 1.5rem;
+  border-radius: 50%;
+  text-align: center;
+  color: white;
+  left: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.offer-link {
+  text-decoration: underline;
+  margin: 0;
+  cursor: pointer;
+}
+
+.click-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  font-weight: 600;
+}

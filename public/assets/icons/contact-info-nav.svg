@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.5" height="33.468" viewBox="0 0 36.5 33.468">
+    <defs>
+        <style>
+            .contact1{fill:none;stroke-linejoin:round;stroke:currentColor}.cls-2{stroke:currentColor;fill:#cecece}
+        </style>
+    </defs>
+    <g id="Contact-info" transform="translate(-3689.251 -817.498)">
+        <g id="Group_49079" data-name="Group 49079" transform="translate(3689.748 817.997)">
+            <circle id="Ellipse_248" cx="5.343" cy="5.343" r="5.343" class="contact1" data-name="Ellipse 248" transform="translate(4.3)"/>
+            <path id="Path_37659" d="M3695.143 828.123a10.08 10.08 0 0 0-5.1 7.725" class="contact1" data-name="Path 37659" transform="translate(-3690.042 -817.567)"/>
+            <path id="Path_37660" d="M3708.24 835.848a10.082 10.082 0 0 0-5.1-7.725" class="contact1" data-name="Path 37660" transform="translate(-3688.953 -817.567)"/>
+        </g>
+        <path id="Line_2079" d="M0 0h13.729" class="contact1" data-name="Line 2079" transform="translate(3711.522 820.416)"/>
+        <path id="Line_2080" d="M0 0h13.729" class="contact1" data-name="Line 2080" transform="translate(3711.522 825.538)"/>
+        <path id="Line_2081" d="M0 0h13.729" class="contact1" data-name="Line 2081" transform="translate(3711.522 830.659)"/>
+        <path id="Line_2082" d="M0 0h13.729" class="contact1" data-name="Line 2082" transform="translate(3711.522 835.781)"/>
+        <rect id="Rectangle_9829" width="34.998" height="6.963" class="contact1" data-name="Rectangle 9829" rx="3.481" transform="translate(3690.253 843.502)"/>
+        <path id="Path_37728" d="M3.481 0h3.036a3.481 3.481 0 0 1 0 6.963H3.481a3.481 3.481 0 0 1 0-6.963z" class="cls-2" data-name="Path 37728" transform="translate(3690.253 843.502)"/>
+    </g>
+</svg>

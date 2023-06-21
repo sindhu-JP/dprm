@@ -1,0 +1,82 @@
+{
+  "PARTNER NAME": {
+    "origin": [
+      [
+        "src/Features/PotentialLead/PotentialLead.jsx",
+        331
+      ]
+    ]
+  },
+  "PARTNER REGISTRATION NUMBER": {
+    "origin": [
+      [
+        "src/Features/PotentialLead/PotentialLead.jsx",
+        348
+      ]
+    ]
+  },
+  "Partner Type": {
+    "origin": [
+      [
+        "src/Features/PotentialLead/PotentialLead.jsx",
+        364
+      ]
+    ]
+  },
+  "Partner Sub Type": {
+    "origin": [
+      [
+        "src/Features/PotentialLead/PotentialLead.jsx",
+        395
+      ]
+    ]
+  },
+  "Sub Category": {
+    "origin": [
+      [
+        "src/Features/PotentialLead/PotentialLead.jsx",
+        400
+      ]
+    ]
+  },
+  "PRIMARY CONTACT NAME": {
+    "origin": [
+      [
+        "src/Features/PotentialLead/PotentialLead.jsx",
+        435
+      ]
+    ]
+  },
+  "PHONE NUMBER": {
+    "origin": [
+      [
+        "src/Features/PotentialLead/PotentialLead.jsx",
+        452
+      ]
+    ]
+  },
+  "EMAIL": {
+    "origin": [
+      [
+        "src/Features/PotentialLead/PotentialLead.jsx",
+        469
+      ]
+    ]
+  },
+  "Clear": {
+    "origin": [
+      [
+        "src/Features/PotentialLead/PotentialLead.jsx",
+        498
+      ]
+    ]
+  },
+  "Proceed": {
+    "origin": [
+      [
+        "src/Features/PotentialLead/PotentialLead.jsx",
+        516
+      ]
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+.storybook-button {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: 0;
+  border-radius: 3em;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1;
+}
+.storybook-button--primary {
+  color: white;
+  background-color: #1ea7fd;
+}
+.storybook-button--secondary {
+  color: #333;
+  background-color: transparent;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+}
+.storybook-button--small {
+  font-size: 12px;
+  padding: 10px 16px;
+}
+.storybook-button--medium {
+  font-size: 14px;
+  padding: 11px 20px;
+}
+.storybook-button--large {
+  font-size: 16px;
+  padding: 12px 24px;
+}
+
+.makeStyles-customTabs-66 .Mui-selected {
+  border-radius: 18px !important;
+}
+.MuiListItemIcon-root {
+  min-width: 25px !important;
+}
+
+.MuiBox-root-68 .MuiBox-root-174 .MuiGrid-container div:nth-child(2) {
+  margin: -4px !important;
+}
+
+.MuiAutocomplete-fullWidth {
+  width: 60% !important;
+}
+
+.makeStyles-inner-196 div:nth-child(1) {
+  text-align: end !important;
+}
+
+.makeStyles-inner-196 div:nth-child(4) div:nth-child(2) button {
+  background-color: #ffcb05;
+}
+
+.masknewGrid img {
+  position: absolute;
+  right: 0;
+  height: 140px;
+  width: 36%;
+}
+
+.newTicketStatus button {
+  color: black !important;
+  background-color: #c9c8c8;
+  margin-right: 1rem;
+  border-radius: 5px;
+  font-family: 'BrighterSansRegular';
+  text-transform: capitalize;
+  font-size: 15px;
+}
+
+.newTicketStatus .css-1aquho2-MuiTabs-indicator {
+  display: none;
+}
+
+.newTicketStatus button:hover {
+  background-color: #ffcb05;
+}
+
+/* .newTicketStatus Button:hover { */
+/* background-color: #ffcb05; */
+/* color: white !important; */
+/* } */
+/* .newTicketStatus .MuiButton-label {
+  color: white;
+}
+
+.newTicketStatus {
+  align-items: center;
+  height: 4rem;
+}
+
+.newTicketStatus img {
+  rotate: -90deg !important;
+} */
+
+.borderbutton {
+  border-left: 2px solid grey !important;
+  height: 3rem !important;
+}
+
+.MuiOutlinedInput-adornedEnd {
+  border-radius: 1.25rem !important;
+  padding: 7px;
+}
+
+.partnerHead {
+  font-size: 20px !important;
+}
+
+.MuiTableRow-head th:nth-child(1) {
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.manageHeaderHierarchy:hover {
+  background-color: #ffcb05;
+  border-radius: 9px;
+}
+.manageHeaderHierarchy {
+  position: absolute;
+  right: 25rem;
+  top: 1.4rem;
+  z-index: 100;
+}
+.manageHeaderHierarchy button {
+  border-radius: 10px;
+}
+
+.otpClearBtn button {
+  border: 1px solid #ffcb05;
+  border-radius: 50px;
+}
+.submitOtpBtn .MuiButton-label,
+.makeStyles-primaryButton-156 .MuiButton-label {
+  color: black !important;
+}
+.closeOtpBtn .MuiButtonBase-root {
+  font-size: 25px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: white;
+}
+
+.globalSearch input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 30px;
+}
+
+/* Backoffcescrolltab */
+
+.backOfficeScrollBtn .MuiTabScrollButton-root {
+  color: #333 !important;
+}
+
+.commisionruleDropdown .MuiInputLabel-animated {
+  color: #010101 !important;
+  opacity: unset !important;
+  width: 100%;
+}
+
+.commisionruleDropdown .MuiInputLabel-animated:hover {
+  color: rgb(255, 255, 255) !important;
+}
+.MuiPickersDay-daySelected {
+  background-color: #faad14 !important;
+}
+.MuiPickersToolbarText-toolbarTxt {
+  color: black;
+}
+
+.commissionTypedropdown ul {
+  background-color: #ffcb05 !important;
+}
+
+.MuiMenu-list {
+  background: #ffcb05 !important;
+  color: Black !important;
+}
+
+.MuiMenu-list .MuiMenuItem-root {
+  color: black !important;
+}
+
+.MuiMenu-list .MuiMenuItem-root:hover {
+  color: white !important;
+  background-color: black !important;
+}
+
+/* .MuiMenu-list .MuiMenuItem-root:nth-child(even){
+  background-color: black !important;
+  color: white !important;
+}
+
+.MuiMenu-list .MuiMenuItem-root:nth-child(odd){
+  color: rgb(8, 8, 8) !important;
+}
+
+.MuiMenu-list .MuiMenuItem-root:nth-child(even):hover {
+  background-color: #4c4d4c !important;
+}
+
+.MuiMenu-list .MuiMenuItem-root:nth-child(odd):hover {
+  background-color: #F5D03D !important;
+}  */
+
+/* LOBDROPDOWN */
+
+.lobDropdown .MuiAutocomplete-popupIndicatorOpen {
+  background-color: #010101 !important;
+}
+.MuiPickersToolbarText-toolbarBtnSelected {
+  color: #0d0d0d !important;
+}
+.MuiPickersToolbarText-toolbarTxt {
+  color: black !important;
+}
+
+/* .MuiButton-label {
+border: 1px solid #faad14 !important;
+} */
+
+/* .MuiChip-labelSmall {
+  width: 74px !important;
+  text-align: center !important;
+} */
+
+.parterActiveBtn .MuiChip-labelSmall {
+  width: fit-content !important;
+}

@@ -1,0 +1,1046 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-08-27 20:00+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ar\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/Components/Footer/Footer360.jsx:129
+msgid " Digital partner Relationship Manager"
+msgstr "مدير علاقات الشريك الرقمي"
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:94
+msgid " UNSETTLED BALANCE"
+msgstr "رصيد غير مستقر"
+
+#: src/lib/constants/partnerTable.js:214
+msgid "'PRODUCT TECHNOLOGY'"
+msgstr "تكنولوجيا المنتج"
+
+#: src/Features/360/Partner360/Financial/FinancialTabs.jsx:199
+msgid "ADJUSTMENTS"
+msgstr "التعديلات"
+
+#: src/Components/TabsView/index.jsx:177
+msgid "ALL"
+msgstr "الكل"
+
+#: src/lib/constants/partnerTable.js:160
+msgid "APPROVAL FOR"
+msgstr "الموافقة على"
+
+#: src/lib/constants/partnerTable.js:164
+msgid "APPROVAL TYPE"
+msgstr "نوع الموافقة"
+
+#: src/Features/360/Partner360/RecentRequests/Tabs.jsx:141
+msgid "APPROVED"
+msgstr "وافق"
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:110
+msgid "AVAILABLE BALANCE KWD:"
+msgstr "الرصيد المتوفر دينار كويتي"
+
+#: src/lib/constants/Document.js:135
+msgid "Action"
+msgstr "عمل"
+
+#: src/Features/Home/Home.jsx:1012
+msgid "Active Partners"
+msgstr "شركاء نشطون"
+
+#: src/Components/NotesContainer/MyNotesCards.js:25
+#: src/Components/NotesContainer/NotesCard.jsx:22
+msgid "Add note here"
+msgstr "نوع الموافقة"
+
+#: src/Components/SearchBar/SearchModal.jsx:563
+msgid "Advance Search"
+msgstr "البحث المتقدم"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:331
+msgid "Agent"
+msgstr "وكيل"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:438
+msgid "Agent Category"
+msgstr "فئة الوكيل"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:388
+msgid "Agent LastName"
+msgstr "اسم العائلة للوكيل"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:404
+msgid "Agent MSISDN"
+msgstr "وكيل MSISDN"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:371
+msgid "Agent Name"
+msgstr "اسم العميل"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:488
+msgid "Agent SubCategory"
+msgstr "فئة الوكيل الفرعية"
+
+#: src/Features/Home/Home.jsx:203
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:80
+msgid "All"
+msgstr "الجميع"
+
+#: src/Features/BackOffice/index.jsx:1051
+msgid "All Groups"
+msgstr "كل المجموعات"
+
+#: src/Components/SearchBar/DropDownPill.jsx:170
+msgid "Apply"
+msgstr "يتقدم"
+
+#: src/lib/constants/constantview.js:203
+msgid "Back Office "
+msgstr "مكتب خلفي"
+
+#: src/Features/Home/Home.jsx:1128
+msgid "Bottom 5"
+msgstr "أسفل 5"
+
+#: src/Components/SearchBar/SearchModal.jsx:158
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:153
+msgid "CONTACT NUMBER"
+msgstr "رقم الاتصال"
+
+#: src/lib/constants/ContractTable.js:110
+msgid "CONTRACT"
+msgstr "عقد"
+
+#: src/lib/constants/ContractTable.js:98
+msgid "CONTRACT ID"
+msgstr "معرف العقد"
+
+#: src/lib/constants/ContractTable.js:118
+msgid "CONTRACT PERIOD"
+msgstr "مدة العقد"
+
+#: src/lib/constants/ContractTable.js:114
+msgid "CONTRACT TYPE"
+msgstr "نوع العقد"
+
+#: src/lib/constants/partnerTable.js:42
+msgid "CREATED DATE"
+msgstr "تاريخ الإنشاء"
+
+#: src/Components/NotesContainer/components/CreateNote.jsx:187
+#: src/Components/SearchBar/SearchModal.jsx:617
+msgid "Cancel"
+msgstr "يلغي"
+
+#: src/Components/SearchBar/DropDownPill.jsx:159
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:550
+#: src/Features/PotentialLead/PotentialLead.jsx:495
+msgid "Clear"
+msgstr "صافي"
+
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:391
+msgid "Closed Tickets"
+msgstr "التذاكر المغلقة"
+
+#: src/Components/Modals/Subscription.jsx:116
+#: src/Features/Home/FrequentlyUsedLinks.jsx:32
+msgid "Commission Rule Creation"
+msgstr "إنشاء قاعدة اللجنة"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:239
+msgid "Company RegNo"
+msgstr "شركة RegNo"
+
+#: src/Features/Reports/index.jsx:293
+msgid "Consolidated revenue of all the products launched and sold across channels."
+msgstr "الإيرادات الموحدة لجميع المنتجات التي تم إطلاقها وبيعها عبر القنوات."
+
+#: src/Components/SearchBar/SearchModal.jsx:128
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:123
+msgid "Contact Number"
+msgstr "رقم الاتصال"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:385
+msgid "Contract Count"
+msgstr "عدد العقد"
+
+#: src/lib/constants/constantview.js:88
+msgid "Contracts"
+msgstr "انكماش"
+
+#: src/Features/360/Partner360/ContractDetails/ContractDetails.jsx:169
+msgid "Contracts Details"
+msgstr "تفاصيل العقود"
+
+#: src/Components/Footer/Footer360.jsx:135
+msgid "Copyright"
+msgstr "حقوق النشر"
+
+#: src/lib/constants/Document.js:97
+msgid "Create Date"
+msgstr "تاريخ الإنشاء"
+
+#: src/Components/SearchBar/SearchBar.jsx:491
+msgid "Customer Authentication Successful."
+msgstr "مصادقة العميل ناجحة."
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:224
+#: src/lib/constants/constantview.js:183
+msgid "Customer Orders"
+msgstr "طلبات العملاء"
+
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:138
+msgid "Customer Type"
+msgstr "نوع العميل"
+
+#: src/Components/SearchBar/SearchModal.jsx:163
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:158
+msgid "DATE OF BIRTH"
+msgstr "تاريخ الولادة"
+
+#: src/lib/constants/Document.js:116
+msgid "DMS REFERENCE ID"
+msgstr "معرف مرجع DMS"
+
+#: src/lib/constants/Document.js:107
+msgid "DOCUMENT TYPE"
+msgstr "نوع الوثيقة"
+
+#: src/Features/360/Partner360/Documents/Documents.jsx:181
+msgid "Document Details"
+msgstr "تفاصيل المستند"
+
+#: src/lib/constants/constantview.js:150
+msgid "Documents"
+msgstr "وثائق"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:421
+#: src/Features/PotentialLead/PotentialLead.jsx:466
+#: src/lib/constants/partnerTable.js:24
+#: src/lib/constants/partnerTable.js:80
+#: src/lib/constants/partnerTable.js:121
+msgid "EMAIL"
+msgstr "البريد الإلكتروني"
+
+#: src/Components/SearchBar/SearchModal.jsx:169
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:164
+msgid "EMAIL ID"
+msgstr "عنوان الايميل"
+
+#: src/lib/constants/ContractTable.js:129
+msgid "END DATE"
+msgstr "تاريخ الانتهاء"
+
+#: src/Components/SearchBar/SearchModal.jsx:129
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:124
+msgid "ENTER CONTACT NUMBER"
+msgstr "أدخل رقم الاتصال"
+
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:139
+msgid "ENTER CUSTOMER TYPE"
+msgstr "أدخل نوع العميل"
+
+#: src/Components/SearchBar/SearchModal.jsx:134
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:129
+msgid "ENTER EMAIL ID"
+msgstr "أدخل معرف البريد الإلكتروني"
+
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:134
+msgid "ENTER NATIONAL ID"
+msgstr "أدخل الرقم القومي"
+
+#: src/lib/constants/Document.js:120
+msgid "EXPIRY DATE"
+msgstr "تاريخ انتهاء الصلاحية"
+
+#: src/Components/SearchBar/SearchModal.jsx:133
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:128
+msgid "Email ID"
+msgstr "عنوان الايميل"
+
+#: src/Components/SearchBar/SearchModal.jsx:239
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:255
+msgid "Enter atleast 3 characters"
+msgstr "أدخل 3 أحرف على الأقل"
+
+#: src/Components/SearchBar/Globalsearch.jsx:41
+#: src/Components/SearchBar/SearchBar.jsx:386
+msgid "Fetching"
+msgstr "أدخل 3 أحرف على الأقل"
+
+#: src/Features/TroubleTicket/PartnerTickets/FilterChips.jsx:44
+msgid "Filtered By:"
+msgstr ""
+
+#: src/Features/360/Partner360/Financial/Financial.jsx:91
+#: src/lib/constants/constantview.js:120
+msgid "Financials"
+msgstr "المالية"
+
+#: src/Features/Home/FrequentlyUsedLinks.jsx:62
+msgid "Frequently Used Links"
+msgstr "أدخل 3 أحرف على الأقل"
+
+#: src/Features/GroupAssignment/index.jsx:220
+#: src/lib/constants/constantview.js:193
+msgid "Group 360"
+msgstr "مجموعة 360"
+
+#: src/Components/Profile/index.jsx:130
+msgid "Help"
+msgstr "مساعدة"
+
+#: src/Components/Alert.jsx:140
+msgid "Hide Details"
+msgstr "أخف التفاصيل"
+
+#: src/Features/Reports/index.jsx:270
+msgid "Holistic view of sales progress achieved by multiple partners."
+msgstr "نظرة شاملة لتقدم المبيعات الذي حققه شركاء متعددون."
+
+#: src/Components/Sidebar.jsx:331
+#: src/lib/constants/constantview.js:168
+msgid "Home"
+msgstr "مسكن"
+
+#: src/lib/constants/Document.js:102
+msgid "ID"
+msgstr "بطاقة تعريف"
+
+#: src/lib/constants/partnerTable.js:175
+msgid "INITIATOR"
+msgstr "البادئ"
+
+#: src/Features/360/Partner360/Financial/FinancialTabs.jsx:189
+msgid "INVOICE"
+msgstr "فاتورة"
+
+#: src/Features/BackOffice/index.jsx:997
+msgid "InProgress Tasks"
+msgstr "مهام جارية"
+
+#: src/Features/Reports/index.jsx:250
+msgid "Information of order placed against each product and periodical order history."
+msgstr "معلومات الطلبات المقدمة مقابل كل منتج وتاريخ الطلب الدوري."
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:99
+msgid "KWD"
+msgstr "دينار كويتي"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:204
+msgid "LOB"
+msgstr "رفع الكرة"
+
+#: src/Features/Home/Home.jsx:218
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:95
+msgid "Last 1 Month"
+msgstr "الشهر الماضي"
+
+#: src/Features/Home/Home.jsx:223
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:100
+msgid "Last 3 Month"
+msgstr "آخر 3 أشهر"
+
+#: src/Features/Home/Home.jsx:213
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:90
+msgid "Last week"
+msgstr "الأسبوع الماضي"
+
+#: src/Features/BackOffice/index.jsx:98
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:167
+msgid "List is empty"
+msgstr "القائمة فارغة"
+
+#: src/Components/401Dialog/ReloginDialog.jsx:57
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: src/Components/Profile/index.jsx:136
+msgid "Logout"
+msgstr "تسجيل خروج"
+
+#: src/Features/360/Partner360/Users/UserTabs.jsx:143
+msgid "MASTER"
+msgstr "رئيسي - سيد"
+
+#: src/lib/constants/partnerTable.js:19
+#: src/lib/constants/partnerTable.js:75
+#: src/lib/constants/partnerTable.js:116
+msgid "MOBILE NUMBER"
+msgstr "رقم الهاتف المحمول"
+
+#: src/Components/Table/index.jsx:103
+#: src/Features/360/Partner360/Partner360Header.jsx:162
+#: src/Features/LeadDetails/LeadInformation.jsx:444
+#: src/Features/PotentialLead/ExistingLeadOverview/ExistingLeadOverview.jsx:110
+#: src/Features/PotentialLead/ExistingLeadOverview/Heading.jsx:313
+#: src/lib/constants/statuses.js:566
+msgid "Manage Hierarchy"
+msgstr "إدارة التسلسل الهرمي"
+
+#: src/Features/360/Partner360/Tabs.jsx:340
+#: src/Features/360/Partner360/Tabs.jsx:396
+msgid "Master Partner"
+msgstr "الشريك الرئيسي"
+
+#: src/Components/Modals/AgentSuccessModal.jsx:307
+msgid "Master Partner created successfully, Approval pending."
+msgstr "تم إنشاء الشريك الرئيسي بنجاح ، والموافقة معلقة."
+
+#: src/Components/NotesContainer/components/SideDrawer.jsx:288
+msgid "My Notes"
+msgstr "ملاحظاتي"
+
+#: src/Features/BackOffice/index.jsx:1032
+msgid "My Task"
+msgstr "مهمتي"
+
+#: src/Features/BackOffice/index.jsx:991
+msgid "My Tasks"
+msgstr "مهمتي"
+
+#: src/lib/constants/Document.js:112
+msgid "NAME"
+msgstr "اسم"
+
+#: src/Components/SearchBar/SearchModal.jsx:179
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:174
+msgid "NATIONAL ID"
+msgstr "الهوية الوطنية"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:518
+msgid "NID/Passport/Refugee ID"
+msgstr "NID / جواز السفر / هوية اللاجئ"
+
+#: src/Components/SearchBar/SearchBar.jsx:337
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:279
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:133
+msgid "National ID"
+msgstr "الهوية الوطنية"
+
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:423
+#: src/Features/BackOffice/index.jsx:1222
+#: src/Features/TroubleTicket/Dashboard/index.jsx:425
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:644
+msgid "Next Page"
+msgstr "الصفحة التالية"
+
+#: src/Components/SearchBar/SearchModal.jsx:189
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:184
+msgid "No Data Available"
+msgstr "لا تتوافر بيانات"
+
+#: src/Components/SearchBar/Globalsearch.jsx:22
+#: src/Components/SearchBar/Globalsearch.jsx:45
+#: src/Components/SearchBar/SearchBar.jsx:169
+#: src/Components/SearchBar/SearchBar.jsx:390
+msgid "No Data Found For Search Criteria"
+msgstr "لم يتم العثور على بيانات لمعايير البحث"
+
+#: src/Components/Table/RenderTable.jsx:119
+#: src/Features/Home/Home.jsx:1275
+#: src/Features/ManageHierarchy/ProductList.jsx:204
+msgid "No Information Available"
+msgstr "لا توجد معلومات متاحة"
+
+#: src/Features/LeadCreation/Sections/DocuPreview.jsx:72
+#: src/Features/LeadDetails/Attachpreview.jsx:109
+msgid "No Preview available"
+msgstr "لا تتوفر معاينة"
+
+#: src/Components/SearchBar/Timelines.jsx:419
+msgid "No information available"
+msgstr "لا توجد معلومات متاحة"
+
+#: src/Components/SearchBar/SearchModal.jsx:574
+msgid "Normal Search"
+msgstr "بحث عادي"
+
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:386
+msgid "Open Ticket"
+msgstr "تذكرة مفتوحة"
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:291
+msgid ""
+"Order ID, Parter ID, Customer ID, Product\r\n"
+"                                  Name, Product ID"
+msgstr "معرّف الطلب ومعرّف الطرف ومعرّف العميل والمنتج \\ r \\ n"
+
+#: src/lib/constants/constantview.js:108
+msgid "Order Tracking"
+msgstr "تتبع الطلب"
+
+#: src/Features/360/Partner360/Orders/index.jsx:174
+msgid "Orders"
+msgstr "Orders"
+
+#: src/Components/TabsView/index.jsx:172
+msgid "PARTNER"
+msgstr "شريك"
+
+#: src/lib/constants/ContractTable.js:102
+#: src/lib/constants/partnerTable.js:11
+#: src/lib/constants/partnerTable.js:67
+#: src/lib/constants/partnerTable.js:108
+#: src/lib/constants/partnerTable.js:201
+msgid "PARTNER ID"
+msgstr "معرف الشريك"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:328
+#: src/lib/constants/partnerTable.js:15
+#: src/lib/constants/partnerTable.js:71
+#: src/lib/constants/partnerTable.js:205
+msgid "PARTNER NAME"
+msgstr "اسم شريك"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:345
+msgid "PARTNER REGISTRATION NUMBER"
+msgstr "رقم تسجيل الشريك"
+
+#: src/lib/constants/partnerTable.js:37
+msgid "PARTNER SUBTYPE"
+msgstr "نوع الشريك"
+
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:357
+msgid "PARTNER TICKETS"
+msgstr "تذاكر الشريك"
+
+#: src/lib/constants/partnerTable.js:33
+msgid "PARTNER TYPE"
+msgstr "نوع الشريك"
+
+#: src/lib/constants/ContractTable.js:106
+msgid "PARTNER/PRODUCT NAME"
+msgstr "اسم الشريك / المنتج"
+
+#: src/Features/360/Partner360/RecentRequests/Tabs.jsx:146
+msgid "PENDING"
+msgstr "ريثما"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:449
+msgid "PHONE NUMBER"
+msgstr "رقم الهاتف"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:432
+msgid "PRIMARY CONTACT NAME"
+msgstr "اسم جهة الاتصال الأساسي"
+
+#: src/lib/constants/partnerTable.js:193
+msgid "PRODUCT ID"
+msgstr "معرف المنتج"
+
+#: src/lib/constants/partnerTable.js:210
+msgid "PRODUCT LOB"
+msgstr "المنتج LOB"
+
+#: src/lib/constants/partnerTable.js:197
+msgid "PRODUCT NAME"
+msgstr "اسم المنتج"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:329
+msgid "Partner"
+msgstr "شريك"
+
+#: src/Features/Reports/index.jsx:333
+#: src/Features/Reports/index.jsx:335
+msgid "Partner Customer Ticket Summary"
+msgstr "ملخص تذكرة العميل الشريك"
+
+#: src/lib/constants/constantview.js:23
+msgid "Partner Details"
+msgstr "تفاصيل الشريك"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:192
+msgid "Partner ID"
+msgstr "معرف الشريك"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:227
+msgid "Partner ID "
+msgstr "معرف الشريك"
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:263
+#: src/Features/Reports/index.jsx:247
+msgid "Partner Order Summary"
+msgstr "ملخص طلب الشريك"
+
+#: src/Features/Reports/index.jsx:278
+msgid "Partner Payment Summary"
+msgstr "ملخص دفع الشريك"
+
+#: src/Features/Reports/index.jsx:223
+msgid "Partner Product Summary"
+msgstr "ملخص منتج الشريك"
+
+#: src/Features/Home/Home.jsx:1394
+msgid "Partner Products"
+msgstr "منتجات الشريك"
+
+#: src/Features/Home/Home.jsx:1105
+#: src/Features/Reports/index.jsx:267
+msgid "Partner Sales Summary"
+msgstr "ملخص مبيعات الشريك"
+
+#: src/Features/Reports/index.jsx:301
+msgid "Partner Settlement Summary"
+msgstr "ملخص تسوية الشريك"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:392
+msgid "Partner Sub Type"
+msgstr "النوع الفرعي للشريك"
+
+#: src/Features/Reports/index.jsx:151
+#: src/Features/Reports/index.jsx:191
+msgid "Partner Summary"
+msgstr "ملخص الشريك"
+
+#: src/lib/constants/constantview.js:143
+msgid "Partner Ticket"
+msgstr "تذكرة الشريك"
+
+#: src/Features/Reports/index.jsx:313
+#: src/Features/Reports/index.jsx:315
+msgid "Partner Trouble Ticket Summary"
+msgstr "ملخص تذكرة مشاكل الشريك"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:361
+msgid "Partner Type"
+msgstr "نوع الشريك"
+
+#: src/Features/Reports/index.jsx:196
+msgid "Partner's basic Information & their status ."
+msgstr "المعلومات الأساسية للشريك وحالتهم."
+
+#: src/Features/Reports/index.jsx:153
+msgid "Partner's basic Information & their status."
+msgstr "المعلومات الأساسية للشريك وحالتهم."
+
+#: src/Features/Reports/index.jsx:226
+msgid "Partner's product information and their periodical product sale."
+msgstr "معلومات منتج الشريك وبيع منتجاته بشكل دوري."
+
+#: src/Features/Home/Home.jsx:1021
+msgid "Pending Partner"
+msgstr "شريك معلق"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:313
+msgid "Potential Parnter"
+msgstr "Parnter المحتمل"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:311
+msgid "Potential Partner / Agent Info "
+msgstr "معلومات الشريك / الوكيل المحتمل"
+
+#: src/Features/Home/Tabs..jsx:332
+#: src/Features/Home/Tabs..jsx:352
+msgid "Potential Partners"
+msgstr "الشركاء المحتملين"
+
+#: src/Features/Home/Tabs..jsx:337
+#: src/Features/Home/Tabs..jsx:416
+msgid "Potential Tenants"
+msgstr "المستأجرين المحتملين"
+
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:420
+#: src/Features/BackOffice/index.jsx:1218
+#: src/Features/TroubleTicket/Dashboard/index.jsx:422
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:641
+msgid "Previous Page"
+msgstr "الصفحة السابقة"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:263
+msgid "Primary Contact"
+msgstr "اتصال رئيسي"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:561
+#: src/Features/PotentialLead/PotentialLead.jsx:514
+#: src/Features/TroubleTicket/LogTicket/MinimizeLogTicket.jsx:326
+msgid "Proceed"
+msgstr "يتابع"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:403
+msgid "Product Count"
+msgstr "عدد المنتجات"
+
+#: src/lib/constants/constantview.js:49
+msgid "Product Details"
+msgstr "تفاصيل المنتج"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:215
+msgid "Product Technology"
+msgstr "تكنولوجيا المنتج"
+
+#: src/Features/360/Partner360/ProductList.jsx:148
+#: src/lib/constants/constantview.js:75
+msgid "Products"
+msgstr "منتجات"
+
+#: src/Features/BackOffice/TicketDetailsWrapper/WorkflowDetails.jsx:17
+msgid "Provisioning"
+msgstr "التزويد"
+
+#: src/Components/Modals/Subscription.jsx:100
+#: src/Components/Navbar.jsx:213
+msgid "Quick Links"
+msgstr "روابط سريعة"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:251
+msgid "Quote ID"
+msgstr "معرف الاقتباس"
+
+#: src/Features/360/Partner360/RecentRequests/Requests.jsx:164
+msgid "RECENT REQUESTS"
+msgstr "الطلبات الأخيرة"
+
+#: src/Features/BackOffice/index.jsx:1146
+#: src/lib/constants/partnerTable.js:156
+msgid "REQUEST ID"
+msgstr "طلب معرف"
+
+#: src/Components/Modals/Quicklink.jsx:173
+msgid "Re-Active Account"
+msgstr ""
+
+#: src/Features/BackOffice/index.jsx:1005
+msgid "Reject Tasks"
+msgstr "رفض المهام"
+
+#: src/Features/Home/Home.jsx:990
+#: src/Features/Reports/index.jsx:904
+msgid "Reports"
+msgstr "التقارير"
+
+#: src/lib/constants/constantview.js:100
+msgid "Requests"
+msgstr "الطلبات"
+
+#: src/Features/BackOffice/index.jsx:1013
+msgid "Resolved Tasks"
+msgstr "المهام التي تم حلها"
+
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:396
+msgid "Resolved Tickets"
+msgstr "التذاكر التي تم حلها"
+
+#: src/Features/Home/Home.jsx:1037
+msgid "Retired Partners"
+msgstr "الشركاء المتقاعدون"
+
+#: src/Features/Reports/index.jsx:290
+msgid "Revenue Summary"
+msgstr "ملخص الإيرادات"
+
+#: src/Components/Modals/Quicklink.jsx:153
+#: src/Components/Modals/Subscription.jsx:126
+msgid "Revoke Suspension"
+msgstr "إلغاء التعليق"
+
+#: src/Components/SearchBar/SearchModal.jsx:152
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:147
+msgid "SEARCH TYPE"
+msgstr "نوع البحث"
+
+#: src/Features/360/Partner360/Financial/FinancialTabs.jsx:194
+msgid "SETTLEMENT"
+msgstr "مستعمرة"
+
+#: src/lib/constants/ContractTable.js:123
+#: src/lib/constants/partnerTable.js:131
+#: src/lib/constants/partnerTable.js:169
+msgid "START  DATE"
+msgstr "تاريخ البدء"
+
+#: src/lib/constants/partnerTable.js:85
+msgid "START DATE"
+msgstr "تاريخ البدء"
+
+#: src/Components/SearchBar/SearchModal.jsx:174
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:169
+#: src/lib/constants/ContractTable.js:135
+#: src/lib/constants/Document.js:126
+#: src/lib/constants/partnerTable.js:54
+#: src/lib/constants/partnerTable.js:91
+#: src/lib/constants/partnerTable.js:143
+#: src/lib/constants/partnerTable.js:180
+#: src/lib/constants/partnerTable.js:219
+msgid "STATUS"
+msgstr "الحالة"
+
+#: src/Components/NotesContainer/components/CreateNote.jsx:196
+msgid "Save"
+msgstr ""
+
+#: src/Components/TableSearch/NormalSearch.jsx:220
+#: src/Components/TableSearch/SearchBar.jsx:157
+#: src/Components/TableSearch/SearchInput.jsx:73
+#: src/Features/360/Partner360/Documents/Documents.jsx:208
+#: src/Features/360/Partner360/Orders/index.jsx:201
+#: src/Features/360/Partner360/RecentRequests/Requests.jsx:190
+msgid "Search"
+msgstr "يبحث"
+
+#: src/Components/TableSearch/SearchBar.jsx:178
+#: src/Components/TableSearch/SearchInput.jsx:144
+msgid "Search By"
+msgstr "البحث عن طريق"
+
+#: src/Features/GroupAssignment/Header.jsx:24
+msgid "Search Groups"
+msgstr "مجموعات البحث"
+
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:315
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:369
+#: src/Features/BackOffice/index.jsx:1156
+#: src/Features/TroubleTicket/Dashboard/index.jsx:311
+#: src/Features/TroubleTicket/Dashboard/index.jsx:365
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:539
+msgid "Service ID"
+msgstr "معرف الخدمة"
+
+#: src/Components/SearchBar/SearchBar.jsx:356
+msgid "Services"
+msgstr "خدمات"
+
+#: src/Components/401Dialog/ReloginDialog.jsx:35
+msgid "Session Expired"
+msgstr "انتهت الجلسة"
+
+#: src/Components/401Dialog/ReloginDialog.jsx:40
+msgid "Session has expired kindly login again .."
+msgstr "انتهت الجلسة ، يرجى تسجيل الدخول مرة أخرى .."
+
+#: src/Components/Modals/Subscription.jsx:108
+#: src/Features/Home/FrequentlyUsedLinks.jsx:27
+msgid "Settlement Rule Creation"
+msgstr "إنشاء قاعدة التسوية"
+
+#: src/Components/Alert.jsx:142
+msgid "Show Details"
+msgstr "اظهر التفاصيل"
+
+#: src/Components/ReportsFilter.jsx:387
+msgid "Status"
+msgstr "حالة"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:397
+msgid "Sub Category"
+msgstr "تصنيف فرعي"
+
+#: src/Components/SearchBar/SearchModal.jsx:629
+#: src/Features/TroubleTicket/LogTicket/MaximizeLogTicker.jsx:1832
+msgid "Submit"
+msgstr "يُقدِّم"
+
+#: src/Features/Reports/index.jsx:281
+msgid "Summarized view of payment made against the partner invoices."
+msgstr "عرض مُلخص للدفع الذي تم سداده مقابل فواتير الشريك."
+
+#: src/Components/Modals/Quicklink.jsx:132
+#: src/Components/Modals/Subscription.jsx:121
+msgid "Suspend Partner/Tenant"
+msgstr "تعليق الشريك / المستأجر"
+
+#: src/Features/Home/Home.jsx:1029
+msgid "Suspended Partners"
+msgstr "الشركاء المعلقين"
+
+#: src/Features/360/Partner360/Users/UserTabs.jsx:144
+msgid "TENANT"
+msgstr "مستأجر"
+
+#: src/lib/constants/partnerTable.js:104
+msgid "TENANT ID"
+msgstr "معرف المستأجر"
+
+#: src/lib/constants/partnerTable.js:112
+msgid "TENANT NAME"
+msgstr "اسم المستأجر"
+
+#: src/Features/360/Partner360/Financial/FinancialTabs.jsx:204
+msgid "TRANSACTIONS"
+msgstr "المعاملات"
+
+#: src/Components/Table/RenderTable.jsx:235
+msgid "Task Allocations policy"
+msgstr "سياسة تخصيص المهام"
+
+#: src/Features/GroupAssignment/TaskAssignment/index.jsx:99
+msgid "Task Assignment"
+msgstr "تعيين مهمة"
+
+#: src/Features/GroupAssignment/TabsGroup.jsx:46
+msgid "Tasks"
+msgstr "مهام"
+
+#: src/Features/BackOffice/index.jsx:1036
+msgid "Team Task"
+msgstr "مهمة الفريق"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:414
+msgid "Tenant Count"
+msgstr "عدد المستأجرين"
+
+#: src/lib/constants/constantview.js:36
+msgid "Tenant Details"
+msgstr "تفاصيل المستأجر"
+
+#: src/Features/360/Partner360/TenantList.jsx:119
+#: src/lib/constants/constantview.js:63
+msgid "Tenants"
+msgstr "المستأجرين"
+
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:307
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:363
+#: src/Features/TroubleTicket/Dashboard/index.jsx:303
+#: src/Features/TroubleTicket/Dashboard/index.jsx:359
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:529
+msgid "Ticket ID"
+msgstr "معرف التذكرة"
+
+#: src/Features/Home/Home.jsx:208
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:85
+#: src/Features/TroubleTicket/Components/TicketStatusCard.jsx:710
+msgid "Today"
+msgstr "اليوم"
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:83
+msgid "Today's summary"
+msgstr "ملخص اليوم"
+
+#: src/Features/Home/Home.jsx:1125
+msgid "Top 5"
+msgstr "أعلى 5"
+
+#: src/Features/Home/Home.jsx:1045
+msgid "Total Count"
+msgstr "العدد الإجمالي"
+
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:380
+msgid "Total Interaction"
+msgstr "إجمالي التفاعل"
+
+#: src/Features/360/Partner360/Users/index.jsx:98
+#: src/Features/GroupAssignment/TabsGroup.jsx:50
+#: src/lib/constants/constantview.js:133
+msgid "Users"
+msgstr "المستخدمون"
+
+#: src/Features/Reports/index.jsx:304
+msgid "View of partner accounts which are due for final settlements."
+msgstr "عرض حسابات الشركاء المستحقة للتسويات النهائية."
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:61
+msgid "Wallet Details"
+msgstr "تفاصيل المحفظة"
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:74
+msgid "Wallet ID"
+msgstr "معرف المحفظة"
+
+#: src/Features/BackOffice/index.jsx:962
+msgid "Your Performance"
+msgstr "أداؤك"
+
+#: src/Components/TableSearch/NormalSearch.jsx:221
+#: src/Features/360/Partner360/Documents/Documents.jsx:209
+#: src/Features/360/Partner360/Orders/index.jsx:202
+#: src/Features/360/Partner360/RecentRequests/Requests.jsx:191
+msgid "bottom"
+msgstr "الأسفل"
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:280
+msgid "completed"
+msgstr "منجز"
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:275
+msgid "created"
+msgstr "خلقت"
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:285
+msgid "terminated"
+msgstr "تم إنهاؤه"
+
+#: src/Components/NotesContainer/MyNotesCards.js:26
+#: src/Components/NotesContainer/NotesCard.jsx:22
+msgid "See All Notes"
+msgstr "عرض جميع الملاحظات"
+
+#: src/Components/NotesContainer/MyNotesCards.js:27
+#: src/Components/NotesContainer/NotesCard.jsx:22
+msgid "Hide Notes"
+msgstr "إخفاء الملاحظات"
+
+#: src/Components/Charts/Amchartsgraph.jsx:13
+msgid "Partner Name"
+msgstr 
+"اسم الشريك"
+
+#: src/Components/Charts/Amchartsgraph.jsx:14
+msgid "Product Sold"
+msgstr 
+"المنتج المباع"
+
+#: src/Components/ReportsFilter.jsx:157
+msgid "Filters"
+msgstr "مرشحات"
+
+#: src/Components/ReportsFilter.jsx:166
+msgid "FROM DATE"
+msgstr "من تاريخ"
+
+#: src/Components/ReportsFilter.jsx:166
+msgid "TO DATE"
+msgstr "حتى الآن"
+
+#: src/Features/Home/Tabs..jsx:219
+#: src/Features/Home/Tabs..jsx:219
+msgid "Partner Id"
+msgstr "معرف الشريك"
+
+#: src/Features/Home/Tabs..jsx:121
+#: src/Features/Home/Tabs..jsx:121
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: src/Features/Home/Tabs..jsx:122
+#: src/Features/Home/Tabs..jsx:122
+msgid "Mobile"
+msgstr "جوال"
+
+#: src/Features/Home/Tabs..jsx:122
+#: src/Features/Home/Tabs..jsx:122
+msgid "Tenant Id"
+msgstr "معرف المستأجر"
+
+#: src/Features/Home/Tabs..jsx:122
+#: src/Features/Home/Tabs..jsx:122
+msgid "Tenant Name"
+msgstr "اسم المستأجر"
+
+#: src/Components/tables/RenderTable.jsx:73
+msgid "of"
+msgstr "من"
+
+#: src/Components/tables/RenderTable.jsx:74
+msgid "Rows Per Page"
+msgstr "صفوف لكل صفحة"
+
+#: src/Components/ReportsFilter.jsx:132
+msgid "Active"
+msgstr "نشط"
+
+#: src/Components/ReportsFilter.jsx:133
+msgid "Pending"
+msgstr "المعلقه"
+
+#: src/Components/ReportsFilter.jsx:135
+msgid "Rejected"
+msgstr "نبيذ"

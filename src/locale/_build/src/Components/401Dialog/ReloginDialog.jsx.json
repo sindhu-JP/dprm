@@ -1,0 +1,26 @@
+{
+  "Session Expired": {
+    "origin": [
+      [
+        "src/Components/401Dialog/ReloginDialog.jsx",
+        35
+      ]
+    ]
+  },
+  "Session has expired kindly login again ..": {
+    "origin": [
+      [
+        "src/Components/401Dialog/ReloginDialog.jsx",
+        40
+      ]
+    ]
+  },
+  "Login": {
+    "origin": [
+      [
+        "src/Components/401Dialog/ReloginDialog.jsx",
+        57
+      ]
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+.chart-menu {
+    left: 0;
+    opacity: 1;
+    background-color: rgb(255, 254, 255);
+    box-shadow: rgb(220, 220, 220) 0px 1px 2px 0px;
+    display: inline-block;
+    z-index: 1000;
+    position: absolute;
+    text-align: left;
+    user-select: none;
+  
+    top: 217px;
+}
+/* .chart-menu {
+     margin-left: 150px !important;
+      padding: 0px;
+      display: flex !important;
+      left: 950px !important;
+     
+      margin-top: -10px;
+    } */

@@ -1,0 +1,654 @@
+{
+  "_id": "LEMQSOHA9168",
+  "companyDetails": {
+    "companyName": "Starbucks1",
+    "companyRegistrationNumber": "ST12345678",
+    "customerCategory": "CORP",
+    "customerSubCategory": "CORA",
+    "leadClassification": "MEDIUM",
+    "industryType": "IT01"
+  },
+  "companyAddress": {
+    "city": "Accra",
+    "country": "GH",
+    "landmark": "TT",
+    "genericDetailsHolder": {},
+    "addressLine1": "Vijaynagar #21 bangalore"
+  },
+  "primaryContactDetails": {
+    "name": "AKASH",
+    "lastName": "A",
+    "designation": "admin",
+    "mobileNumber": "8767676767",
+    "email": "akash@tecntree.com",
+    "whatsapp": "7676767676",
+    "contactMedium": [
+      "whatsapp",
+      "email"
+    ]
+  },
+  "lob": "Broadband",
+  "leadAssignment": {
+    "name": "dlpmmanager",
+    "mobileNumber": "9278269092",
+    "email": "dlpmmanager@gmail.com"
+  },
+  "referralInformation": {},
+  "consumptionPattern": {
+    "minutesOfLocalCallPerMonth": "11",
+    "minutesOfOffnetCallsPerMonth": "11",
+    "activeMessagesPerMonth": "high",
+    "minutesOfInternationVoiceCallsPerMonth": "12",
+    "frequentTraveler": true,
+    "dataUse": [
+      "checkingWorkEmails",
+      "checkingPersonalEmails"
+    ]
+  },
+  "createdDate": "2020-11-25T08:20:03.685Z",
+  "modifiedDate": "2020-11-25T10:11:43.187Z",
+  "status": "QUOTE_APPROVAL",
+  "statusChangeReason": "reason",
+  "statusChange": [
+    {
+      "status": "OPPORTUNITY_CREATION",
+      "changeDate": "2020-11-25T08:20:26.167Z"
+    },
+    {
+      "status": "QUOTE_GENERATE",
+      "changeDate": "2020-11-25T08:22:29.614Z"
+    },
+    {
+      "status": "QUOTE_APPROVAL",
+      "changeDate": "2020-11-25T10:11:43.183Z"
+    }
+  ],
+  "quote": {
+    "id": "QH1FMYD1P29",
+    "collectionName": "Quote"
+  },
+  "serviceOfInterest": {
+    "vas": {},
+    "products": {
+      "5ef2eac312b18e00069424b7": {
+        "isBundle": false,
+        "productSpecification": {
+          "isBundle": true,
+          "code": "PS318",
+          "lifecycleStatus": "Launched",
+          "@type": "CompositeProductSpecification",
+          "description": "STC ISDN Corporate connection",
+          "attachment": [],
+          "@baseType": "ProductSpecification",
+          "bundledProductSpecification": [
+            {
+              "id": "5f2bc95073e2a50009053a99",
+              "name": "Cable Type Product",
+              "version": "8",
+              "@type": "GoodsProductSpec",
+              "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-specification/5f2bc95073e2a50009053a99",
+              "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-specification"
+            },
+            {
+              "id": "5f2bc95073e2a50009053a9a",
+              "name": "Leased Line Modem Product",
+              "version": "8",
+              "@type": "GoodsProductSpec",
+              "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-specification/5f2bc95073e2a50009053a9a",
+              "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-specification"
+            },
+            {
+              "id": "5f2bc95073e2a50009053a9b",
+              "name": "Speed Product",
+              "version": "9",
+              "@type": "GoodsProductSpec",
+              "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-specification/5f2bc95073e2a50009053a9b",
+              "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-specification"
+            },
+            {
+              "id": "5f48a25ba5fa520009214cc8",
+              "name": "Installation",
+              "version": "3",
+              "@type": "FieldOperationProductSpec",
+              "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-specification/5f48a25ba5fa520009214cc8",
+              "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-specification"
+            }
+          ],
+          "productSpecificationRelationship": [],
+          "id": "5ef2eac312b18e00069424b6",
+          "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-specification/5ef2eac312b18e00069424b6",
+          "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-specification",
+          "brand": "Ultranet",
+          "productSpecCharacteristic": [],
+          "targetProductSchema": {
+            "@type": "DOM",
+            "href": {}
+          },
+          "validFor": {
+            "startDateTime": "2020-08-06T00:00:00.000Z",
+            "endDateTime": "2020-12-05T00:00:00.000Z"
+          },
+          "resourceSpecification": [],
+          "serviceSpecification": [],
+          "technology": [
+            "LeasedLine"
+          ],
+          "productNumber": "1",
+          "relatedParty": [
+            {
+              "id": "5ce4ffc4a9060a9e09433953",
+              "href": "https://host:port/partyManagement/organization/5ce4ffc4a9060a9e09433953",
+              "name": "Home Network",
+              "version": "1.0"
+            },
+            {
+              "id": "5ce534bea9060a9e0943838c",
+              "href": "https://host:port/partyManagement/organization/5ce534bea9060a9e0943838c",
+              "name": "End customer",
+              "version": "1.0"
+            }
+          ],
+          "version": "48",
+          "lastUpdate": "2020-09-10T05:05:32.357Z",
+          "name": "STC ISDN Corporate",
+          "businessType": [
+            "Postpaid"
+          ],
+          "LoB": "Broadband"
+        },
+        "code": "PO107",
+        "lifecycleStatus": "Launched",
+        "@type": "SimpleProductOffering",
+        "channel": [
+          {
+            "id": "5d38891b83ba2e1cba2de852",
+            "href": "https://host:port/catalogManagement/channel/1",
+            "name": "CRM",
+            "@referredType": "CRM"
+          },
+          {
+            "id": "5d38892b83ba2e1cba2de87b",
+            "href": "https://host:port/catalogManagement/channel/2",
+            "name": "Webshop",
+            "@referredType": "CRM"
+          },
+          {
+            "id": "5d38893c83ba2e1cba2de8a7",
+            "href": "https://host:port/catalogManagement/channel/3",
+            "name": "Selfcare",
+            "@referredType": "CRM"
+          },
+          {
+            "id": "5d38894783ba2e1cba2de8c4",
+            "href": "https://host:port/catalogManagement/channel/4",
+            "name": "Kiosk",
+            "@referredType": "Kiosk"
+          },
+          {
+            "id": "5d41e21618adf5f90f25ca06",
+            "href": "https://host:port/catalogManagement/channel/5",
+            "name": "IVR",
+            "@referredType": "IVR"
+          }
+        ],
+        "description": "This offer provides an ultra high speed dedicated bandwidth service of 5Gbps",
+        "productOfferingPrice": [
+          {
+            "id": "5ef2eac312b18e00069424b4",
+            "pricingLogicAlgorithm": [],
+            "constraint": [],
+            "popRelationship": [],
+            "bundledPopRelationship": [],
+            "place": [],
+            "productOfferingTerm": [],
+            "name": "Ultra Dedicated Bandwidth Deposit",
+            "description": "This offer provides an ultra high speed of 1Gbps/2.5Gbps/5Gbps.",
+            "version": "15",
+            "lastUpdate": "2020-08-20T06:28:29.359Z",
+            "isBundle": false,
+            "isServiceActionPrice": false,
+            "lifecycleStatus": "Launched",
+            "validFor": {
+              "startDateTime": "2020-06-24T00:00:00.000Z",
+              "endDateTime": "2020-12-25T00:00:00.000Z"
+            },
+            "priceType": "Deposit",
+            "recurringChargePeriodType": "",
+            "recurringChargePeriodLength": 0,
+            "percentage": 0,
+            "price": {
+              "value": 2000,
+              "unit": "GHS"
+            },
+            "tax": [
+              {
+                "taxAmount": {
+                  "value": 0,
+                  "unit": "GHS"
+                },
+                "taxCategory": "",
+                "taxRate": 0
+              }
+            ],
+            "@baseType": "ProdOfferPriceCharge",
+            "@type": "OneTimeChargeProdOfferPriceCharge",
+            "prodOfferPriceAction": [],
+            "prodSpecCharValueUse": [],
+            "code": "POP191",
+            "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-offering-price/5ef2eac312b18e00069424b4",
+            "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-offering-price"
+          },
+          {
+            "id": "5ef2eac312b18e00069424b5",
+            "pricingLogicAlgorithm": [],
+            "constraint": [
+              {
+                "id": "5ef495bcea7c87000aa960c5",
+                "@type": "PolicyRule",
+                "name": "RentalPolicy01",
+                "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/policy-service/v1/policy-rule/5ef495bcea7c87000aa960c5",
+                "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/policy-service/schema/v1/policy-rule"
+              }
+            ],
+            "popRelationship": [],
+            "bundledPopRelationship": [],
+            "place": [],
+            "productOfferingTerm": [],
+            "name": "Ultra Dedicated Bandwidth Rental",
+            "description": "This offer provides an ultra high speed of 1Gbps/2.5Gbps/5Gbps.",
+            "version": "22",
+            "lastUpdate": "2020-09-13T14:20:02.556Z",
+            "isBundle": false,
+            "isServiceActionPrice": false,
+            "lifecycleStatus": "Launched",
+            "validFor": {
+              "startDateTime": "2020-06-24T00:00:00.000Z",
+              "endDateTime": "2020-12-25T00:00:00.000Z"
+            },
+            "priceType": "Rental",
+            "recurringChargePeriodType": "monthly",
+            "recurringChargePeriodLength": 1,
+            "percentage": 0,
+            "price": {
+              "value": 1000,
+              "unit": "GHS"
+            },
+            "tax": [
+              {
+                "taxAmount": {
+                  "value": 50,
+                  "unit": "GHS"
+                },
+                "taxCategory": "VAT",
+                "taxRate": 5
+              }
+            ],
+            "@baseType": "ProdOfferPriceCharge",
+            "@type": "RecurringChargeProdOfferPriceCharge",
+            "prodOfferPriceAction": [],
+            "prodSpecCharValueUse": [],
+            "code": "POP192",
+            "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-offering-price/5ef2eac312b18e00069424b5",
+            "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-offering-price"
+          }
+        ],
+        "bundledProductOffering": [],
+        "attachment": [],
+        "@baseType": "ProductOffering",
+        "id": "5ef2eac312b18e00069424b7",
+        "place": [],
+        "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-offering/5ef2eac312b18e00069424b7",
+        "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-offering",
+        "productOfferingTerm": [],
+        "marketSegment": [
+          {
+            "id": "5efc56a6394b7ed88148c297",
+            "href": "https://host:port/productOfferingReferences/marketSegmentRef/10",
+            "name": "EB",
+            "@referredType": "EB",
+            "isRoot": true,
+            "parentId": ""
+          },
+          {
+            "id": "5d43cbcc18adf5f90f2af544",
+            "href": "https://host:port/productOfferingReferences/marketSegmentRef/2",
+            "name": "Enterprise",
+            "@referredType": "Corporate",
+            "isRoot": true,
+            "parentId": ""
+          }
+        ],
+        "prodSpecCharValueUse": [],
+        "agreement": [],
+        "pendingLifecycleStatus": "",
+        "validFor": {
+          "startDateTime": "2020-06-24T00:00:00.000Z",
+          "endDateTime": "2020-12-25T00:00:00.000Z"
+        },
+        "isSellable": true,
+        "allowedProductAction": {
+          "channels": []
+        },
+        "relatedParty": [],
+        "version": "9",
+        "lastUpdate": "2020-08-20T06:29:28.387Z",
+        "name": "Ultra Dedicated Bandwidth",
+        "businessType": [
+          "Postpaid"
+        ],
+        "category": [
+          {
+            "id": "5ce67563a9060a9e0944ad57",
+            "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-category/5ce67563a9060a9e0944ad57",
+            "lastUpdate": "2020-10-11T11:00:37.496Z",
+            "parentId": "",
+            "isRoot": true,
+            "name": "Plan",
+            "description": "A category for mobile Plan",
+            "lifecycleStatus": "Active",
+            "productOffering": [
+              {
+                "id": "5cebddbaa9060a9e094969bc",
+                "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-offering/5cebddbaa9060a9e094969bc",
+                "name": "Mobile Plan 1",
+                "@type": "SimpleProductOffering",
+                "version": "1",
+                "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-offering"
+              }
+            ],
+            "version": "1",
+            "@type": "Category",
+            "subCategory": [],
+            "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-category"
+          }
+        ]
+      },
+      "5f27f2812215e100092e2e7b": {
+        "isBundle": false,
+        "productSpecification": {
+          "isBundle": true,
+          "code": "PS318",
+          "lifecycleStatus": "Launched",
+          "@type": "CompositeProductSpecification",
+          "description": "STC ISDN Corporate connection",
+          "attachment": [],
+          "@baseType": "ProductSpecification",
+          "bundledProductSpecification": [
+            {
+              "id": "5f2bc95073e2a50009053a99",
+              "name": "Cable Type Product",
+              "version": "8",
+              "@type": "GoodsProductSpec",
+              "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-specification/5f2bc95073e2a50009053a99",
+              "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-specification"
+            },
+            {
+              "id": "5f2bc95073e2a50009053a9a",
+              "name": "Leased Line Modem Product",
+              "version": "8",
+              "@type": "GoodsProductSpec",
+              "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-specification/5f2bc95073e2a50009053a9a",
+              "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-specification"
+            },
+            {
+              "id": "5f2bc95073e2a50009053a9b",
+              "name": "Speed Product",
+              "version": "9",
+              "@type": "GoodsProductSpec",
+              "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-specification/5f2bc95073e2a50009053a9b",
+              "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-specification"
+            },
+            {
+              "id": "5f48a25ba5fa520009214cc8",
+              "name": "Installation",
+              "version": "3",
+              "@type": "FieldOperationProductSpec",
+              "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-specification/5f48a25ba5fa520009214cc8",
+              "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-specification"
+            }
+          ],
+          "productSpecificationRelationship": [],
+          "id": "5ef2eac312b18e00069424b6",
+          "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-specification/5ef2eac312b18e00069424b6",
+          "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-specification",
+          "brand": "Ultranet",
+          "productSpecCharacteristic": [],
+          "targetProductSchema": {
+            "@type": "DOM",
+            "href": {}
+          },
+          "validFor": {
+            "startDateTime": "2020-08-06T00:00:00.000Z",
+            "endDateTime": "2020-12-05T00:00:00.000Z"
+          },
+          "resourceSpecification": [],
+          "serviceSpecification": [],
+          "technology": [
+            "LeasedLine"
+          ],
+          "productNumber": "1",
+          "relatedParty": [
+            {
+              "id": "5ce4ffc4a9060a9e09433953",
+              "href": "https://host:port/partyManagement/organization/5ce4ffc4a9060a9e09433953",
+              "name": "Home Network",
+              "version": "1.0"
+            },
+            {
+              "id": "5ce534bea9060a9e0943838c",
+              "href": "https://host:port/partyManagement/organization/5ce534bea9060a9e0943838c",
+              "name": "End customer",
+              "version": "1.0"
+            }
+          ],
+          "version": "48",
+          "lastUpdate": "2020-09-10T05:05:32.357Z",
+          "name": "STC ISDN Corporate",
+          "businessType": [
+            "Postpaid"
+          ],
+          "LoB": "Broadband"
+        },
+        "code": "PO210",
+        "lifecycleStatus": "Launched",
+        "@type": "SimpleProductOffering",
+        "channel": [
+          {
+            "id": "5d38891b83ba2e1cba2de852",
+            "href": "https://host:port/catalogManagement/channel/1",
+            "name": "CRM",
+            "@referredType": "CRM"
+          },
+          {
+            "id": "5d38892b83ba2e1cba2de87b",
+            "href": "https://host:port/catalogManagement/channel/2",
+            "name": "Webshop",
+            "@referredType": "CRM"
+          },
+          {
+            "id": "5d38893c83ba2e1cba2de8a7",
+            "href": "https://host:port/catalogManagement/channel/3",
+            "name": "Selfcare",
+            "@referredType": "CRM"
+          }
+        ],
+        "description": "STC ISDN Corporate connection",
+        "productOfferingPrice": [
+          {
+            "id": "5f2abfed73e2a50009053a68",
+            "pricingLogicAlgorithm": [],
+            "constraint": [
+              {
+                "id": "5ef495bcea7c87000aa960c5",
+                "@type": "PolicyRule",
+                "name": "RentalPolicy01",
+                "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/policy-service/v1/policy-rule/5ef495bcea7c87000aa960c5",
+                "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/policy-service/schema/v1/policy-rule"
+              },
+              {
+                "id": "5f2ac7c3a5fd110008c5af8c",
+                "@type": "OverrideRule",
+                "name": "Override",
+                "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/policy-service/v1/policy-rule/5f2ac7c3a5fd110008c5af8c",
+                "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/policy-service/schema/v1/policy-rule"
+              }
+            ],
+            "popRelationship": [],
+            "bundledPopRelationship": [],
+            "place": [],
+            "productOfferingTerm": [],
+            "price": {
+              "value": 100,
+              "unit": "KWD"
+            },
+            "validFor": {
+              "startDateTime": "2020-08-05T14:14:19.199Z",
+              "endDateTime": "2021-02-05T14:14:19.199Z"
+            },
+            "@type": "RecurringChargeProdOfferPriceCharge",
+            "@baseType": "ProdOfferPriceCharge",
+            "name": "Monthly Rental",
+            "description": "Monthly Rental",
+            "lifecycleStatus": "Launched",
+            "version": "10",
+            "isBundle": false,
+            "isServiceActionPrice": false,
+            "priceType": "Rental",
+            "recurringChargePeriodType": "",
+            "recurringChargePeriodLength": 0,
+            "percentage": 0,
+            "unitOfMeasure": "Currency",
+            "priceCondition": "12",
+            "prodOfferPriceAction": [],
+            "tax": [],
+            "prodSpecCharValueUse": [],
+            "lastUpdate": "2020-09-10T05:20:52.067Z",
+            "code": "POP436",
+            "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-offering-price/5f2abfed73e2a50009053a68",
+            "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-offering-price"
+          },
+          {
+            "id": "5f59b41a89726b0007707c7d",
+            "pricingLogicAlgorithm": [],
+            "constraint": [],
+            "popRelationship": [],
+            "bundledPopRelationship": [],
+            "place": [],
+            "productOfferingTerm": [],
+            "charges": [
+              {
+                "name": "DeviceServiceCharge",
+                "chargeClass": "OneTime",
+                "taxPlanId": "5f0c70f0-7a96-410c-8e5f-f545c2f124d4",
+                "taxPlanName": "GST 7.5 Percentage",
+                "id": "9245466f-a8fd-4b66-9437-7b40e1ae9268",
+                "glCode": "842988",
+                "time": "2020-08-25T07:31:43"
+              }
+            ],
+            "price": {
+              "value": 49,
+              "unit": "KWD"
+            },
+            "validFor": {
+              "startDateTime": "2020-09-10T04:33:51.212Z",
+              "endDateTime": "2021-03-10T04:33:51.212Z"
+            },
+            "@type": "OneTimeChargeProdOfferPriceCharge",
+            "@baseType": "ProdOfferPriceCharge",
+            "name": "One Time Charge",
+            "lifecycleStatus": "Launched",
+            "version": "3",
+            "isBundle": false,
+            "isServiceActionPrice": false,
+            "priceType": "OneTimeCharge",
+            "recurringChargePeriodType": "",
+            "recurringChargePeriodLength": 0,
+            "percentage": 0,
+            "unitOfMeasure": "Currency",
+            "prodOfferPriceAction": [],
+            "tax": [
+              {
+                "taxCategory": "VAT",
+                "taxRate": 0,
+                "taxAmount": {
+                  "value": 0,
+                  "unit": "KWD"
+                }
+              }
+            ],
+            "prodSpecCharValueUse": [],
+            "agreementCharValueUse": [],
+            "lastUpdate": "2020-09-10T05:20:25.497Z",
+            "code": "POP627",
+            "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-offering-price/5f59b41a89726b0007707c7d",
+            "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-offering-price"
+          }
+        ],
+        "bundledProductOffering": [],
+        "attachment": [],
+        "@baseType": "ProductOffering",
+        "id": "5f27f2812215e100092e2e7b",
+        "place": [],
+        "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-offering/5f27f2812215e100092e2e7b",
+        "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-offering",
+        "productOfferingTerm": [],
+        "marketSegment": [
+          {
+            "id": "5efc56a6394b7ed88148c297",
+            "href": "https://host:port/productOfferingReferences/marketSegmentRef/10",
+            "name": "EB",
+            "@referredType": "EB",
+            "isRoot": true,
+            "parentId": ""
+          }
+        ],
+        "prodSpecCharValueUse": [],
+        "agreement": [],
+        "pendingLifecycleStatus": "",
+        "validFor": {
+          "startDateTime": "2020-08-05T19:17:42.281Z",
+          "endDateTime": "2021-02-05T19:17:42.281Z"
+        },
+        "isSellable": true,
+        "allowedProductAction": {
+          "channels": []
+        },
+        "relatedParty": [],
+        "version": "14",
+        "lastUpdate": "2020-09-10T05:05:33.172Z",
+        "name": "STC ISDN Corporate",
+        "businessType": [
+          "Postpaid"
+        ],
+        "category": [
+          {
+            "id": "5ce67563a9060a9e0944ad57",
+            "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-category/5ce67563a9060a9e0944ad57",
+            "lastUpdate": "2020-10-11T11:00:37.496Z",
+            "parentId": "",
+            "isRoot": true,
+            "name": "Plan",
+            "description": "A category for mobile Plan",
+            "lifecycleStatus": "Active",
+            "productOffering": [
+              {
+                "id": "5cebddbaa9060a9e094969bc",
+                "href": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/v1/product-offering/5cebddbaa9060a9e094969bc",
+                "name": "Mobile Plan 1",
+                "@type": "SimpleProductOffering",
+                "version": "1",
+                "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-offering"
+              }
+            ],
+            "version": "1",
+            "@type": "Category",
+            "subCategory": [],
+            "@schemaLocation": "http://mmp-dcm.cluster1.devtestlab2.tecnotree.com/dcm/product-catalogue/schema/v1/product-category"
+          }
+        ]
+      }
+    }
+  },
+  "_class": "com.tecnotree.dclm.model.Lead"
+}

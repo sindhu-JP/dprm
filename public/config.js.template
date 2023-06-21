@@ -1,0 +1,28 @@
+window.DPRM_CONFIG = {
+  basePath: "/digital-prm-web-ui/",
+    sso: {
+        oauthUri: "${oauthUri}",
+        oauthPathUri: "oauth2/authorize",
+        oauthClientId: "${oauthClientId}",
+     
+        oauthServiceProviderName: "${oauthServiceProviderName}",
+        oauthResponseType: "code",
+        oauthRedirectUri: "${oauthRedirectUri}",
+        opco: "${opco}", // tecnotree or mtng or mtni or mtnu
+    },
+     appTheme:'${THEME}',
+    dev: {
+
+        server: {
+            dclm_base_url: "${dclmBaseUrl}",
+            dlpm_base_url:"${dlpmBaseUrl}",
+            MOBILE_LENGTH:"${MOBILE_LENGTH}",
+             AgentPath:'/dprm-agent-web-ui/',
+             isPermission:'${isPermission}',
+            MOBILE_MIN_LENGTH:"${MOBILE_MIN_LENGTH}",
+            SMART_SERVICE_PARTNER_TYPE:"${SMART_SERVICE_PARTNER_TYPE}",
+            ISSUE_PLACE: 'GHANA',
+            ISSUED_BY: 'GOVERNMENT AUTHORITY'
+        },
+},
+};

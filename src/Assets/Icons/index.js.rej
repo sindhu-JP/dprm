@@ -1,0 +1,4 @@
+diff a/dprm/src/Assets/Icons/index.js b/dprm/src/Assets/Icons/index.js	(rejected hunks)
+@@ -0,0 +1,2 @@
++export const PotentialPartnerIcon = require("./potential_partner.png")
++

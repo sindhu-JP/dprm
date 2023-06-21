@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .stepper-default-1{fill:#4a494a}
+        </style>
+    </defs>
+    <path id="stepperActiveInactive" d="M197 114a16 16 0 1 1 11.314-4.687A15.9 15.9 0 0 1 197 114zm0-24a8 8 0 1 0 8 8 8.009 8.009 0 0 0-8-8z" class="stepper-default" transform="translate(-181 -82)"/>
+</svg>

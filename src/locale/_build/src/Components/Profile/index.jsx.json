@@ -1,0 +1,18 @@
+{
+  "Help": {
+    "origin": [
+      [
+        "src/Components/Profile/index.jsx",
+        130
+      ]
+    ]
+  },
+  "Logout": {
+    "origin": [
+      [
+        "src/Components/Profile/index.jsx",
+        136
+      ]
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+.ant-message {
+  z-index: 3000000 !important;
+}
+.card-container {
+  background-color: var(--Background-Main);
+  padding-bottom: 4rem;
+  .ant-row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+  .ant-card-body {
+    padding: 15px 10px;
+  }
+  .ant-card-bordered {
+    margin: 10px;
+    border-radius: 15px;
+  }
+}
+.ant-picker-suffix {
+  color: #181818;
+}
+
+.search-header {
+  color: #999999;
+  opacity: 1;
+  font-size: 17px;
+  margin-bottom: 2px;
+}
+
+.search-value {
+  color: #999999;
+  opacity: 0.8;
+}
+.modal-error-content {
+  .ant-modal-content {
+    width: 40vw;
+  }
+}
+
+.tt-dashboard-card {
+  margin: 10px !important;
+  border-radius: 10px;
+}
+
+.tt-form-paper-col {
+  padding: 0 !important;
+}
+.tt-form-paper {
+  margin: 0px !important;
+}
+.freestep-box {
+  padding: 0px !important;
+}
+
+.tt-dashboard-formtask-card {
+  margin: 10px 10px;
+  border-radius: 10px;
+  .ant-card-body {
+    padding: 10px !important;
+  }
+}
+
+.section-heading {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.check-icon {
+  color: rgb(44, 192, 44);
+  position: relative;
+  top: 0px;
+  left: 10px;
+}
+
+.error-circle {
+  position: relative;
+  top: 0px;
+  left: 10px;
+  color: #ff4757;
+}
+
+.tt-form-label {
+  .ant-form-item-label {
+    text-align: left !important;
+    width: 100% !important;
+    font-weight: 400 !important;
+    color: var(--Field-Label-Color) !important;
+  }
+  .ant-form-item-required {
+    font-weight: 400 !important;
+    font-size: 14px !important;
+  }
+  .ant-form-item-label > label {
+    color: var(--Field-Label-Color) !important;
+    opacity: 0.8;
+  }
+}
+
+.tt-form-label-with-custom-step {
+  margin-left: 150px !important;
+  .ant-form-item-label {
+    text-align: left !important;
+    width: 100% !important;
+    font-weight: 400 !important;
+    color: var(--Field-Label-Color) !important;
+  }
+  .ant-form-item-required {
+    font-weight: 400 !important;
+    font-size: 14px !important;
+  }
+  .ant-form-item-label > label {
+    color: var(--Field-Label-Color) !important;
+    opacity: 0.8;
+  }
+}
+
+.tt-input-fields {
+  border: none !important;
+  border-bottom: 1px solid gray !important;
+  border-radius: 0px !important;
+  color: var(--Field-Input-Text-Color) !important;
+  font-size: 14px !important;
+}
+
+.ant-select-selection-item {
+  color: var(--Field-Input-Text-Color) !important;
+  font-size: 14px !important;
+}
+
+.ant-checkbox-wrapper,
+.ant-radio-wrapper {
+  color: var(--Field-Input-Text-Color) !important;
+  font-size: 14px !important;
+}
+
+.tt-input-fields:focus {
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.tt-form-select {
+  border-bottom: 1px solid gray !important;
+}
+
+.contained_btn {
+  width: 120px;
+  height: 30px;
+  background-color: #1c00c8;
+  color: white;
+  border-radius: 8px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.outline_btn {
+  width: 120px;
+  background-color: white;
+  color: var(--Axure_Blue);
+  border-radius: 8px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.text_btn {
+  color: #1c00c8;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.contained_btn:hover {
+  background-color: #1c00c8;
+  color: white;
+}
+
+.contained_btn:focus {
+  background-color: #1c00c8;
+  color: white;
+}
+.ant-upload.ant-upload-drag {
+  position: relative;
+  width: 200px !important;
+  height: 100%;
+  text-align: center;
+  background: #fafafa;
+  border: 1px dashed #d9d9d9;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: border-color 0.3s;
+}
+.upload-form {
+  position: relative;
+  height: 165px;
+  padding: 8px;
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0px #d9d9d9;
+  width: 200px;
+}
+
+.upload-form-inner {
+  position: relative;
+  border: 1px dashed #d9d9d9;
+  height: 86px;
+  padding: 12px;
+  margin: 8px;
+  border-radius: 2px;
+}
+
+.blacklist-modal-footer {
+  position: absolute;
+  bottom: -120px;
+  margin-left: -10px;
+}
+
+.blacklistbtn {
+  bottom: 50px;
+}
+
+.continue-profile-creation,
+.blacklist-popup {
+  width: 369px;
+  height: 40px;
+  background-color: #ff2b50;
+  border-radius: 25px;
+  color: white;
+}
+
+.blacklist-popup {
+  background: white;
+  color: #ff4757;
+  margin-top: 20px;
+}
+
+.popup-heading {
+  text-align: center;
+}
+
+.popup-heading-msg {
+  font-size: 24px;
+  color: var(--Field-Input-Text-Color);
+}
+
+.popup-heading-icon,
+.popup-heading-red-icon {
+  background-color: var(--Up-Status-Color);
+  width: 40px;
+  height: 40px;
+  margin-left: calc(50% - 20px);
+  border-radius: 50px;
+}
+
+.popup-heading-red-icon {
+  background-color: var(--Primary-Error-Color);
+}
+
+.popup-label {
+  color: var(--Field-Label-Color);
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.popup-value {
+  color: var(--Field-Input-Text-Color);
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.formtaskmodal {
+  width: 90vw !important;
+  .ant-modal-body {
+    padding-top: 0px !important;
+  }
+}
+
+.formcreationinstructions {
+  font-size: 12px;
+  color: #181818;
+  font-weight: 400;
+  font-family: var(--Nunito_Sans_font);
+  margin-top: -8px;
+  margin-bottom: 5px;
+}
+
+.ant-form-item-explain,
+.ant-form-item-extra {
+  color: #ff4757 !important;
+}
+
+.ant-picker {
+  width: 100%;
+}
+
+// .ant-select-arrow {
+//   color: rgb(248, 245, 245) !important;
+// }

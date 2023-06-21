@@ -1,0 +1,82 @@
+{
+  "List is empty": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/PartnerTickets/index.jsx",
+        158
+      ]
+    ]
+  },
+  "PARTNER TICKETS": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/PartnerTickets/index.jsx",
+        316
+      ]
+    ]
+  },
+  "Total Interaction": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/PartnerTickets/index.jsx",
+        339
+      ]
+    ]
+  },
+  "Open Ticket": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/PartnerTickets/index.jsx",
+        345
+      ]
+    ]
+  },
+  "Closed Tickets": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/PartnerTickets/index.jsx",
+        350
+      ]
+    ]
+  },
+  "Resolved Tickets": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/PartnerTickets/index.jsx",
+        355
+      ]
+    ]
+  },
+  "Ticket ID": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/PartnerTickets/index.jsx",
+        476
+      ]
+    ]
+  },
+  "Service ID": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/PartnerTickets/index.jsx",
+        485
+      ]
+    ]
+  },
+  "Previous Page": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/PartnerTickets/index.jsx",
+        587
+      ]
+    ]
+  },
+  "Next Page": {
+    "origin": [
+      [
+        "src/Features/TroubleTicket/PartnerTickets/index.jsx",
+        590
+      ]
+    ]
+  }
+}

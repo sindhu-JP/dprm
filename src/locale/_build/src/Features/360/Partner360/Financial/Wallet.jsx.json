@@ -1,0 +1,50 @@
+{
+  "Wallet Details": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Financial/Wallet.jsx",
+        61
+      ]
+    ]
+  },
+  "Wallet ID": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Financial/Wallet.jsx",
+        74
+      ]
+    ]
+  },
+  "Today's summary": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Financial/Wallet.jsx",
+        83
+      ]
+    ]
+  },
+  " UNSETTLED BALANCE": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Financial/Wallet.jsx",
+        94
+      ]
+    ]
+  },
+  "KWD": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Financial/Wallet.jsx",
+        99
+      ]
+    ]
+  },
+  "AVAILABLE BALANCE KWD:": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Financial/Wallet.jsx",
+        110
+      ]
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="48"
+  height="48"
+  viewBox="0 0 48 48"
+><defs><style>.a{fill:#fff;opacity:0;}.b{fill:#636366;}</style></defs><g
+    transform="translate(-303 -4430)"
+  ><rect class="a" width="48" height="48" transform="translate(303 4430)" /><g
+      transform="translate(299 4426)"
+    ><g transform="translate(14 14)"><path
+          class="b"
+          d="M25.765,14H14V25.765H25.765Zm-.759,11.006H14.759V14.759H25.006Z"
+          transform="translate(-14 -14)"
+        /><path
+          id="PersonalisedOffers"
+          class="b"
+          d="M55,25.765H66.765V14H55Zm.759-11.006H66.006V25.006H55.759Z"
+          transform="translate(-39.44 -14)"
+        /><path
+          class="b"
+          d="M25.765,55H14V66.765H25.765Zm-.759,11.006H14.759V55.759H25.006Z"
+          transform="translate(-14 -39.44)"
+        /><path
+          class="b"
+          d="M60.882,55a5.882,5.882,0,1,0,5.882,5.882A5.912,5.912,0,0,0,60.882,55Zm0,11.006a5.123,5.123,0,1,1,5.123-5.123A5.151,5.151,0,0,1,60.882,66.006Z"
+          transform="translate(-39.44 -39.44)"
+        /></g></g></g></svg>

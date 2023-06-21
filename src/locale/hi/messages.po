@@ -1,0 +1,1046 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-08-27 20:00+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: hi\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/Components/Footer/Footer360.jsx:129
+msgid " Digital partner Relationship Manager"
+msgstr "डिजिटल पार्टनर रिलेशनशिप मैनेजर"
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:94
+msgid " UNSETTLED BALANCE"
+msgstr "असंतुलित संतुलन"
+
+#: src/lib/constants/partnerTable.js:214
+msgid "'PRODUCT TECHNOLOGY'"
+msgstr "उत्पाद प्रौद्योगिकी"
+
+#: src/Features/360/Partner360/Financial/FinancialTabs.jsx:199
+msgid "ADJUSTMENTS"
+msgstr "समायोजन"
+
+#: src/Components/TabsView/index.jsx:177
+msgid "ALL"
+msgstr "सब"
+
+#: src/lib/constants/partnerTable.js:160
+msgid "APPROVAL FOR"
+msgstr "अनुमोदन के लिए"
+
+#: src/lib/constants/partnerTable.js:164
+msgid "APPROVAL TYPE"
+msgstr "अनुमोदन प्रकार"
+
+#: src/Features/360/Partner360/RecentRequests/Tabs.jsx:141
+msgid "APPROVED"
+msgstr "स्वीकृत"
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:110
+msgid "AVAILABLE BALANCE KWD:"
+msgstr "उपलब्ध शेष राशि KWD:"
+
+#: src/lib/constants/Document.js:135
+msgid "Action"
+msgstr "गतिविधि"
+
+#: src/Features/Home/Home.jsx:1012
+msgid "Active Partners"
+msgstr "सक्रिय भागीदार"
+
+#: src/Components/NotesContainer/MyNotesCards.js:25
+#: src/Components/NotesContainer/NotesCard.jsx:22
+msgid "Add note here"
+msgstr "यहां नोट जोड़ें"
+
+#: src/Components/SearchBar/SearchModal.jsx:563
+msgid "Advance Search"
+msgstr "उन्नत खोज"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:331
+msgid "Agent"
+msgstr "प्रतिनिधि"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:438
+msgid "Agent Category"
+msgstr "एजेंट श्रेणी"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:388
+msgid "Agent LastName"
+msgstr "एजेंट अंतिम नाम"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:404
+msgid "Agent MSISDN"
+msgstr "एजेंट एमएसआईएसडीएन"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:371
+msgid "Agent Name"
+msgstr "एजेंट का नाम"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:488
+msgid "Agent SubCategory"
+msgstr "एजेंट उपश्रेणी"
+
+#: src/Features/Home/Home.jsx:203
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:80
+msgid "All"
+msgstr "सभी"
+
+#: src/Features/BackOffice/index.jsx:1051
+msgid "All Groups"
+msgstr "सभी समूह"
+
+#: src/Components/SearchBar/DropDownPill.jsx:170
+msgid "Apply"
+msgstr "आवेदन करना"
+
+#: src/lib/constants/constantview.js:203
+msgid "Back Office "
+msgstr "बैक कार्यालय"
+
+#: src/Features/Home/Home.jsx:1128
+msgid "Bottom 5"
+msgstr "निचला 5"
+
+#: src/Components/SearchBar/SearchModal.jsx:158
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:153
+msgid "CONTACT NUMBER"
+msgstr "संपर्क संख्या"
+
+#: src/lib/constants/ContractTable.js:110
+msgid "CONTRACT"
+msgstr "अनुबंध"
+
+#: src/lib/constants/ContractTable.js:98
+msgid "CONTRACT ID"
+msgstr "अनुबंध आईडी"
+
+#: src/lib/constants/ContractTable.js:118
+msgid "CONTRACT PERIOD"
+msgstr "अनुबंधनकाल"
+
+#: src/lib/constants/ContractTable.js:114
+msgid "CONTRACT TYPE"
+msgstr "करार का प्रकार"
+
+#: src/lib/constants/partnerTable.js:42
+msgid "CREATED DATE"
+msgstr "सृजित दिनांक"
+
+#: src/Components/NotesContainer/components/CreateNote.jsx:187
+#: src/Components/SearchBar/SearchModal.jsx:617
+msgid "Cancel"
+msgstr "रद्द करना"
+
+#: src/Components/SearchBar/DropDownPill.jsx:159
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:550
+#: src/Features/PotentialLead/PotentialLead.jsx:495
+msgid "Clear"
+msgstr "साफ़"
+
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:391
+msgid "Closed Tickets"
+msgstr "बंद टिकट"
+
+#: src/Components/Modals/Subscription.jsx:116
+#: src/Features/Home/FrequentlyUsedLinks.jsx:32
+msgid "Commission Rule Creation"
+msgstr "आयोग नियम निर्माण"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:239
+msgid "Company RegNo"
+msgstr "कंपनी रेगनो"
+
+#: src/Features/Reports/index.jsx:293
+msgid "Consolidated revenue of all the products launched and sold across channels."
+msgstr "सभी चैनलों पर लॉन्च और बेचे गए सभी उत्पादों का समेकित राजस्व।"
+
+#: src/Components/SearchBar/SearchModal.jsx:128
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:123
+msgid "Contact Number"
+msgstr "संपर्क संख्या"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:385
+msgid "Contract Count"
+msgstr "अनुबंध गणना"
+
+#: src/lib/constants/constantview.js:88
+msgid "Contracts"
+msgstr "ठेके"
+
+#: src/Features/360/Partner360/ContractDetails/ContractDetails.jsx:169
+msgid "Contracts Details"
+msgstr "अनुबंध विवरण"
+
+#: src/Components/Footer/Footer360.jsx:135
+msgid "Copyright"
+msgstr "कॉपीराइट"
+
+#: src/lib/constants/Document.js:97
+msgid "Create Date"
+msgstr "तिथि बनाएं"
+
+#: src/Components/SearchBar/SearchBar.jsx:491
+msgid "Customer Authentication Successful."
+msgstr "ग्राहक प्रमाणीकरण सफल"
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:224
+#: src/lib/constants/constantview.js:183
+msgid "Customer Orders"
+msgstr "ग्राहक का ऑर्डर"
+
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:138
+msgid "Customer Type"
+msgstr "ग्राहक प्रकार"
+
+#: src/Components/SearchBar/SearchModal.jsx:163
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:158
+msgid "DATE OF BIRTH"
+msgstr "जन्म की तारीख"
+
+#: src/lib/constants/Document.js:116
+msgid "DMS REFERENCE ID"
+msgstr "डीएमएस संदर्भ आईडी"
+
+#: src/lib/constants/Document.js:107
+msgid "DOCUMENT TYPE"
+msgstr "दस्तावेज़ का प्रकार"
+
+#: src/Features/360/Partner360/Documents/Documents.jsx:181
+msgid "Document Details"
+msgstr "दस्तावेज़ विवरण"
+
+#: src/lib/constants/constantview.js:150
+msgid "Documents"
+msgstr "दस्तावेज़"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:421
+#: src/Features/PotentialLead/PotentialLead.jsx:466
+#: src/lib/constants/partnerTable.js:24
+#: src/lib/constants/partnerTable.js:80
+#: src/lib/constants/partnerTable.js:121
+msgid "EMAIL"
+msgstr "ईमेल"
+
+#: src/Components/SearchBar/SearchModal.jsx:169
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:164
+msgid "EMAIL ID"
+msgstr "ईमेल आईडी"
+
+#: src/lib/constants/ContractTable.js:129
+msgid "END DATE"
+msgstr "अंतिम तिथि"
+
+#: src/Components/SearchBar/SearchModal.jsx:129
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:124
+msgid "ENTER CONTACT NUMBER"
+msgstr "संपर्क नंबर दर्ज करें"
+
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:139
+msgid "ENTER CUSTOMER TYPE"
+msgstr "ग्राहक प्रकार दर्ज करें"
+
+#: src/Components/SearchBar/SearchModal.jsx:134
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:129
+msgid "ENTER EMAIL ID"
+msgstr "ईमेल आईडी दर्ज करें"
+
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:134
+msgid "ENTER NATIONAL ID"
+msgstr "राष्ट्रीय आईडी दर्ज करें"
+
+#: src/lib/constants/Document.js:120
+msgid "EXPIRY DATE"
+msgstr "समाप्ति तिथि"
+
+#: src/Components/SearchBar/SearchModal.jsx:133
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:128
+msgid "Email ID"
+msgstr "ईमेल आईडी"
+
+#: src/Components/SearchBar/SearchModal.jsx:239
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:255
+msgid "Enter atleast 3 characters"
+msgstr "कम से कम 3 अक्षर दर्ज करें"
+
+#: src/Components/SearchBar/Globalsearch.jsx:41
+#: src/Components/SearchBar/SearchBar.jsx:386
+msgid "Fetching"
+msgstr "प्राप्त कर रहा है"
+
+#: src/Features/TroubleTicket/PartnerTickets/FilterChips.jsx:44
+msgid "Filtered By:"
+msgstr ""
+
+#: src/Features/360/Partner360/Financial/Financial.jsx:91
+#: src/lib/constants/constantview.js:120
+msgid "Financials"
+msgstr "वित्तीय स्थिति"
+
+#: src/Features/Home/FrequentlyUsedLinks.jsx:62
+msgid "Frequently Used Links"
+msgstr "अक्सर उपयोग किए जाने वाले लिंक"
+
+#: src/Features/GroupAssignment/index.jsx:220
+#: src/lib/constants/constantview.js:193
+msgid "Group 360"
+msgstr "समूह 360"
+
+#: src/Components/Profile/index.jsx:130
+msgid "Help"
+msgstr "मदद करना"
+
+#: src/Components/Alert.jsx:140
+msgid "Hide Details"
+msgstr "विवरण छुपाना"
+
+#: src/Features/Reports/index.jsx:270
+msgid "Holistic view of sales progress achieved by multiple partners."
+msgstr "कई भागीदारों द्वारा हासिल की गई बिक्री प्रगति का समग्र दृष्टिकोण।"
+
+#: src/Components/Sidebar.jsx:331
+#: src/lib/constants/constantview.js:168
+msgid "Home"
+msgstr "घर"
+
+#: src/lib/constants/Document.js:102
+msgid "ID"
+msgstr "पहचान"
+
+#: src/lib/constants/partnerTable.js:175
+msgid "INITIATOR"
+msgstr "प्रारंभ करने वाला"
+
+#: src/Features/360/Partner360/Financial/FinancialTabs.jsx:189
+msgid "INVOICE"
+msgstr "इनवॉइस"
+
+#: src/Features/BackOffice/index.jsx:997
+msgid "InProgress Tasks"
+msgstr "प्रगति में कार्य"
+
+#: src/Features/Reports/index.jsx:250
+msgid "Information of order placed against each product and periodical order history."
+msgstr "प्रत्येक उत्पाद और आवधिक आदेश इतिहास के विरुद्ध दिए गए आदेश की जानकारी।"
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:99
+msgid "KWD"
+msgstr "केडब्ल्यूडी"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:204
+msgid "LOB"
+msgstr "कार्य"
+
+#: src/Features/Home/Home.jsx:218
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:95
+msgid "Last 1 Month"
+msgstr "पिछला 1 महीना"
+
+#: src/Features/Home/Home.jsx:223
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:100
+msgid "Last 3 Month"
+msgstr "पिछले 3 महीने"
+
+#: src/Features/Home/Home.jsx:213
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:90
+msgid "Last week"
+msgstr "पिछले सप्ताह"
+
+#: src/Features/BackOffice/index.jsx:98
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:167
+msgid "List is empty"
+msgstr "सूची खाली है"
+
+#: src/Components/401Dialog/ReloginDialog.jsx:57
+msgid "Login"
+msgstr "लॉग इन करें"
+
+#: src/Components/Profile/index.jsx:136
+msgid "Logout"
+msgstr "लॉग आउट"
+
+#: src/Features/360/Partner360/Users/UserTabs.jsx:143
+msgid "MASTER"
+msgstr "मालिक"
+
+#: src/lib/constants/partnerTable.js:19
+#: src/lib/constants/partnerTable.js:75
+#: src/lib/constants/partnerTable.js:116
+msgid "MOBILE NUMBER"
+msgstr "मोबाइल नंबर"
+
+#: src/Components/Table/index.jsx:103
+#: src/Features/360/Partner360/Partner360Header.jsx:162
+#: src/Features/LeadDetails/LeadInformation.jsx:444
+#: src/Features/PotentialLead/ExistingLeadOverview/ExistingLeadOverview.jsx:110
+#: src/Features/PotentialLead/ExistingLeadOverview/Heading.jsx:313
+#: src/lib/constants/statuses.js:566
+msgid "Manage Hierarchy"
+msgstr "पदानुक्रम प्रबंधित करें"
+
+#: src/Features/360/Partner360/Tabs.jsx:340
+#: src/Features/360/Partner360/Tabs.jsx:396
+msgid "Master Partner"
+msgstr "मास्टर पार्टनर"
+
+#: src/Components/Modals/AgentSuccessModal.jsx:307
+msgid "Master Partner created successfully, Approval pending."
+msgstr "मास्टर पार्टनर सफलतापूर्वक बनाया गया, स्वीकृति लंबित है।"
+
+#: src/Components/NotesContainer/components/SideDrawer.jsx:288
+msgid "My Notes"
+msgstr "मेरी टिप्पणियाँ"
+
+#: src/Features/BackOffice/index.jsx:1032
+msgid "My Task"
+msgstr "मेरा काम"
+
+#: src/Features/BackOffice/index.jsx:991
+msgid "My Tasks"
+msgstr "मेरा काम"
+
+#: src/lib/constants/Document.js:112
+msgid "NAME"
+msgstr "नाम"
+
+#: src/Components/SearchBar/SearchModal.jsx:179
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:174
+msgid "NATIONAL ID"
+msgstr "राष्ट्रीय पहचान पत्र"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:518
+msgid "NID/Passport/Refugee ID"
+msgstr "एनआईडी/पासपोर्ट/शरणार्थी आईडी"
+
+#: src/Components/SearchBar/SearchBar.jsx:337
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:279
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:133
+msgid "National ID"
+msgstr "राष्ट्रीय पहचान पत्र"
+
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:423
+#: src/Features/BackOffice/index.jsx:1222
+#: src/Features/TroubleTicket/Dashboard/index.jsx:425
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:644
+msgid "Next Page"
+msgstr "अगला पृष्ठ"
+
+#: src/Components/SearchBar/SearchModal.jsx:189
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:184
+msgid "No Data Available"
+msgstr "कोई डेटा मौजूद नहीं"
+
+#: src/Components/SearchBar/Globalsearch.jsx:22
+#: src/Components/SearchBar/Globalsearch.jsx:45
+#: src/Components/SearchBar/SearchBar.jsx:169
+#: src/Components/SearchBar/SearchBar.jsx:390
+msgid "No Data Found For Search Criteria"
+msgstr "खोज मानदंड के लिए कोई डेटा नहीं मिला"
+
+#: src/Components/Table/RenderTable.jsx:119
+#: src/Features/Home/Home.jsx:1275
+#: src/Features/ManageHierarchy/ProductList.jsx:204
+msgid "No Information Available"
+msgstr "सूचना उपलब्ध नहीं"
+
+#: src/Features/LeadCreation/Sections/DocuPreview.jsx:72
+#: src/Features/LeadDetails/Attachpreview.jsx:109
+msgid "No Preview available"
+msgstr "कोई पूर्वावलोकन उपलब्ध नहीं"
+
+#: src/Components/SearchBar/Timelines.jsx:419
+msgid "No information available"
+msgstr "सूचना उपलब्ध नहीं"
+
+#: src/Components/SearchBar/SearchModal.jsx:574
+msgid "Normal Search"
+msgstr "सामान्य खोज"
+
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:386
+msgid "Open Ticket"
+msgstr "खुली टिकट"
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:291
+msgid ""
+"Order ID, Parter ID, Customer ID, Product\r\n"
+"                                  Name, Product ID"
+msgstr ""
+"ऑर्डर आईडी, पार्टर आईडी, ग्राहक आईडी, उत्पादनाम, उत्पाद आईडीऑर्डर आईडी, पार्टर आईडी, ग्राहक आईडी, उत्पाद\r\n"
+"नाम, उत्पाद आईडी"
+
+#: src/lib/constants/constantview.js:108
+msgid "Order Tracking"
+msgstr "आदेश ट्रैकिंग"
+
+#: src/Features/360/Partner360/Orders/index.jsx:174
+msgid "Orders"
+msgstr "आदेश"
+
+#: src/Components/TabsView/index.jsx:172
+msgid "PARTNER"
+msgstr "साथी"
+
+#: src/lib/constants/ContractTable.js:102
+#: src/lib/constants/partnerTable.js:11
+#: src/lib/constants/partnerTable.js:67
+#: src/lib/constants/partnerTable.js:108
+#: src/lib/constants/partnerTable.js:201
+msgid "PARTNER ID"
+msgstr "साथी आईडी"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:328
+#: src/lib/constants/partnerTable.js:15
+#: src/lib/constants/partnerTable.js:71
+#: src/lib/constants/partnerTable.js:205
+msgid "PARTNER NAME"
+msgstr "पार्टनर का नाम"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:345
+msgid "PARTNER REGISTRATION NUMBER"
+msgstr "भागीदार पंजीकरण संख्या"
+
+#: src/lib/constants/partnerTable.js:37
+msgid "PARTNER SUBTYPE"
+msgstr "भागीदार उपप्रकार"
+
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:357
+msgid "PARTNER TICKETS"
+msgstr "पार्टनर टिकट"
+
+#: src/lib/constants/partnerTable.js:33
+msgid "PARTNER TYPE"
+msgstr "पार्टनर प्रकार"
+
+#: src/lib/constants/ContractTable.js:106
+msgid "PARTNER/PRODUCT NAME"
+msgstr "पार्टनर/उत्पाद का नाम"
+
+#: src/Features/360/Partner360/RecentRequests/Tabs.jsx:146
+msgid "PENDING"
+msgstr "लंबित"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:449
+msgid "PHONE NUMBER"
+msgstr "फ़ोन नंबर"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:432
+msgid "PRIMARY CONTACT NAME"
+msgstr "प्राथमिक संपर्क नाम"
+
+#: src/lib/constants/partnerTable.js:193
+msgid "PRODUCT ID"
+msgstr "उत्पाद आयडी"
+
+#: src/lib/constants/partnerTable.js:210
+msgid "PRODUCT LOB"
+msgstr "उत्पाद लोब"
+
+#: src/lib/constants/partnerTable.js:197
+msgid "PRODUCT NAME"
+msgstr "प्रोडक्ट का नाम"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:329
+msgid "Partner"
+msgstr "साझेदार"
+
+#: src/Features/Reports/index.jsx:333
+#: src/Features/Reports/index.jsx:335
+msgid "Partner Customer Ticket Summary"
+msgstr "पार्टनर ग्राहक टिकट सारांश"
+
+#: src/lib/constants/constantview.js:23
+msgid "Partner Details"
+msgstr "साथी विवरण"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:192
+msgid "Partner ID"
+msgstr "साथी आईडी"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:227
+msgid "Partner ID "
+msgstr "साथी आईडी"
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:263
+#: src/Features/Reports/index.jsx:247
+msgid "Partner Order Summary"
+msgstr "पार्टनर ऑर्डर सारांश"
+
+#: src/Features/Reports/index.jsx:278
+msgid "Partner Payment Summary"
+msgstr "पार्टनर भुगतान सारांश"
+
+#: src/Features/Reports/index.jsx:223
+msgid "Partner Product Summary"
+msgstr "पार्टनर उत्पाद सारांश"
+
+#: src/Features/Home/Home.jsx:1394
+msgid "Partner Products"
+msgstr "साथी उत्पाद"
+
+#: src/Features/Home/Home.jsx:1105
+#: src/Features/Reports/index.jsx:267
+msgid "Partner Sales Summary"
+msgstr "पार्टनर बिक्री सारांश"
+
+#: src/Features/Reports/index.jsx:301
+msgid "Partner Settlement Summary"
+msgstr "पार्टनर सेटलमेंट सारांश"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:392
+msgid "Partner Sub Type"
+msgstr "भागीदार उप प्रकार"
+
+#: src/Features/Reports/index.jsx:151
+#: src/Features/Reports/index.jsx:191
+msgid "Partner Summary"
+msgstr "साथी सारांश"
+
+#: src/lib/constants/constantview.js:143
+msgid "Partner Ticket"
+msgstr "पार्टनर टिकट"
+
+#: src/Features/Reports/index.jsx:313
+#: src/Features/Reports/index.jsx:315
+msgid "Partner Trouble Ticket Summary"
+msgstr "पार्टनर ट्रबल टिकट सारांश"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:361
+msgid "Partner Type"
+msgstr "भागीदार प्रकार"
+
+#: src/Features/Reports/index.jsx:196
+msgid "Partner's basic Information & their status ."
+msgstr "पार्टनर की बुनियादी जानकारी और उनकी स्थिति"
+
+#: src/Features/Reports/index.jsx:153
+msgid "Partner's basic Information & their status."
+msgstr "पार्टनर की बुनियादी जानकारी और उनकी स्थिति."
+
+#: src/Features/Reports/index.jsx:226
+msgid "Partner's product information and their periodical product sale."
+msgstr "पार्टनर की उत्पाद जानकारी और उनकी आवधिक उत्पाद बिक्री।"
+
+#: src/Features/Home/Home.jsx:1021
+msgid "Pending Partner"
+msgstr "लंबित साथी"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:313
+msgid "Potential Parnter"
+msgstr "संभावित भागीदार"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:311
+msgid "Potential Partner / Agent Info "
+msgstr "संभावित भागीदार / एजेंट जानकारी"
+
+#: src/Features/Home/Tabs..jsx:332
+#: src/Features/Home/Tabs..jsx:352
+msgid "Potential Partners"
+msgstr "संभावित भागीदार"
+
+#: src/Features/Home/Tabs..jsx:337
+#: src/Features/Home/Tabs..jsx:416
+msgid "Potential Tenants"
+msgstr "संभावित किरायेदार"
+
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:420
+#: src/Features/BackOffice/index.jsx:1218
+#: src/Features/TroubleTicket/Dashboard/index.jsx:422
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:641
+msgid "Previous Page"
+msgstr "पिछला पृष्ठ"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:263
+msgid "Primary Contact"
+msgstr "प्राथमिक सम्पर्क"
+
+#: src/Features/Home/PartnerAndAgentInfo/index.jsx:561
+#: src/Features/PotentialLead/PotentialLead.jsx:514
+#: src/Features/TroubleTicket/LogTicket/MinimizeLogTicket.jsx:326
+msgid "Proceed"
+msgstr "आगे बढ़ना"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:403
+msgid "Product Count"
+msgstr "उत्पाद गणना"
+
+#: src/lib/constants/constantview.js:49
+msgid "Product Details"
+msgstr "उत्पाद विवरण"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:215
+msgid "Product Technology"
+msgstr "उत्पाद प्रौद्योगिकी"
+
+#: src/Features/360/Partner360/ProductList.jsx:148
+#: src/lib/constants/constantview.js:75
+msgid "Products"
+msgstr "उत्पादों"
+
+#: src/Features/BackOffice/TicketDetailsWrapper/WorkflowDetails.jsx:17
+msgid "Provisioning"
+msgstr "प्रोविजनिंग"
+
+#: src/Components/Modals/Subscription.jsx:100
+#: src/Components/Navbar.jsx:213
+msgid "Quick Links"
+msgstr "त्वरित सम्पक"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:251
+msgid "Quote ID"
+msgstr "कोट आईडी"
+
+#: src/Features/360/Partner360/RecentRequests/Requests.jsx:164
+msgid "RECENT REQUESTS"
+msgstr "हाल के अनुरोध"
+
+#: src/Features/BackOffice/index.jsx:1146
+#: src/lib/constants/partnerTable.js:156
+msgid "REQUEST ID"
+msgstr "अनुरोध आईडी"
+
+#: src/Components/Modals/Quicklink.jsx:173
+msgid "Re-Active Account"
+msgstr ""
+
+#: src/Features/BackOffice/index.jsx:1005
+msgid "Reject Tasks"
+msgstr "कार्य अस्वीकार करें"
+
+#: src/Features/Home/Home.jsx:990
+#: src/Features/Reports/index.jsx:904
+msgid "Reports"
+msgstr "रिपोर्टों"
+
+#: src/lib/constants/constantview.js:100
+msgid "Requests"
+msgstr "अनुरोध"
+
+#: src/Features/BackOffice/index.jsx:1013
+msgid "Resolved Tasks"
+msgstr "हल किए गए कार्य"
+
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:396
+msgid "Resolved Tickets"
+msgstr "हल टिकट"
+
+#: src/Features/Home/Home.jsx:1037
+msgid "Retired Partners"
+msgstr "सेवानिवृत्त भागीदार"
+
+#: src/Features/Reports/index.jsx:290
+msgid "Revenue Summary"
+msgstr "राजस्व सारांश"
+
+#: src/Components/Modals/Quicklink.jsx:153
+#: src/Components/Modals/Subscription.jsx:126
+msgid "Revoke Suspension"
+msgstr "निलंबन वापस लें"
+
+#: src/Components/SearchBar/SearchModal.jsx:152
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:147
+msgid "SEARCH TYPE"
+msgstr "तलाश की विधि"
+
+#: src/Features/360/Partner360/Financial/FinancialTabs.jsx:194
+msgid "SETTLEMENT"
+msgstr "समझौता"
+
+#: src/lib/constants/ContractTable.js:123
+#: src/lib/constants/partnerTable.js:131
+#: src/lib/constants/partnerTable.js:169
+msgid "START  DATE"
+msgstr "आरंभ करने की तिथि"
+
+#: src/lib/constants/partnerTable.js:85
+msgid "START DATE"
+msgstr "आरंभ करने की तिथि"
+
+#: src/Components/SearchBar/SearchModal.jsx:174
+#: src/Components/SubscriptionSearch/SearchsubID.jsx:169
+#: src/lib/constants/ContractTable.js:135
+#: src/lib/constants/Document.js:126
+#: src/lib/constants/partnerTable.js:54
+#: src/lib/constants/partnerTable.js:91
+#: src/lib/constants/partnerTable.js:143
+#: src/lib/constants/partnerTable.js:180
+#: src/lib/constants/partnerTable.js:219
+msgid "STATUS"
+msgstr "दर्जा"
+
+#: src/Components/NotesContainer/components/CreateNote.jsx:196
+msgid "Save"
+msgstr ""
+
+#: src/Components/TableSearch/NormalSearch.jsx:220
+#: src/Components/TableSearch/SearchBar.jsx:157
+#: src/Components/TableSearch/SearchInput.jsx:73
+#: src/Features/360/Partner360/Documents/Documents.jsx:208
+#: src/Features/360/Partner360/Orders/index.jsx:201
+#: src/Features/360/Partner360/RecentRequests/Requests.jsx:190
+msgid "Search"
+msgstr "खोज"
+
+#: src/Components/TableSearch/SearchBar.jsx:178
+#: src/Components/TableSearch/SearchInput.jsx:144
+msgid "Search By"
+msgstr "द्वारा खोज"
+
+#: src/Features/GroupAssignment/Header.jsx:24
+msgid "Search Groups"
+msgstr "समूह खोजें"
+
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:315
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:369
+#: src/Features/BackOffice/index.jsx:1156
+#: src/Features/TroubleTicket/Dashboard/index.jsx:311
+#: src/Features/TroubleTicket/Dashboard/index.jsx:365
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:539
+msgid "Service ID"
+msgstr "सेवा आईडी"
+
+#: src/Components/SearchBar/SearchBar.jsx:356
+msgid "Services"
+msgstr "सेवाएं"
+
+#: src/Components/401Dialog/ReloginDialog.jsx:35
+msgid "Session Expired"
+msgstr "सत्र समाप्त हुआ"
+
+#: src/Components/401Dialog/ReloginDialog.jsx:40
+msgid "Session has expired kindly login again .."
+msgstr "सत्र समाप्त हो गया है कृपया फिर से लॉगिन करें .."
+
+#: src/Components/Modals/Subscription.jsx:108
+#: src/Features/Home/FrequentlyUsedLinks.jsx:27
+msgid "Settlement Rule Creation"
+msgstr "निपटान नियम निर्माण"
+
+#: src/Components/Alert.jsx:142
+msgid "Show Details"
+msgstr "प्रदर्शन का विवरण"
+
+#: src/Components/ReportsFilter.jsx:387
+msgid "Status"
+msgstr "दर्जा"
+
+#: src/Features/PotentialLead/PotentialLead.jsx:397
+msgid "Sub Category"
+msgstr "उप श्रेणी"
+
+#: src/Components/SearchBar/SearchModal.jsx:629
+#: src/Features/TroubleTicket/LogTicket/MaximizeLogTicker.jsx:1832
+msgid "Submit"
+msgstr "प्रस्तुत करना"
+
+#: src/Features/Reports/index.jsx:281
+msgid "Summarized view of payment made against the partner invoices."
+msgstr "पार्टनर इनवॉइस के लिए किए गए भुगतान का संक्षिप्त दृश्य।"
+
+#: src/Components/Modals/Quicklink.jsx:132
+#: src/Components/Modals/Subscription.jsx:121
+msgid "Suspend Partner/Tenant"
+msgstr "साझेदार/किरायेदार को निलंबित करें"
+
+#: src/Features/Home/Home.jsx:1029
+msgid "Suspended Partners"
+msgstr "निलंबित भागीदार"
+
+#: src/Features/360/Partner360/Users/UserTabs.jsx:144
+msgid "TENANT"
+msgstr "किरायेदार"
+
+#: src/lib/constants/partnerTable.js:104
+msgid "TENANT ID"
+msgstr "किरायेदार आईडी"
+
+#: src/lib/constants/partnerTable.js:112
+msgid "TENANT NAME"
+msgstr "किरायेदार का नाम"
+
+#: src/Features/360/Partner360/Financial/FinancialTabs.jsx:204
+msgid "TRANSACTIONS"
+msgstr "लेनदेन"
+
+#: src/Components/Table/RenderTable.jsx:235
+msgid "Task Allocations policy"
+msgstr "कार्य आवंटन नीति"
+
+#: src/Features/GroupAssignment/TaskAssignment/index.jsx:99
+msgid "Task Assignment"
+msgstr "कार्य सौपना"
+
+#: src/Features/GroupAssignment/TabsGroup.jsx:46
+msgid "Tasks"
+msgstr "कार्य"
+
+#: src/Features/BackOffice/index.jsx:1036
+msgid "Team Task"
+msgstr "टीम टास्क"
+
+#: src/Components/SearchBar/SearchCustomerListItem.jsx:414
+msgid "Tenant Count"
+msgstr "किरायेदार गणना"
+
+#: src/lib/constants/constantview.js:36
+msgid "Tenant Details"
+msgstr "किरायेदार विवरण"
+
+#: src/Features/360/Partner360/TenantList.jsx:119
+#: src/lib/constants/constantview.js:63
+msgid "Tenants"
+msgstr "किरायेदारों"
+
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:307
+#: src/Features/360/Partner360/PartnerTickets/index.jsx:363
+#: src/Features/TroubleTicket/Dashboard/index.jsx:303
+#: src/Features/TroubleTicket/Dashboard/index.jsx:359
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:529
+msgid "Ticket ID"
+msgstr "टिकट आईडी"
+
+#: src/Features/Home/Home.jsx:208
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:85
+#: src/Features/TroubleTicket/Components/TicketStatusCard.jsx:710
+msgid "Today"
+msgstr "आज"
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:83
+msgid "Today's summary"
+msgstr "आज का सारांश"
+
+#: src/Features/Home/Home.jsx:1125
+msgid "Top 5"
+msgstr "शीर्ष 5"
+
+#: src/Features/Home/Home.jsx:1045
+msgid "Total Count"
+msgstr "कुल संख्या"
+
+#: src/Features/TroubleTicket/PartnerTickets/index.jsx:380
+msgid "Total Interaction"
+msgstr "कुल बातचीत"
+
+#: src/Features/360/Partner360/Users/index.jsx:98
+#: src/Features/GroupAssignment/TabsGroup.jsx:50
+#: src/lib/constants/constantview.js:133
+msgid "Users"
+msgstr "उपयोगकर्ताओं"
+
+#: src/Features/Reports/index.jsx:304
+msgid "View of partner accounts which are due for final settlements."
+msgstr "साझेदार खातों का दृश्य जो अंतिम निपटान के लिए हैं।"
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:61
+msgid "Wallet Details"
+msgstr "वॉलेट विवरण"
+
+#: src/Features/360/Partner360/Financial/Wallet.jsx:74
+msgid "Wallet ID"
+msgstr "वॉलेट आईडी"
+
+#: src/Features/BackOffice/index.jsx:962
+msgid "Your Performance"
+msgstr "आपका प्रदर्शन"
+
+#: src/Components/TableSearch/NormalSearch.jsx:221
+#: src/Features/360/Partner360/Documents/Documents.jsx:209
+#: src/Features/360/Partner360/Orders/index.jsx:202
+#: src/Features/360/Partner360/RecentRequests/Requests.jsx:191
+msgid "bottom"
+msgstr "नीचे"
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:280
+msgid "completed"
+msgstr "पूरा किया हुआ"
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:275
+msgid "created"
+msgstr "बनाया था"
+
+#: src/Features/Orders&Requests/Orders-Requests/index.jsx:285
+msgid "terminated"
+msgstr "समाप्त"
+
+#: src/Components/NotesContainer/MyNotesCards.js:26
+#: src/Components/NotesContainer/NotesCard.jsx:22
+msgid "See All Notes"
+msgstr "सभी नोट्स देखें"
+
+#: src/Components/NotesContainer/MyNotesCards.js:27
+#: src/Components/NotesContainer/NotesCard.jsx:22
+msgid "Hide Notes"
+msgstr "नोट्स छुपाएँ"
+
+#: src/Components/Charts/Amchartsgraph.jsx:13
+msgid "Partner Name"
+msgstr "साथी का नाम"
+
+#: src/Components/Charts/Amchartsgraph.jsx:14
+msgid "Product Sold"
+msgstr "बेचे गए उत्पाद"
+
+#: src/Components/ReportsFilter.jsx:157
+msgid "Filters"
+msgstr "फ़िल्टर"
+
+#: src/Components/ReportsFilter.jsx:166
+msgid "FROM DATE"
+msgstr "तारीख से"
+
+#: src/Components/ReportsFilter.jsx:166
+msgid "TO DATE"
+msgstr "आज तक"
+
+#: src/Features/Home/Tabs..jsx:219
+#: src/Features/Home/Tabs..jsx:219
+msgid "Partner Id"
+msgstr "पार्टनर आईडी"
+
+#: src/Features/Home/Tabs..jsx:121
+#: src/Features/Home/Tabs..jsx:121
+msgid "Email"
+msgstr "ईमेल"
+
+#: src/Features/Home/Tabs..jsx:122
+#: src/Features/Home/Tabs..jsx:122
+msgid "Mobile"
+msgstr "मोबाइल"
+
+#: src/Features/Home/Tabs..jsx:123
+#: src/Features/Home/Tabs..jsx:123
+msgid "Tenant Id"
+msgstr "किरायेदार आईडी"
+
+#: src/Features/Home/Tabs..jsx:123
+#: src/Features/Home/Tabs..jsx:123
+msgid "Tenant Name"
+msgstr "किरायेदार का नाम"
+
+#: src/Components/tables/RenderTable.jsx:73
+msgid "of"
+msgstr "का"
+
+#: src/Components/tables/RenderTable.jsx:74
+msgid "Rows Per Page"
+msgstr "प्रति पृष्ठ पंक्तियाँ"
+
+#: src/Components/ReportsFilter.jsx:132
+msgid "Active"
+msgstr "सक्रिय"
+
+#: src/Components/ReportsFilter.jsx:133
+msgid "Pending"
+msgstr "विचाराधीन"
+
+#: src/Components/ReportsFilter.jsx:135
+msgid "Rejected"
+msgstr "खारिज कर दिया"

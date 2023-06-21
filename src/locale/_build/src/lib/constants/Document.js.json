@@ -1,0 +1,66 @@
+{
+  "Create Date": {
+    "origin": [
+      [
+        "src/lib/constants/Document.js",
+        97
+      ]
+    ]
+  },
+  "ID": {
+    "origin": [
+      [
+        "src/lib/constants/Document.js",
+        102
+      ]
+    ]
+  },
+  "DOCUMENT TYPE": {
+    "origin": [
+      [
+        "src/lib/constants/Document.js",
+        107
+      ]
+    ]
+  },
+  "NAME": {
+    "origin": [
+      [
+        "src/lib/constants/Document.js",
+        112
+      ]
+    ]
+  },
+  "DMS REFERENCE ID": {
+    "origin": [
+      [
+        "src/lib/constants/Document.js",
+        116
+      ]
+    ]
+  },
+  "EXPIRY DATE": {
+    "origin": [
+      [
+        "src/lib/constants/Document.js",
+        120
+      ]
+    ]
+  },
+  "STATUS": {
+    "origin": [
+      [
+        "src/lib/constants/Document.js",
+        126
+      ]
+    ]
+  },
+  "Action": {
+    "origin": [
+      [
+        "src/lib/constants/Document.js",
+        135
+      ]
+    ]
+  }
+}

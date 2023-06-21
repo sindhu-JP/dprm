@@ -1,0 +1,28 @@
+<svg id="Group_69035" data-name="Group 69035" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_69034" data-name="Group 69034" transform="translate(0)">
+    <g id="information" transform="translate(4 4)">
+      <g id="Group_64821" data-name="Group 64821" transform="translate(0 0)">
+        <g id="Group_64820" data-name="Group 64820">
+          <g id="Group_64822" data-name="Group 64822" transform="translate(10.065 7.252)">
+            <circle id="Ellipse_2936" data-name="Ellipse 2936" cx="1.203" cy="1.203" r="1.203" transform="translate(2.646 10.824)" fill="#999"/>
+            <path id="Path_45092" data-name="Path 45092" d="M179.849,128.5A3.853,3.853,0,0,0,176,132.349a.962.962,0,0,0,1.924,0,1.924,1.924,0,1,1,1.924,1.924.962.962,0,0,0-.962.962v2.405a.962.962,0,0,0,1.924,0v-1.565a3.849,3.849,0,0,0-.962-7.576Z" transform="translate(-176 -128.5)" fill="#999"/>
+          </g>
+          <g id="Ellipse_2937" data-name="Ellipse 2937" fill="none" stroke="#999" stroke-width="1">
+            <circle cx="14" cy="14" r="14" stroke="none"/>
+            <circle cx="14" cy="14" r="13.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="information-2" data-name="information" transform="translate(0)">
+      <g id="Group_64821-2" data-name="Group 64821">
+        <g id="Group_64820-2" data-name="Group 64820">
+          <g id="Ellipse_2938" data-name="Ellipse 2938" fill="none" stroke="#999" stroke-width="1">
+            <circle cx="18" cy="18" r="18" stroke="none"/>
+            <circle cx="18" cy="18" r="17.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

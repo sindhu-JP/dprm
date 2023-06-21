@@ -1,0 +1,130 @@
+{
+  "Contact Number": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        128
+      ]
+    ]
+  },
+  "ENTER CONTACT NUMBER": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        129
+      ]
+    ]
+  },
+  "Email ID": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        133
+      ]
+    ]
+  },
+  "ENTER EMAIL ID": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        134
+      ]
+    ]
+  },
+  "SEARCH TYPE": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        152
+      ]
+    ]
+  },
+  "CONTACT NUMBER": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        158
+      ]
+    ]
+  },
+  "DATE OF BIRTH": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        163
+      ]
+    ]
+  },
+  "EMAIL ID": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        169
+      ]
+    ]
+  },
+  "STATUS": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        174
+      ]
+    ]
+  },
+  "NATIONAL ID": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        179
+      ]
+    ]
+  },
+  "No Data Available": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        189
+      ]
+    ]
+  },
+  "Enter atleast 3 characters": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        239
+      ]
+    ]
+  },
+  "Advance Search": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        563
+      ]
+    ]
+  },
+  "Normal Search": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        574
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        617
+      ]
+    ]
+  },
+  "Submit": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchModal.jsx",
+        629
+      ]
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  " Digital partner Relationship Manager": {
+    "origin": [
+      [
+        "src/Components/Footer/Footer360.jsx",
+        123
+      ]
+    ]
+  },
+  "Copyright": {
+    "origin": [
+      [
+        "src/Components/Footer/Footer360.jsx",
+        129
+      ]
+    ]
+  }
+}

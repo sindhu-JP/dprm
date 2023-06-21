@@ -1,0 +1,158 @@
+{
+  "Partner Summary": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        151
+      ],
+      [
+        "src/Features/Reports/index.jsx",
+        191
+      ]
+    ]
+  },
+  "Partner's basic Information & their status.": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        153
+      ]
+    ]
+  },
+  "Partner's basic Information & their status .": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        196
+      ]
+    ]
+  },
+  "Partner Product Summary": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        223
+      ]
+    ]
+  },
+  "Partner's product information and their periodical product sale.": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        226
+      ]
+    ]
+  },
+  "Partner Order Summary": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        247
+      ]
+    ]
+  },
+  "Information of order placed against each product and periodical order history.": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        250
+      ]
+    ]
+  },
+  "Partner Sales Summary": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        267
+      ]
+    ]
+  },
+  "Holistic view of sales progress achieved by multiple partners.": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        270
+      ]
+    ]
+  },
+  "Partner Payment Summary": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        278
+      ]
+    ]
+  },
+  "Summarized view of payment made against the partner invoices.": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        281
+      ]
+    ]
+  },
+  "Revenue Summary": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        290
+      ]
+    ]
+  },
+  "Consolidated revenue of all the products launched and sold across channels.": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        293
+      ]
+    ]
+  },
+  "Partner Settlement Summary": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        301
+      ]
+    ]
+  },
+  "View of partner accounts which are due for final settlements.": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        304
+      ]
+    ]
+  },
+  "Partner Trouble Ticket Summary": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        313
+      ],
+      [
+        "src/Features/Reports/index.jsx",
+        315
+      ]
+    ]
+  },
+  "Partner Customer Ticket Summary": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        333
+      ],
+      [
+        "src/Features/Reports/index.jsx",
+        335
+      ]
+    ]
+  },
+  "Reports": {
+    "origin": [
+      [
+        "src/Features/Reports/index.jsx",
+        914
+      ]
+    ]
+  }
+}

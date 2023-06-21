@@ -1,0 +1,18 @@
+{
+  "Clear": {
+    "origin": [
+      [
+        "src/Components/SearchBar/DropDownPill.jsx",
+        159
+      ]
+    ]
+  },
+  "Apply": {
+    "origin": [
+      [
+        "src/Components/SearchBar/DropDownPill.jsx",
+        170
+      ]
+    ]
+  }
+}

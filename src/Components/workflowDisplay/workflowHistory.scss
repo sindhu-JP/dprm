@@ -1,0 +1,89 @@
+// .display-history {
+//   .liuumT ul,
+//   .liuumT ol {
+//     display: none;
+//   }
+// }
+
+// // .card-container {
+// //   position: absolute;
+// //   width: 23vw;
+// //   right: 0;
+// //   height: 100vh;
+// //   top: 77px;
+// //   background-color: ghostwhite;
+// //   .ant-tabs-content-holder {
+// //     height: 89vh;
+// //     overflow-x: scroll;
+// //     overflow-y: scroll;
+// //   }
+// // }
+
+// .properties-header {
+//   font-size: initial;
+//   font-weight: bold;
+//   // font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+// }
+
+// .workFlowTable{
+//   .ant-spin-nested-loading{
+//     position: relative;
+//     width: 60vw;
+//   }
+// }
+
+
+
+.workflow-history-table {
+  height: 69vh;
+  position: relative;
+  width: 100%;
+
+  .ant-table-wrapper {
+      position: relative;
+      margin-left: -212px;
+      .ant-spin-container {
+          width: 55vw;
+      }
+  }
+}
+
+.display-history {
+  .liuumT ul,
+  .liuumT ol {
+      display: none;
+  }
+}
+
+// .card-container {
+//   position: absolute;
+//   width: 23vw;
+//   right: 0;
+//   height: 100vh;
+//   top: 77px;
+//   background-color: ghostwhite;
+//   .ant-tabs-content-holder {
+//       height: 89vh;
+//       overflow-x: hidden;
+//       overflow-y: scroll;
+//   }
+// }
+
+.properties-header {
+  font-size: initial;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+// .ant-modal-body {
+//     height: 65vh !important;
+// }
+
+.xjtvc {
+position: absolute !important;
+}
+.xjtvc {
+height: 10000px !important;
+}
+.liuumT {
+min-height: 60vh !important;
+}

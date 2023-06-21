@@ -1,0 +1,26 @@
+{
+  "Quick Links": {
+    "origin": [
+      [
+        "src/Components/Modals/Subscription.jsx",
+        83
+      ]
+    ]
+  },
+  "Settlement Rule Creation": {
+    "origin": [
+      [
+        "src/Components/Modals/Subscription.jsx",
+        91
+      ]
+    ]
+  },
+  "Commission Rule Creation": {
+    "origin": [
+      [
+        "src/Components/Modals/Subscription.jsx",
+        99
+      ]
+    ]
+  }
+}

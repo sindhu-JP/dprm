@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.893" height="35.98" viewBox="0 0 35.893 35.98">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-1,.cls-2,.cls-3,.cls-4{stroke:#57606f}.cls-1,.cls-2,.cls-4{stroke-miterlimit:10}.cls-2{fill:#fff}.cls-3{fill:#cecece}.cls-4{stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="Appointments" transform="translate(-3582.38 -880.413)">
+        <path id="Path_37656" d="M3601.689 916.666H3590.9a8.02 8.02 0 0 1-8.02-8.02v-15.828a8.02 8.02 0 0 1 8.02-8.02h18.853a8.021 8.021 0 0 1 8.02 8.02v7.26" class="cls-1" data-name="Path 37656" transform="translate(0 -.772)"/>
+        <rect id="Rectangle_9825" width="3.377" height="8.283" class="cls-2" data-name="Rectangle 9825" rx="1.688" transform="translate(3589.844 880.913)"/>
+        <rect id="Rectangle_9826" width="3.377" height="8.283" class="cls-2" data-name="Rectangle 9826" rx="1.688" transform="translate(3598.637 880.913)"/>
+        <rect id="Rectangle_9827" width="3.377" height="8.283" class="cls-2" data-name="Rectangle 9827" rx="1.688" transform="translate(3607.431 880.913)"/>
+        <circle id="Ellipse_239" cx="1.656" cy="1.656" r="1.656" class="cls-1" data-name="Ellipse 239" transform="translate(3589.876 893.449)"/>
+        <circle id="Ellipse_240" cx="1.656" cy="1.656" r="1.656" class="cls-1" data-name="Ellipse 240" transform="translate(3595.656 893.449)"/>
+        <circle id="Ellipse_241" cx="1.656" cy="1.656" r="1.656" class="cls-1" data-name="Ellipse 241" transform="translate(3601.437 893.449)"/>
+        <circle id="Ellipse_242" cx="1.656" cy="1.656" r="1.656" class="cls-1" data-name="Ellipse 242" transform="translate(3607.217 893.449)"/>
+        <circle id="Ellipse_243" cx="1.656" cy="1.656" r="1.656" class="cls-1" data-name="Ellipse 243" transform="translate(3589.876 899.306)"/>
+        <circle id="Ellipse_244" cx="1.656" cy="1.656" r="1.656" class="cls-1" data-name="Ellipse 244" transform="translate(3595.656 899.306)"/>
+        <circle id="Ellipse_245" cx="1.656" cy="1.656" r="1.656" class="cls-1" data-name="Ellipse 245" transform="translate(3589.876 905.162)"/>
+        <circle id="Ellipse_246" cx="1.656" cy="1.656" r="1.656" class="cls-1" data-name="Ellipse 246" transform="translate(3595.656 905.162)"/>
+        <path id="Path_37727" d="M8.248 0A8.248 8.248 0 1 1 0 8.248 8.248 8.248 0 0 1 8.248 0z" class="cls-3" data-name="Path 37727" transform="translate(3601.276 899.309)"/>
+        <path id="Path_37657" d="M3616.135 909.3v3.746h5.671" class="cls-4" data-name="Path 37657" transform="translate(-6.611 -5.642)"/>
+    </g>
+</svg>

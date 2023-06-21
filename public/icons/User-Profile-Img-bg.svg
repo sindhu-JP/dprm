@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.001" height="56" viewBox="0 0 56.001 56">
+    <defs>
+        <style>
+            .cls-user-profile-img{fill:#F3F4F9}
+        </style>
+    </defs>
+    <g id="User-Profile-Img-bg" transform="translate(-155 -308.696)">
+        <path id="Path_27415" d="M103.276 308.319a28 28 0 1 1 28-28 28.031 28.031 0 0 1-28 28zm0-55a27 27 0 1 0 27 27 27.032 27.032 0 0 0-27-27z" class="cls-1" data-name="Path 27415" transform="translate(79.724 56.377)"/>
+        <circle id="Ellipse_2" cx="28" cy="28" r="28" class="cls-user-profile-img" data-name="Ellipse 2" transform="translate(155.001 308.696)"/>
+        <path id="Path_27416" d="M103.189 283.021a7.1 7.1 0 1 1 7.1-7.1 7.11 7.11 0 0 1-7.1 7.1zm0-13.2a6.1 6.1 0 1 0 6.1 6.1 6.108 6.108 0 0 0-6.1-6.102z" class="cls-1" data-name="Path 27416" transform="translate(79.724 56.377)"/>
+        <path id="Path_27417" d="M91.774 291.96l-.994-.106a12.979 12.979 0 0 1 6.553-9.927l.489.873a11.973 11.973 0 0 0-6.048 9.16z" class="cls-1" data-name="Path 27417" transform="translate(79.724 56.377)"/>
+        <path id="Path_27418" d="M114.606 291.958a11.97 11.97 0 0 0-6.047-9.161l.488-.873a12.977 12.977 0 0 1 6.554 9.927z" class="cls-1" data-name="Path 27418" transform="translate(79.724 56.377)"/>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.667" height="46.679" viewBox="0 0 39.667 46.679">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.579" r="0.684" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9d233"/>
+      <stop offset="1" stop-color="#e2b728"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_64712" data-name="Group 64712" transform="translate(0 0)">
+    <path id="Path_44415" data-name="Path 44415" d="M-69.65,998.34c-.6,26.034-38.936,26.206-39.623,0-.86-4.856,10.836-30.594,26.413-26.687C-83.516,983.9-69.669,982.42-69.65,998.34Z" transform="translate(109.317 -971.251)" fill="url(#radial-gradient)"/>
+    <g id="Group_64620" data-name="Group 64620" transform="translate(9.434 26.751)">
+      <g id="Group_64609" data-name="Group 64609">
+        <line id="Line_2" data-name="Line 2" x2="8.639" transform="translate(6.079 5.546)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="3"/>
+        <path id="Path_44386" data-name="Path 44386" d="M1006.862-136.233a3.04,3.04,0,0,0,3.04-3.04h-6.08A3.04,3.04,0,0,0,1006.862-136.233Z" transform="translate(-1003.822 139.273)" fill="#212121"/>
+        <path id="Path_44387" data-name="Path 44387" d="M1052.862-136.233a3.04,3.04,0,0,0,3.04-3.04h-6.08A3.04,3.04,0,0,0,1052.862-136.233Z" transform="translate(-1035.103 139.273)" fill="#212121"/>
+        <line id="Line_3" data-name="Line 3" x2="2.52" transform="translate(2.88 0.665)" fill="none" stroke="#feeb98" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_4" data-name="Line 4" x2="2.52" transform="translate(17.598 0.665)" fill="none" stroke="#feeb98" stroke-linecap="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

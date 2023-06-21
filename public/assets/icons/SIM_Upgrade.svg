@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="25.96" viewBox="0 0 22 25.96">
+    <defs>
+              .cls-2{fill:#0f273e}
+        </style>
+    </defs>
+    <g id="SIM_Upgrade" transform="translate(-164.229 -285.98)">
+        <g id="Group_34672" data-name="Group 34672" transform="translate(-379 -73.101)">
+            <g id="Group_34565" data-name="Group 34565" transform="translate(534 352)">
+                <g id="Group_34563" data-name="Group 34563">
+                    <g id="Group_34562" data-name="Group 34562">
+                        <path id="Path_27505" d="M6.86 3.49L10.2 0H24v25.96H2V8.56z"  data-name="Path 27505" transform="translate(7.229 7.081)"/>
+                        <path id="Path_27502" d="M.448 0h1.79a.448.448 0 0 1 .448.448v6.266a.448.448 0 0 1-.448.448H.448A.448.448 0 0 1 0 6.714V.448A.448.448 0 0 1 .448 0z"  data-name="Path 27502" transform="translate(21.428 9.766)"/>
+                        <path id="Path_27503" d="M.448 0h1.79a.448.448 0 0 1 .448.448v6.266a.448.448 0 0 1-.448.448H.448A.448.448 0 0 1 0 6.714V.448A.448.448 0 0 1 .448 0z"  data-name="Path 27503" transform="translate(25.753 9.766)"/>
+                        <path id="Path_27504" d="M.448 0h1.79a.448.448 0 0 1 .448.448v6.266a.448.448 0 0 1-.448.448H.448A.448.448 0 0 1 0 6.714V.448A.448.448 0 0 1 .448 0z"  data-name="Path 27504" transform="translate(17.345 9.766)"/>
+                    </g>
+                </g>
+            </g>
+            <g id="noun_change_126426" transform="translate(553.6 373.459)">
+                <g id="Group_34559" data-name="Group 34559">
+                    <g id="Group_34555" data-name="Group 34555" transform="translate(.268)">
+                        <path id="Path_27498" d="M17.52 11.879a3.889 3.889 0 0 0-3.467-.322 4.267 4.267 0 0 0-2.153 1.635l.643.429A3.4 3.4 0 0 1 14.3 12.29a3.5 3.5 0 0 1 2.636.17l-.572.447 2.898 1.493-1.251-3.2z"  data-name="Path 27498" transform="translate(-11.9 -11.2)"/>
+                    </g>
+                    <g id="Group_34556" data-name="Group 34556" transform="translate(0 3.69)">
+                        <path id="Path_27499" d="M10.642 55.011a3.889 3.889 0 0 0 3.467.322 4.267 4.267 0 0 0 2.153-1.633l-.643-.429a3.4 3.4 0 0 1-1.76 1.331 3.5 3.5 0 0 1-2.636-.17l.572-.447L8.9 52.5l1.251 3.2z"  data-name="Path 27499" transform="translate(-8.9 -52.5)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

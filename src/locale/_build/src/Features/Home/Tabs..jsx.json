@@ -1,0 +1,26 @@
+{
+  "Potential Partners": {
+    "origin": [
+      [
+        "src/Features/Home/Tabs..jsx",
+        336
+      ],
+      [
+        "src/Features/Home/Tabs..jsx",
+        356
+      ]
+    ]
+  },
+  "Potential Tenants": {
+    "origin": [
+      [
+        "src/Features/Home/Tabs..jsx",
+        341
+      ],
+      [
+        "src/Features/Home/Tabs..jsx",
+        420
+      ]
+    ]
+  }
+}

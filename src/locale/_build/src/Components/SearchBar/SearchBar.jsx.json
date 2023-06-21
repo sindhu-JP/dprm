@@ -1,0 +1,46 @@
+{
+  "No Data Found For Search Criteria": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchBar.jsx",
+        169
+      ],
+      [
+        "src/Components/SearchBar/SearchBar.jsx",
+        390
+      ]
+    ]
+  },
+  "National ID": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchBar.jsx",
+        337
+      ]
+    ]
+  },
+  "Services": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchBar.jsx",
+        356
+      ]
+    ]
+  },
+  "Fetching": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchBar.jsx",
+        386
+      ]
+    ]
+  },
+  "Customer Authentication Successful.": {
+    "origin": [
+      [
+        "src/Components/SearchBar/SearchBar.jsx",
+        491
+      ]
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "CONTRACT ID": {
+    "origin": [
+      [
+        "src/lib/constants/ContractTable.js",
+        98
+      ]
+    ]
+  },
+  "PARTNER ID": {
+    "origin": [
+      [
+        "src/lib/constants/ContractTable.js",
+        102
+      ]
+    ]
+  },
+  "PARTNER/PRODUCT NAME": {
+    "origin": [
+      [
+        "src/lib/constants/ContractTable.js",
+        106
+      ]
+    ]
+  },
+  "CONTRACT": {
+    "origin": [
+      [
+        "src/lib/constants/ContractTable.js",
+        110
+      ]
+    ]
+  },
+  "CONTRACT TYPE": {
+    "origin": [
+      [
+        "src/lib/constants/ContractTable.js",
+        114
+      ]
+    ]
+  },
+  "CONTRACT PERIOD": {
+    "origin": [
+      [
+        "src/lib/constants/ContractTable.js",
+        118
+      ]
+    ]
+  },
+  "START  DATE": {
+    "origin": [
+      [
+        "src/lib/constants/ContractTable.js",
+        123
+      ]
+    ]
+  },
+  "END DATE": {
+    "origin": [
+      [
+        "src/lib/constants/ContractTable.js",
+        129
+      ]
+    ]
+  },
+  "STATUS": {
+    "origin": [
+      [
+        "src/lib/constants/ContractTable.js",
+        135
+      ]
+    ]
+  }
+}

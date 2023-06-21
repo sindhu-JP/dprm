@@ -1,0 +1,106 @@
+{
+  "Potential Partner / Agent Info ": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        251
+      ]
+    ]
+  },
+  "Potential Parnter": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        253
+      ]
+    ]
+  },
+  "Partner": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        269
+      ]
+    ]
+  },
+  "Agent": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        271
+      ]
+    ]
+  },
+  "Agent Name": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        311
+      ]
+    ]
+  },
+  "Agent LastName": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        328
+      ]
+    ]
+  },
+  "Agent MSISDN": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        344
+      ]
+    ]
+  },
+  "EMAIL": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        361
+      ]
+    ]
+  },
+  "Agent Category": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        377
+      ]
+    ]
+  },
+  "Agent SubCategory": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        426
+      ]
+    ]
+  },
+  "NID/Passport/Refugee ID": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        456
+      ]
+    ]
+  },
+  "Clear": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        488
+      ]
+    ]
+  },
+  "Proceed": {
+    "origin": [
+      [
+        "src/Features/Home/PartnerAndAgentInfo/index.jsx",
+        499
+      ]
+    ]
+  }
+}

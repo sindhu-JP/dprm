@@ -1,0 +1,130 @@
+{
+  "All": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        203
+      ]
+    ]
+  },
+  "Today": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        208
+      ]
+    ]
+  },
+  "Last week": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        213
+      ]
+    ]
+  },
+  "Last 1 Month": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        218
+      ]
+    ]
+  },
+  "Last 3 Month": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        223
+      ]
+    ]
+  },
+  "Reports": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        973
+      ]
+    ]
+  },
+  "Active Partners": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        994
+      ]
+    ]
+  },
+  "Pending Partner": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        1002
+      ]
+    ]
+  },
+  "Suspended Partners": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        1010
+      ]
+    ]
+  },
+  "Retired Partners": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        1018
+      ]
+    ]
+  },
+  "Total Count": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        1026
+      ]
+    ]
+  },
+  "Partner Sales Summary": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        1066
+      ]
+    ]
+  },
+  "Top 5": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        1088
+      ]
+    ]
+  },
+  "Bottom 5": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        1091
+      ]
+    ]
+  },
+  "No Information Available": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        1218
+      ]
+    ]
+  },
+  "Partner Products": {
+    "origin": [
+      [
+        "src/Features/Home/Home.jsx",
+        1326
+      ]
+    ]
+  }
+}

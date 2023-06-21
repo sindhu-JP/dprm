@@ -1,0 +1,139 @@
+// Here you can add other styles
+//Padding
+body{
+    .inlineBlock{display:inline-block;}
+    .paddingAll-0{padding:0!important;}
+    .paddingAll{padding:0.5rem!important;}
+    .minPaddingAll{padding:2.0rem!important;}
+    .clear{clear:both}
+    .maxPaddingTop{
+        padding-top:4.5rem;
+    }
+    .maxlineHeight{line-height:4rem;}
+    .pt-0 {
+        padding-top: 0!important;
+    }
+    .pb-0{
+        padding-bottom: 0!important;
+    }
+    .pl-0{
+        padding-left: 0!important;
+    } 
+    .pr-0{
+        padding-right: 0!important;
+    }
+    
+    .pt-2{
+        padding-top: .5rem!important;
+    }
+    .pb-2{
+        padding-bottom: .5rem!important;
+    }
+    .pl-2{
+        padding-left: .5rem!important;
+    }
+    .pr-2{
+        padding-right: .5rem!important;
+    }
+    .pt-2x{
+        padding-top: 1.0rem!important;
+    }
+    .pb-2x{
+        padding-bottom: 1.0rem!important;
+    }
+    .pl-2x{
+        padding-left: 1.0rem!important;
+    }
+    .pr-2x{
+        padding-right: 1.0rem!important;
+    }
+    //Margin
+    .marginReset-0{margin:0!important}
+    .marginAll{margin:.5rem!important;}
+    .maxMarginTop{
+        margin-top:4.5rem;
+    }
+    .minMarginTop{
+        margin-top:2.5rem;
+    }
+    .mt-m1{margin-top:-1px;}
+    .mt-0 {
+        margin-top: 0!important;
+    }
+    .mb-0 {
+        margin-bottom: 0!important;
+    }
+    .ml-0 {
+        margin-left: 0!important;
+    }
+    .mr-0 {
+        margin-right: 0!important;
+    }
+    
+    .mt-2 {
+        margin-top: .5rem!important;
+    }
+    .mb-2 {
+        margin-bottom: .5rem!important;
+    }
+    .ml-2 {
+        margin-left: .5rem!important;
+    }
+    .mr-2 {
+        margin-right: .5rem!important;
+    }
+    .mt-2x {
+        margin-top: 1.0rem!important;
+    }
+    .mb-2x {
+        margin-bottom: 1.0rem!important;
+    }
+    .ml-2x {
+        margin-left: 1.0rem!important;
+    }
+    .mr-2x {
+        margin-right: 1.0rem!important;
+    }
+
+    .mt-4x {
+        margin-top: 1.5rem!important;
+    }
+    .mb-4x {
+        margin-bottom: 1.5rem!important;
+    }
+    .ml-4x {
+        margin-left: 1.5rem!important;
+    }
+    .mr-4x {
+        margin-right: 1.5rem!important;
+    }
+    
+    /* Border Reset */
+    .b-radius-0{
+     border-radius: 0
+    }
+    .btl-radius-0{border-top-left-radius:0;}
+    .btr-radius-0{border-top-right-radius:0;}
+    .bbl-radius-0{border-bottom-left-radius:0;}
+    .bbr-radius-0{border-bottom-right-radius:0;}
+    
+    .btl-radius-2{border-top-left-radius:.5rem!important;}
+    .btr-radius-2{border-top-right-radius:.5rem!important;}
+    .bbl-radius-2{border-bottom-left-radius:.5rem!important;}
+    .bbr-radius-2{border-bottom-right-radius:.5rem!important;}
+    .border-radiusAll-2{border-radius:1.5rem;}
+    .bt-0{border-top:0}
+    .bl-0{border-left:0}
+    .br-0{border-right:0}
+    .bb-0{border-bottom:0}
+    .borderReset{border-top:0;border-left:0;border-right:0;border-bottom:0}
+    .bt-1{border-top:1px solid #ededed; }
+    .bl-1{border-left:1px solid #ededed;}
+    .br-1{border-right:1px solid #ededed;}
+    .br-dotted-1{border-right:1px dotted #ededed;}
+    .bb-1{border-bottom:1px solid #ededed;}
+    .bordered{border: 1px solid #ededed;}
+    /*Reset Padding,margin font border End*/
+    .row{margin-bottom:20px;}
+    .uppercase{text-transform: uppercase}
+}

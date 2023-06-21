@@ -1,0 +1,34 @@
+{
+  "INVOICE": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Financial/FinancialTabs.jsx",
+        183
+      ]
+    ]
+  },
+  "SETTLEMENT": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Financial/FinancialTabs.jsx",
+        188
+      ]
+    ]
+  },
+  "ADJUSTMENTS": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Financial/FinancialTabs.jsx",
+        193
+      ]
+    ]
+  },
+  "TRANSACTIONS": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/Financial/FinancialTabs.jsx",
+        198
+      ]
+    ]
+  }
+}

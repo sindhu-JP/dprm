@@ -1,0 +1,42 @@
+{
+  "Ticket ID": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/PartnerTickets/index.jsx",
+        306
+      ],
+      [
+        "src/Features/360/Partner360/PartnerTickets/index.jsx",
+        362
+      ]
+    ]
+  },
+  "Service ID": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/PartnerTickets/index.jsx",
+        314
+      ],
+      [
+        "src/Features/360/Partner360/PartnerTickets/index.jsx",
+        368
+      ]
+    ]
+  },
+  "Previous Page": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/PartnerTickets/index.jsx",
+        419
+      ]
+    ]
+  },
+  "Next Page": {
+    "origin": [
+      [
+        "src/Features/360/Partner360/PartnerTickets/index.jsx",
+        422
+      ]
+    ]
+  }
+}

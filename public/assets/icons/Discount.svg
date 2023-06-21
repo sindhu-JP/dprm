@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.3" height="28" viewBox="0 0 19.3 28">
+  <g transform="rotate(-75 13.5 17.6)">
+    <path d="M1.3 12.2l2.4 8.9a5 5 0 006.2 3.5l12-3.2a4.7 4.7 0 002.6-1.8 73.2 73.2 0 004.8-7.5 3.8 3.8 0 00-1.4-5 73.2 73.2 0 00-7.8-4 4.7 4.7 0 00-3.2-.3L4.9 6a5 5 0 00-3.6 6.2z" fill="#2ed573"/>
+    <circle cx="2.5" cy="2.5" transform="rotate(-105 16.3 -1.7)" opacity=".3" r="2.5"/>
+    <text transform="rotate(75 -3.1 8.9)" fill="#fff" font-size="15" font-family="Roboto-Medium,Roboto" font-weight="500" letter-spacing="0">
+      <tspan x="0" y="0">%</tspan>
+    </text>
+  </g>
+</svg>
